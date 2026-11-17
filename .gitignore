@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Dataset files
+*.tsv
+data/
+
+# Mac system files
+.DS_Store
