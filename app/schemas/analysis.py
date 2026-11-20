@@ -1,5 +1,5 @@
 
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 from typing import Literal
 
 
@@ -17,7 +17,12 @@ class ModalityScores(BaseModel):
 class Evidence(BaseModel):
     text_tokens: list[TokenEvidence]
     image_heatmap_url: str | None
-    mismatch_score: float
+
+    mismatch_score: float = Field(
+        ge=0,
+        le=100,
+        description="Text-image mismatch score from 0 to 100."
+    )
 
 
 class AnalysisResponse(BaseModel):
