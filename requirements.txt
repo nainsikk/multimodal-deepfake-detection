@@ -55,3 +55,11 @@ typing-inspection==0.4.5
 typing_extensions==4.16.0
 tzdata==2026.6
 urllib3==2.8.0
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+reportlab
+pytest
+httpx
+
