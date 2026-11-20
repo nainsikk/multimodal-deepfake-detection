@@ -36,3 +36,31 @@ def test_mismatched_lengths():
 def test_empty_data():
     with pytest.raises(ValueError):
         evaluate_model([], [])
+
+
+def test_roc_auc_and_pr_auc():
+    y_true = [0, 0, 1, 1]
+    y_pred = [0, 0, 1, 1]
+    y_score = [0.1, 0.2, 0.8, 0.9]
+
+    results = evaluate_model(y_true, y_pred, y_score)
+
+    assert results["roc_auc"] == pytest.approx(1.0)
+    assert results["pr_auc"] == pytest.approx(1.0)
+
+
+def test_auc_unavailable_without_scores():
+    results = evaluate_model([0, 1], [0, 1])
+
+    assert results["roc_auc"] is None
+    assert results["pr_auc"] is None
+
+
+def test_mismatched_score_lengths():
+    with pytest.raises(ValueError):
+        evaluate_model([0, 1], [0, 1], [0.5])
+
+
+def test_invalid_prediction_scores():
+    with pytest.raises(ValueError):
+        evaluate_model([0, 1], [0, 1], [0.2, 1.5])
