@@ -23,7 +23,7 @@ class MockPredictor:
                 "evidence": {
                     "text_tokens": [],
                     "image_heatmap_url": None,
-                    "mismatch_score": 0.08
+                    "mismatch_score": 8
                 },
 
                 "explanation":
@@ -48,7 +48,7 @@ class MockPredictor:
                     ],
 
                     "image_heatmap_url": None,
-                    "mismatch_score": 0.87
+                    "mismatch_score": 87
                 },
 
                 "explanation":
@@ -73,7 +73,7 @@ class MockPredictor:
                     ],
 
                     "image_heatmap_url": None,
-                    "mismatch_score": 0.49
+                    "mismatch_score": 49
                 },
 
                 "explanation":
