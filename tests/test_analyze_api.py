@@ -68,6 +68,7 @@ def create_test_image():
 
 
 def test_analyze_success(client):
+    # Test text and image analysis together.
     image = create_test_image()
 
     response = client.post(
@@ -93,6 +94,58 @@ def test_analyze_success(client):
     assert result["prediction"] in ["REAL", "FAKE", "UNCERTAIN"]
     assert 0 <= result["confidence"] <= 1
     assert 0 <= result["evidence"]["mismatch_score"] <= 100
+
+
+def test_analyze_text_only(client):
+    # Test analysis using only text.
+    response = client.post(
+        "/analyze",
+        data={
+            "text": "A news report about flooding.",
+            "modalities": "text"
+        }
+    )
+
+    assert response.status_code == 200
+
+    result = response.json()
+
+    assert result["id"] is not None
+    assert result["modality_scores"]["text"] is not None
+    assert result["modality_scores"]["image"] is None
+    assert result["modality_scores"]["fusion"] is None
+    assert result["evidence"]["mismatch_score"] is None
+    assert result["manipulation_type"] == "text-only analysis"
+
+
+def test_analyze_image_only(client):
+    # Test analysis using only an image.
+    image = create_test_image()
+
+    response = client.post(
+        "/analyze",
+        data={
+            "modalities": "image"
+        },
+        files={
+            "image": (
+                "test.png",
+                image,
+                "image/png"
+            )
+        }
+    )
+
+    assert response.status_code == 200
+
+    result = response.json()
+
+    assert result["id"] is not None
+    assert result["modality_scores"]["text"] is None
+    assert result["modality_scores"]["image"] is not None
+    assert result["modality_scores"]["fusion"] is None
+    assert result["evidence"]["mismatch_score"] is None
+    assert result["manipulation_type"] == "image-only analysis"
 
 
 def test_analyze_creates_database_record(client):
