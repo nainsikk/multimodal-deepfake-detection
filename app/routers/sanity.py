@@ -7,48 +7,50 @@ router = APIRouter()
 @router.get("/sanity")
 def run_sanity_checks(request: Request):
 
-    predictor = request.app.state.predictor
+    predictor = getattr(request.app.state, "predictor", None)
+
+    predictor_loaded = (
+        predictor is not None
+        and getattr(predictor, "loaded", False)
+    )
+
+    predictor_type = (
+        predictor.__class__.__name__
+        if predictor is not None
+        else None
+    )
 
     test_cases = [
         {
             "id": 1,
             "text": "A beautiful rainbow appears after rainfall.",
-            "image_path": "sanity_real.jpg",
-            "expected_label": "REAL"
+            "expected_label": "REAL",
+            "purpose": "Example of genuine visual content."
         },
         {
             "id": 2,
             "text": "A celebrity has been digitally altered to appear as another person.",
-            "image_path": "sanity_fake.jpg",
-            "expected_label": "FAKE"
+            "expected_label": "FAKE",
+            "purpose": "Example of digitally manipulated content."
         },
         {
             "id": 3,
             "text": "Heavy flooding has affected several streets.",
-            "image_path": "sanity_mismatch.jpg",
-            "expected_label": "FAKE"
+            "expected_label": "FAKE",
+            "purpose": "Example scenario for checking caption-image consistency."
         }
     ]
 
-    results = []
-
-    for case in test_cases:
-
-        prediction = predictor.predict(
-            case["text"],
-            case["image_path"]
-        )
-
-        results.append({
-            "id": case["id"],
-            "text": case["text"],
-            "expected_label": case["expected_label"],
-            "predicted_label": prediction["prediction"],
-            "confidence": prediction["confidence"],
-            "explanation": prediction["explanation"]
-        })
-
     return {
-        "total_cases": len(results),
-        "results": results
+        "status": "healthy" if predictor_loaded else "not_ready",
+        "model_loaded": predictor_loaded,
+        "predictor_type": predictor_type,
+        "mock_mode": predictor_type == "MockPredictor",
+        "total_cases": len(test_cases),
+        "results": test_cases,
+        "note": (
+            "These are illustrative test scenarios, not actual model "
+            "predictions. Real evaluation requires the trained model "
+            "and actual test images."
+        )
     }
