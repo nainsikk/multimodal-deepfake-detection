@@ -9,19 +9,21 @@ class TokenEvidence(BaseModel):
 
 
 class ModalityScores(BaseModel):
-    text: float
-    image: float
-    fusion: float
+    text: float | None = None
+    image: float | None = None
+    fusion: float | None = None
 
 
 class Evidence(BaseModel):
     text_tokens: list[TokenEvidence]
     image_heatmap_url: str | None
 
-    mismatch_score: float = Field(
+    mismatch_score: float | None = Field(
+        default=None,
         ge=0,
         le=100,
-        description="Text-image mismatch score from 0 to 100."
+        description="Text-image mismatch score from 0 to 100. "
+                    "Null when both modalities are not available."
     )
 
 
