@@ -64,3 +64,32 @@ def test_mismatched_score_lengths():
 def test_invalid_prediction_scores():
     with pytest.raises(ValueError):
         evaluate_model([0, 1], [0, 1], [0.2, 1.5])
+
+def test_invalid_actual_labels():
+    with pytest.raises(ValueError):
+        evaluate_model([0, 2], [0, 1])
+
+
+def test_invalid_predicted_labels():
+    with pytest.raises(ValueError):
+        evaluate_model([0, 1], [0, 2])
+
+
+def test_auc_unavailable_for_single_class():
+    results = evaluate_model(
+        [0, 0, 0],
+        [0, 0, 0],
+        [0.1, 0.2, 0.3]
+    )
+
+    assert results["roc_auc"] is None
+    assert results["pr_auc"] is None
+
+def test_rejects_invalid_actual_labels_only():
+    with pytest.raises(ValueError, match="Actual labels"):
+        evaluate_model([2, 2], [0, 0])
+
+
+def test_rejects_invalid_predicted_labels_only():
+    with pytest.raises(ValueError, match="Predicted labels"):
+        evaluate_model([0, 0], [2, 2])
