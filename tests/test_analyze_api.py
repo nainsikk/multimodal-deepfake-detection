@@ -78,11 +78,7 @@ def test_analyze_success(client):
             "modalities": "text,image"
         },
         files={
-            "image": (
-                "test.png",
-                image,
-                "image/png"
-            )
+            "image": ("test.png", image, "image/png")
         }
     )
 
@@ -97,7 +93,6 @@ def test_analyze_success(client):
 
 
 def test_analyze_text_only(client):
-    # Test analysis using only text.
     response = client.post(
         "/analyze",
         data={
@@ -119,20 +114,13 @@ def test_analyze_text_only(client):
 
 
 def test_analyze_image_only(client):
-    # Test analysis using only an image.
     image = create_test_image()
 
     response = client.post(
         "/analyze",
-        data={
-            "modalities": "image"
-        },
+        data={"modalities": "image"},
         files={
-            "image": (
-                "test.png",
-                image,
-                "image/png"
-            )
+            "image": ("test.png", image, "image/png")
         }
     )
 
@@ -158,11 +146,7 @@ def test_analyze_creates_database_record(client):
             "modalities": "text,image"
         },
         files={
-            "image": (
-                "test.png",
-                image,
-                "image/png"
-            )
+            "image": ("test.png", image, "image/png")
         }
     )
 
@@ -197,11 +181,7 @@ def test_analyze_rejects_empty_text(client):
             "modalities": "text,image"
         },
         files={
-            "image": (
-                "test.png",
-                image,
-                "image/png"
-            )
+            "image": ("test.png", image, "image/png")
         }
     )
 
@@ -221,6 +201,96 @@ def test_analyze_rejects_invalid_image(client):
                 "document.txt",
                 b"This is not an image.",
                 "text/plain"
+            )
+        }
+    )
+
+    assert response.status_code == 415
+
+
+def test_analyze_rejects_missing_inputs(client):
+    response = client.post("/analyze")
+
+    assert response.status_code == 400
+    assert response.json()["detail"] == (
+        "Provide at least one input: text or image."
+    )
+
+
+def test_analyze_rejects_missing_image(client):
+    response = client.post(
+        "/analyze",
+        data={"modalities": "image"}
+    )
+
+    assert response.status_code == 400
+    assert response.json()["detail"] == (
+        "An image is required for image analysis."
+    )
+
+
+def test_analyze_rejects_invalid_modality(client):
+    response = client.post(
+        "/analyze",
+        data={
+            "text": "Testing invalid modality.",
+            "modalities": "video"
+        }
+    )
+
+    assert response.status_code == 400
+    assert response.json()["detail"] == (
+        "Select valid modalities: text,image."
+    )
+
+
+def test_analyze_rejects_text_when_not_selected(client):
+    response = client.post(
+        "/analyze",
+        data={
+            "text": "Testing modality mismatch.",
+            "modalities": "image"
+        }
+    )
+
+    assert response.status_code == 400
+    assert response.json()["detail"] == (
+        "Text was provided but text modality was not selected."
+    )
+
+
+def test_analyze_rejects_image_when_not_selected(client):
+    image = create_test_image()
+
+    response = client.post(
+        "/analyze",
+        data={
+            "text": "Testing modality mismatch.",
+            "modalities": "text"
+        },
+        files={
+            "image": ("test.png", image, "image/png")
+        }
+    )
+
+    assert response.status_code == 400
+    assert response.json()["detail"] == (
+        "Image was provided but image modality was not selected."
+    )
+
+
+def test_analyze_rejects_corrupted_image(client):
+    response = client.post(
+        "/analyze",
+        data={
+            "text": "Testing corrupted image.",
+            "modalities": "text,image"
+        },
+        files={
+            "image": (
+                "corrupted.png",
+                b"This is not a valid PNG image.",
+                "image/png"
             )
         }
     )

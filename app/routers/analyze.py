@@ -1,4 +1,3 @@
-
 import os
 import json
 import logging
@@ -84,19 +83,6 @@ async def analyze(
                 detail="Provide at least one input: text or image."
             )
 
-        # Check that the selected inputs are available.
-        if "text" in selected and not has_text:
-            raise HTTPException(
-                status_code=400,
-                detail="Text cannot be empty."
-            )
-
-        if "image" in selected and not has_image:
-            raise HTTPException(
-                status_code=400,
-                detail="An image is required for image analysis."
-            )
-
         # Reject inputs that do not match selected modalities.
         if has_text and "text" not in selected:
             raise HTTPException(
@@ -108,6 +94,19 @@ async def analyze(
             raise HTTPException(
                 status_code=400,
                 detail="Image was provided but image modality was not selected."
+            )
+
+        # Check that the selected inputs are available.
+        if "text" in selected and not has_text:
+            raise HTTPException(
+                status_code=400,
+                detail="Text cannot be empty."
+            )
+
+        if "image" in selected and not has_image:
+            raise HTTPException(
+                status_code=400,
+                detail="An image is required for image analysis."
             )
 
         # Save the image only when image analysis is selected.
