@@ -39,6 +39,18 @@ def evaluate_model(y_true, y_pred, y_score=None):
     if len(y_true) == 0:
         raise ValueError("Evaluation data cannot be empty.")
 
+    # Validate actual labels.
+    if not set(y_true).issubset({0, 1}):
+        raise ValueError(
+            "Actual labels must contain only 0 (Real) or 1 (Fake)."
+        )
+
+    # Validate predicted labels.
+    if not set(y_pred).issubset({0, 1}):
+        raise ValueError(
+            "Predicted labels must contain only 0 (Real) or 1 (Fake)."
+        )
+
     if y_score is not None:
         if len(y_score) != len(y_true):
             raise ValueError(
