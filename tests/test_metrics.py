@@ -93,3 +93,17 @@ def test_rejects_invalid_actual_labels_only():
 def test_rejects_invalid_predicted_labels_only():
     with pytest.raises(ValueError, match="Predicted labels"):
         evaluate_model([0, 0], [2, 2])
+
+def test_rejects_nan_prediction_scores():
+    with pytest.raises(ValueError, match="finite"):
+        evaluate_model([0, 1], [0, 1], [0.2, float("nan")])
+
+
+def test_rejects_infinite_prediction_scores():
+    with pytest.raises(ValueError, match="finite"):
+        evaluate_model([0, 1], [0, 1], [0.2, float("inf")])
+
+
+def test_rejects_negative_infinite_prediction_scores():
+    with pytest.raises(ValueError, match="finite"):
+        evaluate_model([0, 1], [0, 1], [0.2, float("-inf")])
