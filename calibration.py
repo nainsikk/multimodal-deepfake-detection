@@ -198,7 +198,7 @@ def calculate_nll(p_fake, y_true):
 
     p_correct = np.clip(p_correct, EPS, 1.0)
 
-    return float(-np.mean(np.log(p_correct))
+    return float(-np.mean(np.log(p_correct)))
 
 
 def calculate_brier(p_fake, y_true):
