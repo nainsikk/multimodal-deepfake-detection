@@ -57,6 +57,13 @@ def evaluate_model(y_true, y_pred, y_score=None):
                 "Prediction scores and actual labels must have equal lengths."
             )
 
+        # Check that all prediction scores are finite.
+        if not all(np.isfinite(score) for score in y_score):
+            raise ValueError(
+                "Prediction scores must contain only finite values."
+            )
+
+        # Check that all prediction scores are between 0 and 1.
         if not all(0 <= score <= 1 for score in y_score):
             raise ValueError(
                 "Prediction scores must be between 0 and 1."
