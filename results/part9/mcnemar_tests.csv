@@ -1,0 +1,29 @@
+model_a,model_b,a_only_correct,b_only_correct,discordant_pairs,p_value,holm_adjusted_p_value,significant_0.05
+DistilBERT fine-tuned,Frozen text-only,30,21,51,0.2624375357110438,1.0,False
+DistilBERT fine-tuned,Frozen image-only,57,65,122,0.5264163099662322,1.0,False
+DistilBERT fine-tuned,Concatenation,25,45,70,0.022462895492509273,0.4043321188651669,False
+DistilBERT fine-tuned,Concatenation + CLIP similarity,20,31,51,0.16077960181198847,1.0,False
+DistilBERT fine-tuned,Cross-attention,35,35,70,1.0,1.0,False
+DistilBERT fine-tuned,Cross-attention + CLIP similarity,30,45,75,0.10534226887460482,1.0,False
+DistilBERT fine-tuned,Late fusion,27,57,84,0.0014044946311139559,0.033707871146734944,True
+Frozen text-only,Frozen image-only,54,71,125,0.1521208669667595,1.0,False
+Frozen text-only,Concatenation,9,38,47,2.4904030624384174e-05,0.0006724088268583727,True
+Frozen text-only,Concatenation + CLIP similarity,7,27,34,0.0008213953115046024,0.02053488278761506,True
+Frozen text-only,Cross-attention,26,35,61,0.30567741986311836,1.0,False
+Frozen text-only,Cross-attention + CLIP similarity,20,44,64,0.0036899642765400487,0.08117921408388107,False
+Frozen text-only,Late fusion,19,58,77,9.77507078797376e-06,0.0002737019820632653,True
+Frozen image-only,Concatenation,36,48,84,0.2298644069691203,1.0,False
+Frozen image-only,Concatenation + CLIP similarity,47,50,97,0.8392136618440824,1.0,False
+Frozen image-only,Cross-attention,62,54,116,0.5159130749957951,1.0,False
+Frozen image-only,Cross-attention + CLIP similarity,45,52,97,0.5426101580458745,1.0,False
+Frozen image-only,Late fusion,15,37,52,0.003185253447776759,0.07326082929886546,False
+Concatenation,Concatenation + CLIP similarity,17,8,25,0.10775214433670044,1.0,False
+Concatenation,Cross-attention,34,14,48,0.00551520148550111,0.1158192311955233,False
+Concatenation,Cross-attention + CLIP similarity,24,19,43,0.542384011856484,1.0,False
+Concatenation,Late fusion,14,24,38,0.14330665429588407,1.0,False
+Concatenation + CLIP similarity,Cross-attention,32,21,53,0.16897782228771874,1.0,False
+Concatenation + CLIP similarity,Cross-attention + CLIP similarity,24,28,52,0.6778086391424605,1.0,False
+Concatenation + CLIP similarity,Late fusion,16,35,51,0.010973562899720513,0.21947125799441025,False
+Cross-attention,Cross-attention + CLIP similarity,10,25,35,0.016673847800120715,0.31680310820229357,False
+Cross-attention,Late fusion,21,51,72,0.0005349642016498918,0.013909069242897188,True
+Cross-attention + CLIP similarity,Late fusion,22,37,59,0.06744461190078899,1.0,False

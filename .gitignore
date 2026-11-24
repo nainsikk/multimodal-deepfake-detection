@@ -11,3 +11,15 @@ data/
 
 # Mac system files
 .DS_Store
+
+# Generated experiment outputs
+results/*
+!results/part9/
+!results/part9/**
+
+features/
+
+# Model weights and cached tensors
+*.safetensors
+*.pt
+*.pth
