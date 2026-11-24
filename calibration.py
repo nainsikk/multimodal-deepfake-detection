@@ -54,7 +54,7 @@ EXPERIMENTS = [
 SEEDS = [42, 123, 2024, 7, 99]
 
 # Confidence threshold search
-TARGET_ACCURACY = 0.80
+TARGET_ACCURACY = 0.85
 MIN_COVERAGE = 0.50
 
 # Temperature search range
