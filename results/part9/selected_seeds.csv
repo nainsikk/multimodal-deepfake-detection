@@ -1,0 +1,8 @@
+model,selected_seed,validation_macro_f1
+Frozen text-only,99,0.7849516141131755
+Frozen image-only,99,0.7849516141131755
+Concatenation,99,0.7849516141131755
+Concatenation + CLIP similarity,99,0.7849516141131755
+Cross-attention,99,0.7450766347591795
+Cross-attention + CLIP similarity,99,0.7439180537772088
+Late fusion,7,0.8
