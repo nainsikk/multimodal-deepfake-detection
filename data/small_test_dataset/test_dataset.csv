@@ -1,0 +1,11 @@
+sample_id,image_path,caption,label,category
+S01,images/beach.png,"A sunny beach with blue ocean water and golden sand.",1,beach
+S02,images/beach.png,"Players are playing a soccer match on a green field.",0,beach
+S03,images/soccer.png,"Players are playing a soccer match on a green field.",1,soccer
+S04,images/soccer.png,"A brown dog is sitting in a grassy park.",0,soccer
+S05,images/mountain.png,"Snow-covered mountains rise beneath a blue sky.",1,mountain
+S06,images/mountain.png,"A red car is driving along a paved road.",0,mountain
+S07,images/dog.png,"A brown dog is sitting in a grassy park.",1,dog
+S08,images/dog.png,"A sunny beach has blue ocean water and golden sand.",0,dog
+S09,images/car.png,"A red car is driving along a paved road.",1,car
+S10,images/car.png,"Snow-covered mountains rise beneath a blue sky.",0,car
