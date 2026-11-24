@@ -1,0 +1,3201 @@
+id,true_label,model,predicted_label,probability_real,correct
+bsdijx,1,DistilBERT fine-tuned,0,0.40352004766464233,False
+31p3nx,1,DistilBERT fine-tuned,0,0.28305888175964355,False
+mgcej,0,DistilBERT fine-tuned,1,0.8599379062652588,False
+arsxc0,1,DistilBERT fine-tuned,0,0.4627693295478821,False
+6pv2v7,0,DistilBERT fine-tuned,0,0.36322981119155884,True
+c6e1pbo,0,DistilBERT fine-tuned,0,0.09118235111236561,True
+coffor,1,DistilBERT fine-tuned,1,0.8893675208091736,True
+c71dkmd,0,DistilBERT fine-tuned,1,0.7957347631454468,False
+bqa6yb,1,DistilBERT fine-tuned,0,0.34060657024383545,False
+at78lh,0,DistilBERT fine-tuned,0,0.08540898561477661,True
+bmnjm8,0,DistilBERT fine-tuned,1,0.6284265518188477,False
+1l4xu5,1,DistilBERT fine-tuned,1,0.9337989091873168,True
+cz84lr,0,DistilBERT fine-tuned,0,0.3412570357322693,True
+830csd,0,DistilBERT fine-tuned,0,0.08466678857803345,True
+7utja8,0,DistilBERT fine-tuned,1,0.9206449389457704,False
+ciogbdx,0,DistilBERT fine-tuned,0,0.09888958930969238,True
+2xctjd,1,DistilBERT fine-tuned,1,0.5739439725875854,True
+26vk7z,1,DistilBERT fine-tuned,0,0.33944517374038696,False
+v6krw,1,DistilBERT fine-tuned,0,0.1207842230796814,False
+2z8fq5,1,DistilBERT fine-tuned,1,0.6660930514335632,True
+esk7qje,0,DistilBERT fine-tuned,0,0.09763449430465698,True
+23fn5k,0,DistilBERT fine-tuned,0,0.19793933629989624,True
+8ol6xj,1,DistilBERT fine-tuned,1,0.7196569442749023,True
+737nb5,1,DistilBERT fine-tuned,1,0.9123634696006776,True
+9im54n,0,DistilBERT fine-tuned,0,0.20698130130767822,True
+196iv1,1,DistilBERT fine-tuned,1,0.5732897520065308,True
+38nqxb,0,DistilBERT fine-tuned,0,0.18200337886810303,True
+19gwq7,1,DistilBERT fine-tuned,0,0.2457599639892578,False
+8d4ceb,1,DistilBERT fine-tuned,1,0.8570399880409241,True
+80ivhd,0,DistilBERT fine-tuned,0,0.26601898670196533,True
+2nfjw0,1,DistilBERT fine-tuned,1,0.901654839515686,True
+cvwcfcc,0,DistilBERT fine-tuned,0,0.11943835020065308,True
+1ar30x,1,DistilBERT fine-tuned,1,0.6980471014976501,True
+b0ebsi,0,DistilBERT fine-tuned,0,0.477328896522522,True
+bp3zxd,1,DistilBERT fine-tuned,1,0.5444848537445068,True
+co9kl38,0,DistilBERT fine-tuned,0,0.08897054195404042,True
+cezz89e,0,DistilBERT fine-tuned,0,0.4949336647987366,True
+2cvj8y,1,DistilBERT fine-tuned,1,0.7758225202560425,True
+5qms4x,0,DistilBERT fine-tuned,1,0.5110940933227539,False
+2lb2pq,0,DistilBERT fine-tuned,0,0.10004907846450806,True
+b2a73p,1,DistilBERT fine-tuned,1,0.9278897047042848,True
+e4t1vdw,0,DistilBERT fine-tuned,0,0.15410667657852173,True
+8w1k0i,0,DistilBERT fine-tuned,0,0.13458901643753052,True
+8vzaoi,0,DistilBERT fine-tuned,1,0.7124402523040771,False
+72s20b,0,DistilBERT fine-tuned,0,0.11029601097106934,True
+8w7ik0,1,DistilBERT fine-tuned,1,0.9330559968948364,True
+5pxa5r,0,DistilBERT fine-tuned,0,0.11505430936813354,True
+5jryrp,0,DistilBERT fine-tuned,0,0.4907076358795166,True
+9g6ojz,0,DistilBERT fine-tuned,1,0.8242737650871277,False
+cnwql2f,0,DistilBERT fine-tuned,0,0.12163639068603516,True
+axq61p,0,DistilBERT fine-tuned,0,0.2917364835739136,True
+2l7o3v,1,DistilBERT fine-tuned,1,0.9237210154533386,True
+djsk1s,1,DistilBERT fine-tuned,1,0.9558841586112976,True
+6h4m6u,0,DistilBERT fine-tuned,0,0.14459288120269775,True
+2urrle,1,DistilBERT fine-tuned,0,0.22018593549728394,False
+e0v1vo9,0,DistilBERT fine-tuned,0,0.09956145286560059,True
+c5w88n,1,DistilBERT fine-tuned,1,0.7123286128044128,True
+cnh101p,0,DistilBERT fine-tuned,0,0.1252894401550293,True
+7bfkuz,0,DistilBERT fine-tuned,1,0.8038686513900757,False
+cmztedc,0,DistilBERT fine-tuned,0,0.1305943727493286,True
+cgsr09,0,DistilBERT fine-tuned,1,0.5728605389595032,False
+biuzps,1,DistilBERT fine-tuned,1,0.9402820467948914,True
+4xpu4i,1,DistilBERT fine-tuned,1,0.5766927599906921,True
+5v2iit,0,DistilBERT fine-tuned,0,0.1842021942138672,True
+7h4a11,0,DistilBERT fine-tuned,0,0.4834480285644531,True
+16b5im,0,DistilBERT fine-tuned,0,0.12810087203979492,True
+4jrqqd,1,DistilBERT fine-tuned,1,0.693428099155426,True
+be1a05,1,DistilBERT fine-tuned,1,0.8336597084999084,True
+83oqyi,1,DistilBERT fine-tuned,1,0.903317093849182,True
+7acpde,0,DistilBERT fine-tuned,1,0.5419057607650757,False
+audo85,1,DistilBERT fine-tuned,1,0.919431209564209,True
+daq2fk,0,DistilBERT fine-tuned,0,0.18162530660629272,True
+dn7a0ql,0,DistilBERT fine-tuned,0,0.12731832265853882,True
+covoqre,0,DistilBERT fine-tuned,0,0.11436080932617188,True
+cht7go,1,DistilBERT fine-tuned,1,0.8858903050422668,True
+6ex7pi,1,DistilBERT fine-tuned,1,0.8484395742416382,True
+3k2xdj,1,DistilBERT fine-tuned,0,0.44003021717071533,False
+2ya2dg,1,DistilBERT fine-tuned,0,0.24141663312911987,False
+dhq3hrc,0,DistilBERT fine-tuned,0,0.10896652936935425,True
+3g4e1z,1,DistilBERT fine-tuned,1,0.7638205885887146,True
+7ynoip,0,DistilBERT fine-tuned,1,0.8929352760314941,False
+dwysmxv,0,DistilBERT fine-tuned,0,0.09434211254119884,True
+cmrwgs,1,DistilBERT fine-tuned,1,0.8710699081420898,True
+2ocah5,1,DistilBERT fine-tuned,1,0.9326108694076538,True
+826z85,1,DistilBERT fine-tuned,1,0.9467835426330566,True
+31g6cv,0,DistilBERT fine-tuned,0,0.12324970960617065,True
+4ec5zw,1,DistilBERT fine-tuned,1,0.8389534950256348,True
+5a7jrf,1,DistilBERT fine-tuned,1,0.7180353999137878,True
+ch3lfr1,0,DistilBERT fine-tuned,0,0.0966706871986388,True
+6svb6q,0,DistilBERT fine-tuned,0,0.15122878551483154,True
+9cmylg,1,DistilBERT fine-tuned,0,0.16970402002334595,False
+c6yvn8,1,DistilBERT fine-tuned,1,0.9480050802230836,True
+7y22r0,0,DistilBERT fine-tuned,0,0.20917129516601562,True
+7wzqot,1,DistilBERT fine-tuned,0,0.3402246832847595,False
+c52du7f,0,DistilBERT fine-tuned,0,0.08029067516326904,True
+23nqfm,1,DistilBERT fine-tuned,0,0.146528422832489,False
+4wk154,1,DistilBERT fine-tuned,0,0.43006402254104614,False
+bfd5tz,1,DistilBERT fine-tuned,1,0.7343888282775879,True
+3l1894,1,DistilBERT fine-tuned,1,0.8046721816062927,True
+5ju942,0,DistilBERT fine-tuned,0,0.4841166138648987,True
+3k55nb,1,DistilBERT fine-tuned,1,0.9294421672821044,True
+9c76kg,0,DistilBERT fine-tuned,1,0.8773196935653687,False
+cbh8w3w,0,DistilBERT fine-tuned,0,0.12769395112991333,True
+5h7o2o,0,DistilBERT fine-tuned,0,0.35226887464523315,True
+cz355st,0,DistilBERT fine-tuned,0,0.08066904544830322,True
+2u4gfl,0,DistilBERT fine-tuned,0,0.09311532974243164,True
+cr6c0h2,0,DistilBERT fine-tuned,0,0.08070361614227295,True
+awh82b,0,DistilBERT fine-tuned,0,0.1018228530883789,True
+66bna9,1,DistilBERT fine-tuned,1,0.819581925868988,True
+5m4uuw,1,DistilBERT fine-tuned,0,0.1057702898979187,False
+8qyry4,0,DistilBERT fine-tuned,1,0.8467466235160828,False
+5ufr62,1,DistilBERT fine-tuned,0,0.10336107015609741,False
+d2x5if,1,DistilBERT fine-tuned,1,0.9314610958099364,True
+1p3nwy,1,DistilBERT fine-tuned,0,0.17228013277053833,False
+4eu6tf,1,DistilBERT fine-tuned,1,0.8848595023155212,True
+7xi8c1,0,DistilBERT fine-tuned,0,0.3637031316757202,True
+c6atxga,0,DistilBERT fine-tuned,0,0.21996581554412842,True
+awktsf,1,DistilBERT fine-tuned,1,0.7293645739555359,True
+cfhf10,1,DistilBERT fine-tuned,0,0.3480204939842224,False
+azoxbn,1,DistilBERT fine-tuned,0,0.389708936214447,False
+c47052m,0,DistilBERT fine-tuned,0,0.21304768323898315,True
+5a5p2b,0,DistilBERT fine-tuned,1,0.7348757386207581,False
+brdglr,0,DistilBERT fine-tuned,0,0.25496429204940796,True
+57h7k1,1,DistilBERT fine-tuned,1,0.5460880994796753,True
+7ritxn,0,DistilBERT fine-tuned,0,0.13327395915985107,True
+cda0c45,0,DistilBERT fine-tuned,0,0.08865284919738758,True
+3lzak5,1,DistilBERT fine-tuned,0,0.36106377840042114,False
+21gbx3,1,DistilBERT fine-tuned,1,0.9380775094032288,True
+coinam,0,DistilBERT fine-tuned,1,0.8105598092079163,False
+5djqky,1,DistilBERT fine-tuned,1,0.8969910144805908,True
+bk6wxz,1,DistilBERT fine-tuned,0,0.46057432889938354,False
+cd4nfmw,0,DistilBERT fine-tuned,0,0.13617581129074097,True
+3izcfr,1,DistilBERT fine-tuned,1,0.57761150598526,True
+3ixjkm,0,DistilBERT fine-tuned,0,0.3392966389656067,True
+473yvh,0,DistilBERT fine-tuned,0,0.11998611688613892,True
+21o3u8,0,DistilBERT fine-tuned,0,0.16339737176895142,True
+5a1fmj,1,DistilBERT fine-tuned,0,0.10482311248779297,False
+brj4wy,1,DistilBERT fine-tuned,1,0.9054152369499208,True
+c1if9z,1,DistilBERT fine-tuned,1,0.9440163969993592,True
+15zeia,1,DistilBERT fine-tuned,1,0.8237036466598511,True
+d7u1dfb,0,DistilBERT fine-tuned,0,0.11886978149414062,True
+7qvjso,0,DistilBERT fine-tuned,1,0.577855110168457,False
+8vymjw,1,DistilBERT fine-tuned,1,0.9177138209342957,True
+b3zni2,0,DistilBERT fine-tuned,1,0.8206866979598999,False
+cjkjsmr,0,DistilBERT fine-tuned,0,0.22067707777023315,True
+4fhge0,1,DistilBERT fine-tuned,1,0.9359760880470276,True
+cmzylq9,0,DistilBERT fine-tuned,0,0.11290901899337769,True
+atk3ni,0,DistilBERT fine-tuned,1,0.7472813129425049,False
+96sddx,0,DistilBERT fine-tuned,0,0.14888381958007812,True
+7nnujx,1,DistilBERT fine-tuned,1,0.8758924603462219,True
+d4zv00n,0,DistilBERT fine-tuned,0,0.4134944677352905,True
+ckolfx,1,DistilBERT fine-tuned,1,0.9161909818649292,True
+9dkj02,1,DistilBERT fine-tuned,1,0.8682992458343506,True
+cocituf,0,DistilBERT fine-tuned,0,0.20035219192504883,True
+69pgnu,0,DistilBERT fine-tuned,0,0.08091109991073597,True
+97utvi,0,DistilBERT fine-tuned,0,0.40101343393325806,True
+bos3zm,0,DistilBERT fine-tuned,0,0.20627373456954956,True
+4vtrg3,0,DistilBERT fine-tuned,1,0.9447320103645324,False
+3bdnpd,1,DistilBERT fine-tuned,1,0.8857376575469971,True
+87sjsp,1,DistilBERT fine-tuned,0,0.47263818979263306,False
+dl1nyy,1,DistilBERT fine-tuned,0,0.1951514482498169,False
+2s96m6,1,DistilBERT fine-tuned,0,0.14987081289291382,False
+dbtj8e,1,DistilBERT fine-tuned,1,0.8105759024620056,True
+cbbry9u,0,DistilBERT fine-tuned,0,0.08385074138641357,True
+66mik8,1,DistilBERT fine-tuned,1,0.5640220642089844,True
+8e0smk,0,DistilBERT fine-tuned,1,0.5063748955726624,False
+axpzp7,1,DistilBERT fine-tuned,1,0.8402743935585022,True
+8mb796,0,DistilBERT fine-tuned,0,0.1764533519744873,True
+87h35r,0,DistilBERT fine-tuned,0,0.1122598648071289,True
+bihpx2,1,DistilBERT fine-tuned,1,0.8294603824615479,True
+caty0dl,0,DistilBERT fine-tuned,0,0.2784545421600342,True
+23vwgj,0,DistilBERT fine-tuned,0,0.1318824291229248,True
+cwsyt5w,0,DistilBERT fine-tuned,0,0.11577987670898438,True
+balyih,0,DistilBERT fine-tuned,1,0.8519373536109924,False
+67x59w,0,DistilBERT fine-tuned,0,0.15685749053955078,True
+2t1p6f,1,DistilBERT fine-tuned,0,0.3338485360145569,False
+c4d8ccw,0,DistilBERT fine-tuned,0,0.09059906005859375,True
+9f8glq,1,DistilBERT fine-tuned,1,0.8480908870697021,True
+8mnwr9,0,DistilBERT fine-tuned,0,0.42143958806991577,True
+ciiqg4p,0,DistilBERT fine-tuned,0,0.16637271642684937,True
+8a9x2z,0,DistilBERT fine-tuned,1,0.923176109790802,False
+47rzsk,0,DistilBERT fine-tuned,1,0.7473064064979553,False
+d283nk,0,DistilBERT fine-tuned,0,0.3661644458770752,True
+7y43li,0,DistilBERT fine-tuned,1,0.7773966789245605,False
+d65l6z,0,DistilBERT fine-tuned,0,0.27476638555526733,True
+cdrzqzd,0,DistilBERT fine-tuned,0,0.290411114692688,True
+6sgl84,1,DistilBERT fine-tuned,1,0.7648930549621582,True
+9czm4s,1,DistilBERT fine-tuned,1,0.94349867105484,True
+cod659,1,DistilBERT fine-tuned,1,0.8802773952484131,True
+7itvgr,0,DistilBERT fine-tuned,1,0.881690502166748,False
+cc540ix,0,DistilBERT fine-tuned,0,0.1706329584121704,True
+cl0q9v,0,DistilBERT fine-tuned,0,0.08598029613494884,True
+5pr5dn,1,DistilBERT fine-tuned,1,0.5854567289352417,True
+c9rfv8w,0,DistilBERT fine-tuned,0,0.11580145359039307,True
+4dpj0w,1,DistilBERT fine-tuned,1,0.8909996747970581,True
+3rkpan,1,DistilBERT fine-tuned,1,0.683157742023468,True
+6wfimz,1,DistilBERT fine-tuned,0,0.12569761276245117,False
+41h26q,1,DistilBERT fine-tuned,1,0.861295759677887,True
+11ln83,1,DistilBERT fine-tuned,1,0.8038531541824341,True
+5onbbj,1,DistilBERT fine-tuned,0,0.23294490575790405,False
+91a907,0,DistilBERT fine-tuned,1,0.8888391852378845,False
+7po13e,1,DistilBERT fine-tuned,0,0.4352535009384155,False
+cy9qkm,1,DistilBERT fine-tuned,1,0.9110028147697448,True
+cys35p,1,DistilBERT fine-tuned,1,0.9489322900772096,True
+cs4g1f,1,DistilBERT fine-tuned,0,0.11551380157470703,False
+61is8q,0,DistilBERT fine-tuned,1,0.8258331418037415,False
+2sxiqd,0,DistilBERT fine-tuned,0,0.10402828454971313,True
+ck3bio5,0,DistilBERT fine-tuned,0,0.10962742567062378,True
+3atjjp,1,DistilBERT fine-tuned,1,0.8171088099479675,True
+c74f17j,0,DistilBERT fine-tuned,0,0.10837894678115845,True
+79z0lg,1,DistilBERT fine-tuned,1,0.9287440776824952,True
+7ly0py,0,DistilBERT fine-tuned,0,0.1846216320991516,True
+54fvom,0,DistilBERT fine-tuned,1,0.8245393633842468,False
+8o8wtz,1,DistilBERT fine-tuned,1,0.6914330720901489,True
+2m6ptt,1,DistilBERT fine-tuned,1,0.8628801703453064,True
+dd2mm4r,0,DistilBERT fine-tuned,0,0.16299819946289062,True
+d2ayuu,1,DistilBERT fine-tuned,1,0.5214611887931824,True
+2h4nh0,1,DistilBERT fine-tuned,1,0.5394060015678406,True
+3ng41c,1,DistilBERT fine-tuned,0,0.20796316862106323,False
+c0ock2,1,DistilBERT fine-tuned,1,0.9292466640472412,True
+c2j9fw,1,DistilBERT fine-tuned,1,0.8982775211334229,True
+6vz2r2,0,DistilBERT fine-tuned,0,0.4085114598274231,True
+140v84,1,DistilBERT fine-tuned,1,0.916651725769043,True
+66wdwv,0,DistilBERT fine-tuned,0,0.1914304494857788,True
+1o5d63,0,DistilBERT fine-tuned,1,0.5616788864135742,False
+4yuc47,0,DistilBERT fine-tuned,1,0.5600915551185608,False
+dakjyii,0,DistilBERT fine-tuned,0,0.3107224702835083,True
+4hn9er,1,DistilBERT fine-tuned,1,0.8579824566841125,True
+ct2opk7,0,DistilBERT fine-tuned,0,0.10624617338180542,True
+c5r63q,1,DistilBERT fine-tuned,1,0.9429876804351808,True
+eo9r6w1,0,DistilBERT fine-tuned,0,0.1325685977935791,True
+9g4e07,1,DistilBERT fine-tuned,1,0.9412766098976136,True
+9bb90f,1,DistilBERT fine-tuned,1,0.8709636330604553,True
+25rjwb,0,DistilBERT fine-tuned,1,0.5852333307266235,False
+cmezty1,0,DistilBERT fine-tuned,0,0.08690655231475841,True
+csynbc,1,DistilBERT fine-tuned,1,0.8514488935470581,True
+d54ewo,1,DistilBERT fine-tuned,1,0.944287359714508,True
+26qnp5,1,DistilBERT fine-tuned,0,0.3197522759437561,False
+6jtok5,1,DistilBERT fine-tuned,1,0.936323344707489,True
+b6kj0m,1,DistilBERT fine-tuned,1,0.8483496904373169,True
+cqo5m0,1,DistilBERT fine-tuned,1,0.8551685214042664,True
+crqy6nz,0,DistilBERT fine-tuned,0,0.17848515510559082,True
+cu21e1t,0,DistilBERT fine-tuned,0,0.10633045434951782,True
+5wzho7,1,DistilBERT fine-tuned,0,0.3163917064666748,False
+46w2w8,0,DistilBERT fine-tuned,0,0.11822527647018433,True
+2q01qd,0,DistilBERT fine-tuned,0,0.39710694551467896,True
+6hvzy7,1,DistilBERT fine-tuned,1,0.8565457463264465,True
+bufll5,0,DistilBERT fine-tuned,0,0.1495884656906128,True
+5e95lt,1,DistilBERT fine-tuned,1,0.8741094470024109,True
+bzaruc,1,DistilBERT fine-tuned,1,0.9494737386703492,True
+ddc47u0,0,DistilBERT fine-tuned,0,0.15903091430664062,True
+6x4wbn,1,DistilBERT fine-tuned,1,0.9330562949180604,True
+ch2mo90,0,DistilBERT fine-tuned,0,0.08709681034088124,True
+biwb5a,1,DistilBERT fine-tuned,1,0.7572757601737976,True
+7nkm5p,0,DistilBERT fine-tuned,1,0.6183760762214661,False
+d944m4,1,DistilBERT fine-tuned,1,0.920526385307312,True
+dmisbow,0,DistilBERT fine-tuned,0,0.0872974395751952,True
+dhd9d1x,0,DistilBERT fine-tuned,0,0.10187453031539917,True
+450go7,1,DistilBERT fine-tuned,0,0.3933486342430115,False
+c94krpd,0,DistilBERT fine-tuned,0,0.12921565771102905,True
+crl5c6i,0,DistilBERT fine-tuned,0,0.1538616418838501,True
+d0auoob,0,DistilBERT fine-tuned,0,0.16252106428146362,True
+3d8h1w,0,DistilBERT fine-tuned,0,0.1004599928855896,True
+cb0klhd,0,DistilBERT fine-tuned,0,0.16548758745193481,True
+81n645,0,DistilBERT fine-tuned,0,0.14986592531204224,True
+dna38rg,0,DistilBERT fine-tuned,0,0.08476972579956044,True
+b3y6q8,1,DistilBERT fine-tuned,1,0.9355266094207764,True
+bszll4,1,DistilBERT fine-tuned,1,0.7005650401115417,True
+bwookn,1,DistilBERT fine-tuned,1,0.6879318952560425,True
+cpramg4,0,DistilBERT fine-tuned,0,0.12038475275039673,True
+ccrc7y,0,DistilBERT fine-tuned,1,0.9324933886528016,False
+dc4jr6,1,DistilBERT fine-tuned,1,0.9203203916549684,True
+3cqf4z,1,DistilBERT fine-tuned,1,0.5700740814208984,True
+157j2b,1,DistilBERT fine-tuned,0,0.13080096244812012,False
+cu1j34u,0,DistilBERT fine-tuned,0,0.10151022672653198,True
+cf3vq94,0,DistilBERT fine-tuned,0,0.10921090841293335,True
+18mfr9,1,DistilBERT fine-tuned,1,0.8350468873977661,True
+37mao4,1,DistilBERT fine-tuned,0,0.17175137996673584,False
+8vmnhq,1,DistilBERT fine-tuned,1,0.6338262557983398,True
+c2679i,1,DistilBERT fine-tuned,1,0.9002904295921326,True
+dy9k4ma,0,DistilBERT fine-tuned,0,0.10997498035430908,True
+7qoqh5,1,DistilBERT fine-tuned,1,0.9485026001930236,True
+5i7e5y,1,DistilBERT fine-tuned,1,0.8532119989395142,True
+cmko4gx,0,DistilBERT fine-tuned,0,0.12773293256759644,True
+b2zrm2,1,DistilBERT fine-tuned,0,0.2080456018447876,False
+dgaxk4,1,DistilBERT fine-tuned,1,0.941347062587738,True
+2w8mpt,1,DistilBERT fine-tuned,1,0.6214053630828857,True
+d05rrww,0,DistilBERT fine-tuned,0,0.3933507800102234,True
+c6mv27n,0,DistilBERT fine-tuned,0,0.17609786987304688,True
+2n7rrq,1,DistilBERT fine-tuned,0,0.472676157951355,False
+8ucjrq,0,DistilBERT fine-tuned,0,0.10666078329086304,True
+cxfdlg,0,DistilBERT fine-tuned,0,0.20778661966323853,True
+est67as,0,DistilBERT fine-tuned,0,0.16496193408966064,True
+50kwy0,1,DistilBERT fine-tuned,0,0.48566073179244995,False
+2ifwzf,1,DistilBERT fine-tuned,1,0.608135461807251,True
+7hzqj7,1,DistilBERT fine-tuned,0,0.1435375213623047,False
+3gvs00,0,DistilBERT fine-tuned,0,0.14536982774734497,True
+dcrgz2,1,DistilBERT fine-tuned,1,0.9273221492767334,True
+121du8,1,DistilBERT fine-tuned,1,0.5934784412384033,True
+1nvsfu,1,DistilBERT fine-tuned,0,0.28058820962905884,False
+8hccqu,1,DistilBERT fine-tuned,1,0.8418850898742676,True
+c9xdnh4,0,DistilBERT fine-tuned,0,0.23568695783615112,True
+cp0qyr,1,DistilBERT fine-tuned,0,0.29595375061035156,False
+cj7jc3y,0,DistilBERT fine-tuned,0,0.10084837675094604,True
+cc2z6em,0,DistilBERT fine-tuned,0,0.21166861057281494,True
+2ufzff,0,DistilBERT fine-tuned,0,0.09319299459457397,True
+c8upxra,0,DistilBERT fine-tuned,0,0.10712766647338867,True
+7qfhfp,0,DistilBERT fine-tuned,1,0.7609056830406189,False
+cota07y,0,DistilBERT fine-tuned,0,0.1517801284790039,True
+9d27mn,1,DistilBERT fine-tuned,1,0.9177566766738892,True
+cuqzf5j,0,DistilBERT fine-tuned,0,0.1015809178352356,True
+cia8ta3,0,DistilBERT fine-tuned,1,0.7504171133041382,False
+cd9qxwu,0,DistilBERT fine-tuned,0,0.09689491987228405,True
+3rdx0d,1,DistilBERT fine-tuned,0,0.13624662160873413,False
+2iuyu2,1,DistilBERT fine-tuned,0,0.34041255712509155,False
+1935ik,1,DistilBERT fine-tuned,0,0.47740548849105835,False
+ddabkh,1,DistilBERT fine-tuned,1,0.940693199634552,True
+2gi2yw,1,DistilBERT fine-tuned,1,0.8300808072090149,True
+5ebxyx,1,DistilBERT fine-tuned,1,0.9058108925819396,True
+dft09d,1,DistilBERT fine-tuned,1,0.6250049471855164,True
+8if89w,1,DistilBERT fine-tuned,1,0.8707156777381897,True
+12eu9x,1,DistilBERT fine-tuned,1,0.7689931392669678,True
+cfq8i6,1,DistilBERT fine-tuned,1,0.8254767656326294,True
+1kden7,1,DistilBERT fine-tuned,0,0.3417430520057678,False
+379zex,1,DistilBERT fine-tuned,1,0.519116222858429,True
+5x394r,1,DistilBERT fine-tuned,0,0.1086154580116272,False
+47644r,1,DistilBERT fine-tuned,1,0.5304440259933472,True
+4r6oug,1,DistilBERT fine-tuned,0,0.45266038179397583,False
+56wcg9,1,DistilBERT fine-tuned,1,0.8825987577438354,True
+53o86m,0,DistilBERT fine-tuned,0,0.12379240989685059,True
+dw2v6yo,0,DistilBERT fine-tuned,0,0.08370441198348999,True
+ccweof,1,DistilBERT fine-tuned,1,0.9311792850494384,True
+5us4a4,0,DistilBERT fine-tuned,1,0.6128609776496887,False
+bcyzt9,1,DistilBERT fine-tuned,1,0.93143892288208,True
+d65u4a,1,DistilBERT fine-tuned,0,0.23782414197921753,False
+ejkewe1,0,DistilBERT fine-tuned,0,0.14765828847885132,True
+2rymnx,0,DistilBERT fine-tuned,0,0.15164268016815186,True
+6i23e4,0,DistilBERT fine-tuned,1,0.8745710253715515,False
+9fr8wx,0,DistilBERT fine-tuned,1,0.7170870900154114,False
+c76ut59,0,DistilBERT fine-tuned,1,0.7603242993354797,False
+b83zxf,1,DistilBERT fine-tuned,1,0.8478888869285583,True
+c60xvnf,0,DistilBERT fine-tuned,0,0.09965318441390991,True
+7aj6di,1,DistilBERT fine-tuned,1,0.9360592365264891,True
+5p3yvg,0,DistilBERT fine-tuned,0,0.10293787717819214,True
+bwy862,1,DistilBERT fine-tuned,1,0.905592143535614,True
+6tqw2f,0,DistilBERT fine-tuned,0,0.10818594694137573,True
+uncvx,1,DistilBERT fine-tuned,0,0.17225122451782227,False
+d1h1gm,1,DistilBERT fine-tuned,1,0.9139767289161682,True
+5re6n7,1,DistilBERT fine-tuned,1,0.8193593621253967,True
+6292e3,0,DistilBERT fine-tuned,1,0.9167943596839904,False
+cazzu2,1,DistilBERT fine-tuned,1,0.9030377864837646,True
+ch8qtnk,0,DistilBERT fine-tuned,0,0.1860142946243286,True
+c7ssef,1,DistilBERT fine-tuned,1,0.939517855644226,True
+axpr18,0,DistilBERT fine-tuned,0,0.09275859594345082,True
+1o9iki,1,DistilBERT fine-tuned,1,0.934544801712036,True
+50kw9j,1,DistilBERT fine-tuned,1,0.9108713865280152,True
+d4djtb5,0,DistilBERT fine-tuned,0,0.07869380712509155,True
+1i9a8l,1,DistilBERT fine-tuned,1,0.6134285926818848,True
+1nq9cq,1,DistilBERT fine-tuned,1,0.8712090253829956,True
+39tj21,1,DistilBERT fine-tuned,1,0.9406986832618712,True
+cqvdpl,1,DistilBERT fine-tuned,1,0.9255102276802064,True
+cws4ubd,0,DistilBERT fine-tuned,0,0.08261680603027344,True
+cggg35c,0,DistilBERT fine-tuned,0,0.10654830932617188,True
+cb17dj4,0,DistilBERT fine-tuned,0,0.1492931842803955,True
+ct2bj2g,0,DistilBERT fine-tuned,0,0.12170147895812988,True
+blzv2k,1,DistilBERT fine-tuned,1,0.8576104044914246,True
+baao1g,0,DistilBERT fine-tuned,0,0.42392611503601074,True
+8mzd12,0,DistilBERT fine-tuned,1,0.8640679717063904,False
+7yx1px,0,DistilBERT fine-tuned,0,0.1137428879737854,True
+9i5u8n,0,DistilBERT fine-tuned,0,0.2378711700439453,True
+bbce6d,1,DistilBERT fine-tuned,1,0.935516595840454,True
+3h4p39,1,DistilBERT fine-tuned,1,0.9421932101249696,True
+dh8sz1,1,DistilBERT fine-tuned,1,0.9269351959228516,True
+81j4eu,0,DistilBERT fine-tuned,1,0.5768905878067017,False
+2sy4zn,1,DistilBERT fine-tuned,0,0.13788974285125732,False
+552xl7,0,DistilBERT fine-tuned,0,0.1761406660079956,True
+8k6gnf,1,DistilBERT fine-tuned,1,0.8236067891120911,True
+1vzo2j,0,DistilBERT fine-tuned,0,0.11675071716308594,True
+bmer2p,1,DistilBERT fine-tuned,0,0.16988348960876465,False
+6y7oh1,1,DistilBERT fine-tuned,1,0.6846302151679993,True
+b26r1c,1,DistilBERT fine-tuned,1,0.910106599330902,True
+ai08p0,1,DistilBERT fine-tuned,1,0.8853355050086975,True
+d7t7fvf,0,DistilBERT fine-tuned,0,0.20972925424575806,True
+7fztxz,0,DistilBERT fine-tuned,0,0.12807947397232056,True
+div36us,0,DistilBERT fine-tuned,0,0.12983179092407227,True
+10cpga,1,DistilBERT fine-tuned,0,0.22484958171844482,False
+b62nh4,0,DistilBERT fine-tuned,1,0.9478583335876464,False
+blm6x6,1,DistilBERT fine-tuned,1,0.8093597888946533,True
+17l1ze,0,DistilBERT fine-tuned,0,0.10841763019561768,True
+9bzeg8,1,DistilBERT fine-tuned,1,0.802271842956543,True
+3hgz5a,1,DistilBERT fine-tuned,1,0.8456718325614929,True
+5a3oy1,0,DistilBERT fine-tuned,0,0.22593170404434204,True
+4xicjg,1,DistilBERT fine-tuned,1,0.9129716157913208,True
+dbrs1k,0,DistilBERT fine-tuned,1,0.894214391708374,False
+cs9dasf,0,DistilBERT fine-tuned,0,0.1755998134613037,True
+asen4h,0,DistilBERT fine-tuned,0,0.11901766061782837,True
+ciqyv76,0,DistilBERT fine-tuned,0,0.17627966403961182,True
+dkp9lk,1,DistilBERT fine-tuned,1,0.928156077861786,True
+37c2lb,1,DistilBERT fine-tuned,1,0.8860209584236145,True
+8cro5h,0,DistilBERT fine-tuned,1,0.8859188556671143,False
+bsdijx,1,Frozen text-only,0,0.1906997561454773,False
+31p3nx,1,Frozen text-only,0,0.12211122363805771,False
+mgcej,0,Frozen text-only,1,0.7903575897216797,False
+arsxc0,1,Frozen text-only,0,0.39171716570854187,False
+6pv2v7,0,Frozen text-only,1,0.726219117641449,False
+c6e1pbo,0,Frozen text-only,0,0.006489510647952557,True
+coffor,1,Frozen text-only,1,0.7550605535507202,True
+c71dkmd,0,Frozen text-only,1,0.6223748922348022,False
+bqa6yb,1,Frozen text-only,1,0.6360496878623962,True
+at78lh,0,Frozen text-only,0,0.011425968259572983,True
+bmnjm8,0,Frozen text-only,1,0.6671164631843567,False
+1l4xu5,1,Frozen text-only,1,0.9508769512176514,True
+cz84lr,0,Frozen text-only,1,0.6087409853935242,False
+830csd,0,Frozen text-only,0,0.008605735376477242,True
+7utja8,0,Frozen text-only,1,0.9217459559440613,False
+ciogbdx,0,Frozen text-only,0,0.04518764093518257,True
+2xctjd,1,Frozen text-only,1,0.6976865530014038,True
+26vk7z,1,Frozen text-only,1,0.5840402245521545,True
+v6krw,1,Frozen text-only,0,0.358356773853302,False
+2z8fq5,1,Frozen text-only,1,0.5374075174331665,True
+esk7qje,0,Frozen text-only,0,0.002909177914261818,True
+23fn5k,0,Frozen text-only,0,0.08532842248678207,True
+8ol6xj,1,Frozen text-only,1,0.6018096804618835,True
+737nb5,1,Frozen text-only,1,0.8749127388000488,True
+9im54n,0,Frozen text-only,0,0.03785590082406998,True
+196iv1,1,Frozen text-only,0,0.2332324981689453,False
+38nqxb,0,Frozen text-only,0,0.07785740494728088,True
+19gwq7,1,Frozen text-only,0,0.24480263888835907,False
+8d4ceb,1,Frozen text-only,1,0.8560035824775696,True
+80ivhd,0,Frozen text-only,0,0.26568999886512756,True
+2nfjw0,1,Frozen text-only,1,0.8882893323898315,True
+cvwcfcc,0,Frozen text-only,0,0.022678006440401077,True
+1ar30x,1,Frozen text-only,0,0.16774560511112213,False
+b0ebsi,0,Frozen text-only,0,0.2347031533718109,True
+bp3zxd,1,Frozen text-only,1,0.5695379972457886,True
+co9kl38,0,Frozen text-only,0,2.9571385312010534e-05,True
+cezz89e,0,Frozen text-only,1,0.8065430521965027,False
+2cvj8y,1,Frozen text-only,1,0.7242187857627869,True
+5qms4x,0,Frozen text-only,1,0.8929851651191711,False
+2lb2pq,0,Frozen text-only,0,0.00023911531025078148,True
+b2a73p,1,Frozen text-only,1,0.9616433382034302,True
+e4t1vdw,0,Frozen text-only,0,0.1436270922422409,True
+8w1k0i,0,Frozen text-only,0,0.49792078137397766,True
+8vzaoi,0,Frozen text-only,1,0.8920117020606995,False
+72s20b,0,Frozen text-only,0,0.010947874747216702,True
+8w7ik0,1,Frozen text-only,1,0.9175900220870972,True
+5pxa5r,0,Frozen text-only,0,0.0007455309969373047,True
+5jryrp,0,Frozen text-only,0,0.0999373123049736,True
+9g6ojz,0,Frozen text-only,0,0.2278895229101181,True
+cnwql2f,0,Frozen text-only,0,0.020205942913889885,True
+axq61p,0,Frozen text-only,1,0.6036794781684875,False
+2l7o3v,1,Frozen text-only,1,0.8170481324195862,True
+djsk1s,1,Frozen text-only,1,0.9839203953742981,True
+6h4m6u,0,Frozen text-only,0,0.06924028694629669,True
+2urrle,1,Frozen text-only,0,0.19268104434013367,False
+e0v1vo9,0,Frozen text-only,0,0.021540442481637,True
+c5w88n,1,Frozen text-only,1,0.924959659576416,True
+cnh101p,0,Frozen text-only,0,0.013412759639322758,True
+7bfkuz,0,Frozen text-only,1,0.797271728515625,False
+cmztedc,0,Frozen text-only,0,0.018205950036644936,True
+cgsr09,0,Frozen text-only,0,0.16749927401542664,True
+biuzps,1,Frozen text-only,1,0.9793630838394165,True
+4xpu4i,1,Frozen text-only,0,0.2276352196931839,False
+5v2iit,0,Frozen text-only,0,0.03366087004542351,True
+7h4a11,0,Frozen text-only,0,0.17198070883750916,True
+16b5im,0,Frozen text-only,0,0.04489549249410629,True
+4jrqqd,1,Frozen text-only,1,0.8119367361068726,True
+be1a05,1,Frozen text-only,1,0.6852065324783325,True
+83oqyi,1,Frozen text-only,1,0.9572128057479858,True
+7acpde,0,Frozen text-only,1,0.7076613903045654,False
+audo85,1,Frozen text-only,1,0.9648897647857666,True
+daq2fk,0,Frozen text-only,0,0.04537144675850868,True
+dn7a0ql,0,Frozen text-only,0,0.04124962538480759,True
+covoqre,0,Frozen text-only,0,0.002606026828289032,True
+cht7go,1,Frozen text-only,1,0.791900634765625,True
+6ex7pi,1,Frozen text-only,1,0.9568996429443359,True
+3k2xdj,1,Frozen text-only,0,0.13300573825836182,False
+2ya2dg,1,Frozen text-only,0,0.033855337649583817,False
+dhq3hrc,0,Frozen text-only,0,0.001276080496609211,True
+3g4e1z,1,Frozen text-only,1,0.834810733795166,True
+7ynoip,0,Frozen text-only,1,0.9096401929855347,False
+dwysmxv,0,Frozen text-only,0,0.0291157066822052,True
+cmrwgs,1,Frozen text-only,0,0.33964309096336365,False
+2ocah5,1,Frozen text-only,1,0.9574976563453674,True
+826z85,1,Frozen text-only,1,0.9959936141967773,True
+31g6cv,0,Frozen text-only,0,0.051019564270973206,True
+4ec5zw,1,Frozen text-only,1,0.9348868727684021,True
+5a7jrf,1,Frozen text-only,1,0.8158910274505615,True
+ch3lfr1,0,Frozen text-only,0,0.013714195229113102,True
+6svb6q,0,Frozen text-only,0,0.04016599804162979,True
+9cmylg,1,Frozen text-only,0,0.16217836737632751,False
+c6yvn8,1,Frozen text-only,1,0.9916226267814636,True
+7y22r0,0,Frozen text-only,0,0.12932752072811127,True
+7wzqot,1,Frozen text-only,0,0.13376794755458832,False
+c52du7f,0,Frozen text-only,0,0.0013638947857543826,True
+23nqfm,1,Frozen text-only,0,0.14503586292266846,False
+4wk154,1,Frozen text-only,1,0.7124603390693665,True
+bfd5tz,1,Frozen text-only,1,0.5211246013641357,True
+3l1894,1,Frozen text-only,1,0.73427414894104,True
+5ju942,0,Frozen text-only,1,0.5855730772018433,False
+3k55nb,1,Frozen text-only,1,0.9830907583236694,True
+9c76kg,0,Frozen text-only,1,0.819937527179718,False
+cbh8w3w,0,Frozen text-only,0,0.10028722137212753,True
+5h7o2o,0,Frozen text-only,0,0.310859352350235,True
+cz355st,0,Frozen text-only,0,4.700166027760133e-05,True
+2u4gfl,0,Frozen text-only,0,0.15028133988380432,True
+cr6c0h2,0,Frozen text-only,0,0.009326823055744171,True
+awh82b,0,Frozen text-only,0,0.03819002956151962,True
+66bna9,1,Frozen text-only,1,0.6243820786476135,True
+5m4uuw,1,Frozen text-only,0,0.11064904928207397,False
+8qyry4,0,Frozen text-only,0,0.16892172396183014,True
+5ufr62,1,Frozen text-only,0,0.11374372243881226,False
+d2x5if,1,Frozen text-only,1,0.848012387752533,True
+1p3nwy,1,Frozen text-only,0,0.013053263537585735,False
+4eu6tf,1,Frozen text-only,1,0.8319651484489441,True
+7xi8c1,0,Frozen text-only,0,0.08975119143724442,True
+c6atxga,0,Frozen text-only,0,0.23803792893886566,True
+awktsf,1,Frozen text-only,1,0.587585985660553,True
+cfhf10,1,Frozen text-only,0,0.14112171530723572,False
+azoxbn,1,Frozen text-only,0,0.12890689074993134,False
+c47052m,0,Frozen text-only,0,0.01782100461423397,True
+5a5p2b,0,Frozen text-only,1,0.8472980856895447,False
+brdglr,0,Frozen text-only,0,0.45990511775016785,True
+57h7k1,1,Frozen text-only,0,0.4034886658191681,False
+7ritxn,0,Frozen text-only,0,0.01986686699092388,True
+cda0c45,0,Frozen text-only,0,0.004655635450035334,True
+3lzak5,1,Frozen text-only,0,0.3298541009426117,False
+21gbx3,1,Frozen text-only,1,0.9123994708061218,True
+coinam,0,Frozen text-only,1,0.5586634874343872,False
+5djqky,1,Frozen text-only,1,0.901936948299408,True
+bk6wxz,1,Frozen text-only,1,0.8437300324440002,True
+cd4nfmw,0,Frozen text-only,0,0.04113553836941719,True
+3izcfr,1,Frozen text-only,0,0.32629597187042236,False
+3ixjkm,0,Frozen text-only,0,0.18574126064777374,True
+473yvh,0,Frozen text-only,0,0.009188342839479446,True
+21o3u8,0,Frozen text-only,0,0.06669000536203384,True
+5a1fmj,1,Frozen text-only,0,0.03138284385204315,False
+brj4wy,1,Frozen text-only,0,0.4532190263271332,False
+c1if9z,1,Frozen text-only,1,0.9700929522514343,True
+15zeia,1,Frozen text-only,1,0.9089393615722656,True
+d7u1dfb,0,Frozen text-only,0,0.04102662578225136,True
+7qvjso,0,Frozen text-only,1,0.6030362248420715,False
+8vymjw,1,Frozen text-only,1,0.9052436947822571,True
+b3zni2,0,Frozen text-only,1,0.7535566687583923,False
+cjkjsmr,0,Frozen text-only,0,0.07234616577625275,True
+4fhge0,1,Frozen text-only,1,0.9593310952186584,True
+cmzylq9,0,Frozen text-only,0,0.0003151095879729837,True
+atk3ni,0,Frozen text-only,1,0.5289821624755859,False
+96sddx,0,Frozen text-only,0,0.003162717679515481,True
+7nnujx,1,Frozen text-only,1,0.941175639629364,True
+d4zv00n,0,Frozen text-only,1,0.626056432723999,False
+ckolfx,1,Frozen text-only,0,0.4663621485233307,False
+9dkj02,1,Frozen text-only,1,0.9246692657470703,True
+cocituf,0,Frozen text-only,0,0.03302964195609093,True
+69pgnu,0,Frozen text-only,0,0.002363920910283923,True
+97utvi,0,Frozen text-only,1,0.6181840896606445,False
+bos3zm,0,Frozen text-only,0,0.18490070104599,True
+4vtrg3,0,Frozen text-only,1,0.7573897242546082,False
+3bdnpd,1,Frozen text-only,1,0.5455366373062134,True
+87sjsp,1,Frozen text-only,1,0.5535544157028198,True
+dl1nyy,1,Frozen text-only,0,0.1018805205821991,False
+2s96m6,1,Frozen text-only,0,0.12575943768024445,False
+dbtj8e,1,Frozen text-only,1,0.9783595204353333,True
+cbbry9u,0,Frozen text-only,0,0.0005436387727968395,True
+66mik8,1,Frozen text-only,1,0.6877143979072571,True
+8e0smk,0,Frozen text-only,0,0.42837628722190857,True
+axpzp7,1,Frozen text-only,1,0.9682392477989197,True
+8mb796,0,Frozen text-only,0,0.08354812860488892,True
+87h35r,0,Frozen text-only,0,0.027960682287812233,True
+bihpx2,1,Frozen text-only,1,0.9566155076026917,True
+caty0dl,0,Frozen text-only,0,0.0480533242225647,True
+23vwgj,0,Frozen text-only,0,0.24119362235069275,True
+cwsyt5w,0,Frozen text-only,0,0.033569078892469406,True
+balyih,0,Frozen text-only,1,0.7242018580436707,False
+67x59w,0,Frozen text-only,0,0.27030590176582336,True
+2t1p6f,1,Frozen text-only,0,0.08565600961446762,False
+c4d8ccw,0,Frozen text-only,0,0.00835756491869688,True
+9f8glq,1,Frozen text-only,1,0.9624515175819397,True
+8mnwr9,0,Frozen text-only,0,0.13843856751918793,True
+ciiqg4p,0,Frozen text-only,0,0.35771045088768005,True
+8a9x2z,0,Frozen text-only,1,0.7806724309921265,False
+47rzsk,0,Frozen text-only,1,0.7852863073348999,False
+d283nk,0,Frozen text-only,0,0.10174617171287537,True
+7y43li,0,Frozen text-only,1,0.7483935356140137,False
+d65l6z,0,Frozen text-only,0,0.3351055979728699,True
+cdrzqzd,0,Frozen text-only,0,0.05553068965673447,True
+6sgl84,1,Frozen text-only,1,0.8092501759529114,True
+9czm4s,1,Frozen text-only,1,0.9625700116157532,True
+cod659,1,Frozen text-only,1,0.7834132313728333,True
+7itvgr,0,Frozen text-only,1,0.8927156329154968,False
+cc540ix,0,Frozen text-only,0,0.11642435193061829,True
+cl0q9v,0,Frozen text-only,0,0.008748644031584263,True
+5pr5dn,1,Frozen text-only,1,0.5400720834732056,True
+c9rfv8w,0,Frozen text-only,0,0.005197369493544102,True
+4dpj0w,1,Frozen text-only,1,0.7641165852546692,True
+3rkpan,1,Frozen text-only,0,0.22698341310024261,False
+6wfimz,1,Frozen text-only,0,0.06749837100505829,False
+41h26q,1,Frozen text-only,1,0.8741023540496826,True
+11ln83,1,Frozen text-only,0,0.42965131998062134,False
+5onbbj,1,Frozen text-only,0,0.10955484956502914,False
+91a907,0,Frozen text-only,1,0.7544769048690796,False
+7po13e,1,Frozen text-only,0,0.47605711221694946,False
+cy9qkm,1,Frozen text-only,1,0.919987678527832,True
+cys35p,1,Frozen text-only,1,0.9907838106155396,True
+cs4g1f,1,Frozen text-only,0,0.006999962031841278,False
+61is8q,0,Frozen text-only,0,0.3517545461654663,True
+2sxiqd,0,Frozen text-only,0,0.009219120256602764,True
+ck3bio5,0,Frozen text-only,0,0.01396556943655014,True
+3atjjp,1,Frozen text-only,1,0.5297264456748962,True
+c74f17j,0,Frozen text-only,0,0.06534399092197418,True
+79z0lg,1,Frozen text-only,1,0.8213896155357361,True
+7ly0py,0,Frozen text-only,0,0.056251466274261475,True
+54fvom,0,Frozen text-only,1,0.7311221957206726,False
+8o8wtz,1,Frozen text-only,0,0.25979480147361755,False
+2m6ptt,1,Frozen text-only,1,0.6702143549919128,True
+dd2mm4r,0,Frozen text-only,0,0.033255573362112045,True
+d2ayuu,1,Frozen text-only,0,0.34662675857543945,False
+2h4nh0,1,Frozen text-only,1,0.6421477794647217,True
+3ng41c,1,Frozen text-only,0,0.0051083751022815704,False
+c0ock2,1,Frozen text-only,1,0.9841142892837524,True
+c2j9fw,1,Frozen text-only,1,0.878260612487793,True
+6vz2r2,0,Frozen text-only,1,0.7142821550369263,False
+140v84,1,Frozen text-only,1,0.603724479675293,True
+66wdwv,0,Frozen text-only,0,0.143342524766922,True
+1o5d63,0,Frozen text-only,0,0.3392290472984314,True
+4yuc47,0,Frozen text-only,1,0.7394078373908997,False
+dakjyii,0,Frozen text-only,1,0.5738229155540466,False
+4hn9er,1,Frozen text-only,1,0.721201479434967,True
+ct2opk7,0,Frozen text-only,0,0.009303122758865356,True
+c5r63q,1,Frozen text-only,1,0.8917710781097412,True
+eo9r6w1,0,Frozen text-only,0,0.07335539907217026,True
+9g4e07,1,Frozen text-only,1,0.9875540733337402,True
+9bb90f,1,Frozen text-only,1,0.7294347882270813,True
+25rjwb,0,Frozen text-only,0,0.17021797597408295,True
+cmezty1,0,Frozen text-only,0,0.002871065167710185,True
+csynbc,1,Frozen text-only,1,0.7013920545578003,True
+d54ewo,1,Frozen text-only,1,0.9881652593612671,True
+26qnp5,1,Frozen text-only,0,0.25046464800834656,False
+6jtok5,1,Frozen text-only,1,0.9716672301292419,True
+b6kj0m,1,Frozen text-only,1,0.9752599596977234,True
+cqo5m0,1,Frozen text-only,1,0.7340824604034424,True
+crqy6nz,0,Frozen text-only,0,0.05738763138651848,True
+cu21e1t,0,Frozen text-only,0,0.01471742708235979,True
+5wzho7,1,Frozen text-only,1,0.639076828956604,True
+46w2w8,0,Frozen text-only,0,0.07379867881536484,True
+2q01qd,0,Frozen text-only,0,0.19845478236675262,True
+6hvzy7,1,Frozen text-only,1,0.8477914929389954,True
+bufll5,0,Frozen text-only,0,0.03582657873630524,True
+5e95lt,1,Frozen text-only,1,0.9372869729995728,True
+bzaruc,1,Frozen text-only,1,0.9899706244468689,True
+ddc47u0,0,Frozen text-only,0,0.12683424353599548,True
+6x4wbn,1,Frozen text-only,1,0.9903702139854431,True
+ch2mo90,0,Frozen text-only,0,0.025857677683234215,True
+biwb5a,1,Frozen text-only,0,0.48746198415756226,False
+7nkm5p,0,Frozen text-only,1,0.7378486394882202,False
+d944m4,1,Frozen text-only,1,0.9750410914421082,True
+dmisbow,0,Frozen text-only,0,0.0027615430299192667,True
+dhd9d1x,0,Frozen text-only,0,0.026151595637202263,True
+450go7,1,Frozen text-only,0,0.442989319562912,False
+c94krpd,0,Frozen text-only,0,0.01226738654077053,True
+crl5c6i,0,Frozen text-only,0,0.11641590297222137,True
+d0auoob,0,Frozen text-only,0,0.1742119938135147,True
+3d8h1w,0,Frozen text-only,0,0.06723398715257645,True
+cb0klhd,0,Frozen text-only,0,0.028357962146401405,True
+81n645,0,Frozen text-only,0,0.35008859634399414,True
+dna38rg,0,Frozen text-only,0,0.000266777555225417,True
+b3y6q8,1,Frozen text-only,1,0.9859366416931152,True
+bszll4,1,Frozen text-only,1,0.6173966526985168,True
+bwookn,1,Frozen text-only,0,0.1674632877111435,False
+cpramg4,0,Frozen text-only,0,0.009385853074491024,True
+ccrc7y,0,Frozen text-only,0,0.33618029952049255,True
+dc4jr6,1,Frozen text-only,1,0.8118286728858948,True
+3cqf4z,1,Frozen text-only,1,0.8938481211662292,True
+157j2b,1,Frozen text-only,0,0.10548089444637299,False
+cu1j34u,0,Frozen text-only,0,0.005804853513836861,True
+cf3vq94,0,Frozen text-only,0,0.026129908859729767,True
+18mfr9,1,Frozen text-only,1,0.8641703724861145,True
+37mao4,1,Frozen text-only,0,0.008280434645712376,False
+8vmnhq,1,Frozen text-only,0,0.2958630919456482,False
+c2679i,1,Frozen text-only,1,0.9835959672927856,True
+dy9k4ma,0,Frozen text-only,0,0.012529045343399048,True
+7qoqh5,1,Frozen text-only,1,0.9865421056747437,True
+5i7e5y,1,Frozen text-only,1,0.8599650263786316,True
+cmko4gx,0,Frozen text-only,0,0.15503764152526855,True
+b2zrm2,1,Frozen text-only,0,0.23904956877231598,False
+dgaxk4,1,Frozen text-only,1,0.9464166164398193,True
+2w8mpt,1,Frozen text-only,0,0.493872731924057,False
+d05rrww,0,Frozen text-only,1,0.5023149847984314,False
+c6mv27n,0,Frozen text-only,0,0.027664385735988617,True
+2n7rrq,1,Frozen text-only,1,0.6001529097557068,True
+8ucjrq,0,Frozen text-only,0,0.018467258661985397,True
+cxfdlg,0,Frozen text-only,0,0.01945170760154724,True
+est67as,0,Frozen text-only,0,0.006417037919163704,True
+50kwy0,1,Frozen text-only,1,0.5841477513313293,True
+2ifwzf,1,Frozen text-only,0,0.2825101912021637,False
+7hzqj7,1,Frozen text-only,0,0.23561789095401764,False
+3gvs00,0,Frozen text-only,0,0.07522232085466385,True
+dcrgz2,1,Frozen text-only,1,0.8142712116241455,True
+121du8,1,Frozen text-only,1,0.8429384231567383,True
+1nvsfu,1,Frozen text-only,0,0.11009912937879562,False
+8hccqu,1,Frozen text-only,1,0.8414096832275391,True
+c9xdnh4,0,Frozen text-only,0,0.011340527795255184,True
+cp0qyr,1,Frozen text-only,0,0.4188595712184906,False
+cj7jc3y,0,Frozen text-only,0,0.00022597561473958194,True
+cc2z6em,0,Frozen text-only,0,0.015492420643568039,True
+2ufzff,0,Frozen text-only,0,0.008288058452308178,True
+c8upxra,0,Frozen text-only,0,0.002835669321939349,True
+7qfhfp,0,Frozen text-only,0,0.2968404293060303,True
+cota07y,0,Frozen text-only,0,0.08916790783405304,True
+9d27mn,1,Frozen text-only,1,0.823777973651886,True
+cuqzf5j,0,Frozen text-only,0,0.02668214589357376,True
+cia8ta3,0,Frozen text-only,1,0.7600536346435547,False
+cd9qxwu,0,Frozen text-only,0,0.2001902461051941,True
+3rdx0d,1,Frozen text-only,0,0.12451469153165817,False
+2iuyu2,1,Frozen text-only,1,0.5474296808242798,True
+1935ik,1,Frozen text-only,0,0.41277018189430237,False
+ddabkh,1,Frozen text-only,1,0.9408001899719238,True
+2gi2yw,1,Frozen text-only,1,0.7302395701408386,True
+5ebxyx,1,Frozen text-only,1,0.9600887894630432,True
+dft09d,1,Frozen text-only,1,0.5081998109817505,True
+8if89w,1,Frozen text-only,0,0.48981431126594543,False
+12eu9x,1,Frozen text-only,1,0.5000991821289062,True
+cfq8i6,1,Frozen text-only,1,0.9509124159812927,True
+1kden7,1,Frozen text-only,1,0.5317291617393494,True
+379zex,1,Frozen text-only,1,0.793035626411438,True
+5x394r,1,Frozen text-only,0,0.01995418593287468,False
+47644r,1,Frozen text-only,0,0.38389652967453003,False
+4r6oug,1,Frozen text-only,0,0.20097482204437256,False
+56wcg9,1,Frozen text-only,1,0.9705989360809326,True
+53o86m,0,Frozen text-only,0,0.02639976143836975,True
+dw2v6yo,0,Frozen text-only,0,0.00033053310471586883,True
+ccweof,1,Frozen text-only,1,0.9398689866065979,True
+5us4a4,0,Frozen text-only,0,0.4625232219696045,True
+bcyzt9,1,Frozen text-only,1,0.9230958819389343,True
+d65u4a,1,Frozen text-only,0,0.1931755691766739,False
+ejkewe1,0,Frozen text-only,0,0.0755973756313324,True
+2rymnx,0,Frozen text-only,0,0.0856485664844513,True
+6i23e4,0,Frozen text-only,1,0.688884973526001,False
+9fr8wx,0,Frozen text-only,1,0.5789351463317871,False
+c76ut59,0,Frozen text-only,1,0.8277003169059753,False
+b83zxf,1,Frozen text-only,1,0.8122512698173523,True
+c60xvnf,0,Frozen text-only,0,0.05034610629081726,True
+7aj6di,1,Frozen text-only,1,0.9385576844215393,True
+5p3yvg,0,Frozen text-only,0,0.08886103332042694,True
+bwy862,1,Frozen text-only,1,0.9758254289627075,True
+6tqw2f,0,Frozen text-only,0,0.015937305986881256,True
+uncvx,1,Frozen text-only,0,0.39801496267318726,False
+d1h1gm,1,Frozen text-only,1,0.9513697624206543,True
+5re6n7,1,Frozen text-only,1,0.9495442509651184,True
+6292e3,0,Frozen text-only,1,0.904013991355896,False
+cazzu2,1,Frozen text-only,1,0.8447248935699463,True
+ch8qtnk,0,Frozen text-only,0,0.017146460711956024,True
+c7ssef,1,Frozen text-only,1,0.9190371632575989,True
+axpr18,0,Frozen text-only,0,0.3794836103916168,True
+1o9iki,1,Frozen text-only,1,0.9469456672668457,True
+50kw9j,1,Frozen text-only,1,0.8914030194282532,True
+d4djtb5,0,Frozen text-only,0,0.002448632847517729,True
+1i9a8l,1,Frozen text-only,0,0.3206987679004669,False
+1nq9cq,1,Frozen text-only,1,0.8503593802452087,True
+39tj21,1,Frozen text-only,1,0.8973872065544128,True
+cqvdpl,1,Frozen text-only,1,0.877841055393219,True
+cws4ubd,0,Frozen text-only,0,0.0007956422632560134,True
+cggg35c,0,Frozen text-only,0,0.01317121647298336,True
+cb17dj4,0,Frozen text-only,0,0.050105877220630646,True
+ct2bj2g,0,Frozen text-only,0,0.03323375806212425,True
+blzv2k,1,Frozen text-only,1,0.7037055492401123,True
+baao1g,0,Frozen text-only,0,0.07544492930173874,True
+8mzd12,0,Frozen text-only,1,0.9228390455245972,False
+7yx1px,0,Frozen text-only,0,0.06108931824564934,True
+9i5u8n,0,Frozen text-only,0,0.046451810747385025,True
+bbce6d,1,Frozen text-only,1,0.9737282991409302,True
+3h4p39,1,Frozen text-only,1,0.9793140292167664,True
+dh8sz1,1,Frozen text-only,1,0.9717355370521545,True
+81j4eu,0,Frozen text-only,0,0.3305528461933136,True
+2sy4zn,1,Frozen text-only,0,0.050471436232328415,False
+552xl7,0,Frozen text-only,0,0.053256649523973465,True
+8k6gnf,1,Frozen text-only,1,0.9502430558204651,True
+1vzo2j,0,Frozen text-only,0,0.07633481919765472,True
+bmer2p,1,Frozen text-only,0,0.2792445719242096,False
+6y7oh1,1,Frozen text-only,1,0.9744588136672974,True
+b26r1c,1,Frozen text-only,1,0.9400528073310852,True
+ai08p0,1,Frozen text-only,1,0.5168622732162476,True
+d7t7fvf,0,Frozen text-only,0,0.019102321937680244,True
+7fztxz,0,Frozen text-only,0,0.03421774506568909,True
+div36us,0,Frozen text-only,0,0.02307860367000103,True
+10cpga,1,Frozen text-only,0,0.20311444997787476,False
+b62nh4,0,Frozen text-only,1,0.9321505427360535,False
+blm6x6,1,Frozen text-only,1,0.8832854628562927,True
+17l1ze,0,Frozen text-only,0,0.03299364820122719,True
+9bzeg8,1,Frozen text-only,1,0.5959002375602722,True
+3hgz5a,1,Frozen text-only,1,0.9093084931373596,True
+5a3oy1,0,Frozen text-only,0,0.22261948883533478,True
+4xicjg,1,Frozen text-only,1,0.9872954487800598,True
+dbrs1k,0,Frozen text-only,1,0.8926592469215393,False
+cs9dasf,0,Frozen text-only,0,0.16157035529613495,True
+asen4h,0,Frozen text-only,0,0.053557492792606354,True
+ciqyv76,0,Frozen text-only,0,0.09672249108552933,True
+dkp9lk,1,Frozen text-only,1,0.7878695130348206,True
+37c2lb,1,Frozen text-only,1,0.7945963740348816,True
+8cro5h,0,Frozen text-only,1,0.7967319488525391,False
+bsdijx,1,Frozen image-only,1,0.734428346157074,True
+31p3nx,1,Frozen image-only,1,0.9881908893585205,True
+mgcej,0,Frozen image-only,0,0.3694973289966583,True
+arsxc0,1,Frozen image-only,1,0.9862951636314392,True
+6pv2v7,0,Frozen image-only,0,0.0748482346534729,True
+c6e1pbo,0,Frozen image-only,0,0.0023276202846318483,True
+coffor,1,Frozen image-only,1,0.503800630569458,True
+c71dkmd,0,Frozen image-only,0,0.06149262934923172,True
+bqa6yb,1,Frozen image-only,0,0.22562885284423828,False
+at78lh,0,Frozen image-only,0,0.4801296293735504,True
+bmnjm8,0,Frozen image-only,0,0.13855470716953278,True
+1l4xu5,1,Frozen image-only,1,0.7733585834503174,True
+cz84lr,0,Frozen image-only,0,0.17612309753894806,True
+830csd,0,Frozen image-only,1,0.5347861647605896,False
+7utja8,0,Frozen image-only,1,0.9885080456733704,False
+ciogbdx,0,Frozen image-only,0,0.0028714830987155437,True
+2xctjd,1,Frozen image-only,1,0.630957305431366,True
+26vk7z,1,Frozen image-only,1,0.9364024996757507,True
+v6krw,1,Frozen image-only,0,0.18883484601974487,False
+2z8fq5,1,Frozen image-only,1,0.8291121125221252,True
+esk7qje,0,Frozen image-only,1,0.916955292224884,False
+23fn5k,0,Frozen image-only,1,0.7216775417327881,False
+8ol6xj,1,Frozen image-only,1,0.9913286566734314,True
+737nb5,1,Frozen image-only,0,0.4809419512748718,False
+9im54n,0,Frozen image-only,0,0.016554906964302063,True
+196iv1,1,Frozen image-only,0,0.2707959711551666,False
+38nqxb,0,Frozen image-only,0,0.008425883017480373,True
+19gwq7,1,Frozen image-only,1,0.7850093245506287,True
+8d4ceb,1,Frozen image-only,1,0.8485410213470459,True
+80ivhd,0,Frozen image-only,0,0.27837610244750977,True
+2nfjw0,1,Frozen image-only,0,0.10151752084493637,False
+cvwcfcc,0,Frozen image-only,0,0.20811282098293304,True
+1ar30x,1,Frozen image-only,1,0.5042914748191833,True
+b0ebsi,0,Frozen image-only,1,0.5751402974128723,False
+bp3zxd,1,Frozen image-only,1,0.8761310577392578,True
+co9kl38,0,Frozen image-only,0,0.008978781290352345,True
+cezz89e,0,Frozen image-only,0,0.0014416503254324198,True
+2cvj8y,1,Frozen image-only,1,0.6684920787811279,True
+5qms4x,0,Frozen image-only,0,0.07468277215957642,True
+2lb2pq,0,Frozen image-only,1,0.5147453546524048,False
+b2a73p,1,Frozen image-only,0,0.4334133565425873,False
+e4t1vdw,0,Frozen image-only,0,0.02631300874054432,True
+8w1k0i,0,Frozen image-only,0,0.016022587195038795,True
+8vzaoi,0,Frozen image-only,1,0.9678134322166443,False
+72s20b,0,Frozen image-only,1,0.886254608631134,False
+8w7ik0,1,Frozen image-only,1,0.8813201785087585,True
+5pxa5r,0,Frozen image-only,0,0.2668336033821106,True
+5jryrp,0,Frozen image-only,0,0.20666123926639557,True
+9g6ojz,0,Frozen image-only,1,0.8656817078590393,False
+cnwql2f,0,Frozen image-only,0,0.038901668041944504,True
+axq61p,0,Frozen image-only,0,0.11698365211486816,True
+2l7o3v,1,Frozen image-only,1,0.6252443194389343,True
+djsk1s,1,Frozen image-only,1,0.855402946472168,True
+6h4m6u,0,Frozen image-only,0,0.0696711614727974,True
+2urrle,1,Frozen image-only,1,0.8134143352508545,True
+e0v1vo9,0,Frozen image-only,0,0.0029732391703873873,True
+c5w88n,1,Frozen image-only,1,0.9694319367408752,True
+cnh101p,0,Frozen image-only,0,0.047281768172979355,True
+7bfkuz,0,Frozen image-only,0,0.061878468841314316,True
+cmztedc,0,Frozen image-only,0,0.0022564511746168137,True
+cgsr09,0,Frozen image-only,0,0.05073874071240425,True
+biuzps,1,Frozen image-only,1,0.9957290291786194,True
+4xpu4i,1,Frozen image-only,1,0.9375131726264954,True
+5v2iit,0,Frozen image-only,0,0.46093446016311646,True
+7h4a11,0,Frozen image-only,0,0.02367967925965786,True
+16b5im,0,Frozen image-only,0,0.03007812425494194,True
+4jrqqd,1,Frozen image-only,1,0.9947956204414368,True
+be1a05,1,Frozen image-only,1,0.8321803212165833,True
+83oqyi,1,Frozen image-only,1,0.5051440596580505,True
+7acpde,0,Frozen image-only,0,0.07387737929821014,True
+audo85,1,Frozen image-only,1,0.8870973587036133,True
+daq2fk,0,Frozen image-only,0,0.4011649191379547,True
+dn7a0ql,0,Frozen image-only,0,0.27917206287384033,True
+covoqre,0,Frozen image-only,0,0.09359022974967957,True
+cht7go,1,Frozen image-only,1,0.983481228351593,True
+6ex7pi,1,Frozen image-only,1,0.9962741136550903,True
+3k2xdj,1,Frozen image-only,1,0.9994872808456421,True
+2ya2dg,1,Frozen image-only,1,0.5178537964820862,True
+dhq3hrc,0,Frozen image-only,0,0.06356552243232727,True
+3g4e1z,1,Frozen image-only,0,0.2815583050251007,False
+7ynoip,0,Frozen image-only,1,0.8665860295295715,False
+dwysmxv,0,Frozen image-only,0,0.02415945753455162,True
+cmrwgs,1,Frozen image-only,1,0.9616041779518127,True
+2ocah5,1,Frozen image-only,0,0.4971766769886017,False
+826z85,1,Frozen image-only,1,0.9764335751533508,True
+31g6cv,0,Frozen image-only,0,0.03318837657570839,True
+4ec5zw,1,Frozen image-only,1,0.986261785030365,True
+5a7jrf,1,Frozen image-only,1,0.6897960901260376,True
+ch3lfr1,0,Frozen image-only,0,0.02972712181508541,True
+6svb6q,0,Frozen image-only,0,0.4287849962711334,True
+9cmylg,1,Frozen image-only,1,0.8514614701271057,True
+c6yvn8,1,Frozen image-only,1,0.8744823932647705,True
+7y22r0,0,Frozen image-only,1,0.9887627959251404,False
+7wzqot,1,Frozen image-only,0,0.4212423861026764,False
+c52du7f,0,Frozen image-only,0,0.0002761599898803979,True
+23nqfm,1,Frozen image-only,0,0.052876368165016174,False
+4wk154,1,Frozen image-only,1,0.9782823920249939,True
+bfd5tz,1,Frozen image-only,1,0.9810696840286255,True
+3l1894,1,Frozen image-only,1,0.8028435707092285,True
+5ju942,0,Frozen image-only,0,0.33790913224220276,True
+3k55nb,1,Frozen image-only,1,0.9851759672164917,True
+9c76kg,0,Frozen image-only,0,0.06598924100399017,True
+cbh8w3w,0,Frozen image-only,0,0.013422299176454544,True
+5h7o2o,0,Frozen image-only,1,0.67097008228302,False
+cz355st,0,Frozen image-only,0,0.05623757839202881,True
+2u4gfl,0,Frozen image-only,0,0.0022632137406617403,True
+cr6c0h2,0,Frozen image-only,0,0.005228535737842321,True
+awh82b,0,Frozen image-only,0,0.031948454678058624,True
+66bna9,1,Frozen image-only,1,0.9386541843414307,True
+5m4uuw,1,Frozen image-only,1,0.9704139828681946,True
+8qyry4,0,Frozen image-only,0,0.15478165447711945,True
+5ufr62,1,Frozen image-only,1,0.998961329460144,True
+d2x5if,1,Frozen image-only,1,0.6872802376747131,True
+1p3nwy,1,Frozen image-only,1,0.9077386260032654,True
+4eu6tf,1,Frozen image-only,1,0.962225615978241,True
+7xi8c1,0,Frozen image-only,0,0.0322679728269577,True
+c6atxga,0,Frozen image-only,0,0.1435612440109253,True
+awktsf,1,Frozen image-only,1,0.8572069406509399,True
+cfhf10,1,Frozen image-only,1,0.9908291101455688,True
+azoxbn,1,Frozen image-only,1,0.5546963810920715,True
+c47052m,0,Frozen image-only,0,0.010520007461309433,True
+5a5p2b,0,Frozen image-only,0,0.30486276745796204,True
+brdglr,0,Frozen image-only,1,0.7468851804733276,False
+57h7k1,1,Frozen image-only,1,0.9929032921791077,True
+7ritxn,0,Frozen image-only,1,0.5546283721923828,False
+cda0c45,0,Frozen image-only,0,0.2846040427684784,True
+3lzak5,1,Frozen image-only,1,0.9863854050636292,True
+21gbx3,1,Frozen image-only,1,0.8737625479698181,True
+coinam,0,Frozen image-only,0,0.008595982566475868,True
+5djqky,1,Frozen image-only,1,0.9786497354507446,True
+bk6wxz,1,Frozen image-only,1,0.9957887530326843,True
+cd4nfmw,0,Frozen image-only,0,0.4795488119125366,True
+3izcfr,1,Frozen image-only,0,0.19920611381530762,False
+3ixjkm,0,Frozen image-only,0,0.003420950612053275,True
+473yvh,0,Frozen image-only,1,0.7368466854095459,False
+21o3u8,0,Frozen image-only,0,0.4538344144821167,True
+5a1fmj,1,Frozen image-only,1,0.7989221811294556,True
+brj4wy,1,Frozen image-only,1,0.987133800983429,True
+c1if9z,1,Frozen image-only,1,0.9325556755065918,True
+15zeia,1,Frozen image-only,1,0.7513427734375,True
+d7u1dfb,0,Frozen image-only,0,0.0025810119695961475,True
+7qvjso,0,Frozen image-only,1,0.9739817976951599,False
+8vymjw,1,Frozen image-only,1,0.997082531452179,True
+b3zni2,0,Frozen image-only,0,0.14992450177669525,True
+cjkjsmr,0,Frozen image-only,0,0.0006821692222729325,True
+4fhge0,1,Frozen image-only,0,0.29511192440986633,False
+cmzylq9,0,Frozen image-only,0,0.06656058132648468,True
+atk3ni,0,Frozen image-only,1,0.975716769695282,False
+96sddx,0,Frozen image-only,0,0.0028206859715282917,True
+7nnujx,1,Frozen image-only,1,0.9886616468429565,True
+d4zv00n,0,Frozen image-only,1,0.9128014445304871,False
+ckolfx,1,Frozen image-only,1,0.9635860323905945,True
+9dkj02,1,Frozen image-only,1,0.7356502413749695,True
+cocituf,0,Frozen image-only,0,0.21010975539684296,True
+69pgnu,0,Frozen image-only,0,0.020843252539634705,True
+97utvi,0,Frozen image-only,0,0.004700024146586657,True
+bos3zm,0,Frozen image-only,1,0.9811993837356567,False
+4vtrg3,0,Frozen image-only,0,0.33318158984184265,True
+3bdnpd,1,Frozen image-only,0,0.05083763599395752,False
+87sjsp,1,Frozen image-only,1,0.6867834329605103,True
+dl1nyy,1,Frozen image-only,1,0.9656159281730652,True
+2s96m6,1,Frozen image-only,1,0.9203063249588013,True
+dbtj8e,1,Frozen image-only,1,0.968817949295044,True
+cbbry9u,0,Frozen image-only,0,0.0023326731752604246,True
+66mik8,1,Frozen image-only,1,0.9325441718101501,True
+8e0smk,0,Frozen image-only,0,0.11215895414352417,True
+axpzp7,1,Frozen image-only,1,0.9866683483123779,True
+8mb796,0,Frozen image-only,1,0.9653158187866211,False
+87h35r,0,Frozen image-only,0,0.044812001287937164,True
+bihpx2,1,Frozen image-only,1,0.910131573677063,True
+caty0dl,0,Frozen image-only,1,0.7088620066642761,False
+23vwgj,0,Frozen image-only,0,0.039141833782196045,True
+cwsyt5w,0,Frozen image-only,0,0.00487441336736083,True
+balyih,0,Frozen image-only,1,0.7034060955047607,False
+67x59w,0,Frozen image-only,0,0.00726571399718523,True
+2t1p6f,1,Frozen image-only,0,0.4604857265949249,False
+c4d8ccw,0,Frozen image-only,0,0.008086095564067364,True
+9f8glq,1,Frozen image-only,1,0.9914969801902771,True
+8mnwr9,0,Frozen image-only,0,0.020552564412355423,True
+ciiqg4p,0,Frozen image-only,0,0.0028337000403553247,True
+8a9x2z,0,Frozen image-only,1,0.9887297749519348,False
+47rzsk,0,Frozen image-only,1,0.899603009223938,False
+d283nk,0,Frozen image-only,0,0.03119601123034954,True
+7y43li,0,Frozen image-only,1,0.9703822135925293,False
+d65l6z,0,Frozen image-only,0,0.34507906436920166,True
+cdrzqzd,0,Frozen image-only,1,0.5696150660514832,False
+6sgl84,1,Frozen image-only,1,0.972585141658783,True
+9czm4s,1,Frozen image-only,0,0.26932230591773987,False
+cod659,1,Frozen image-only,1,0.6882167458534241,True
+7itvgr,0,Frozen image-only,0,0.10844051837921143,True
+cc540ix,0,Frozen image-only,1,0.746962308883667,False
+cl0q9v,0,Frozen image-only,1,0.9153751730918884,False
+5pr5dn,1,Frozen image-only,1,0.9921600222587585,True
+c9rfv8w,0,Frozen image-only,0,0.0019523486262187362,True
+4dpj0w,1,Frozen image-only,1,0.9031845331192017,True
+3rkpan,1,Frozen image-only,0,0.031102681532502174,False
+6wfimz,1,Frozen image-only,1,0.7467330098152161,True
+41h26q,1,Frozen image-only,1,0.9434006214141846,True
+11ln83,1,Frozen image-only,0,0.29694560170173645,False
+5onbbj,1,Frozen image-only,1,0.9662620425224304,True
+91a907,0,Frozen image-only,0,0.11501739174127579,True
+7po13e,1,Frozen image-only,1,0.839413583278656,True
+cy9qkm,1,Frozen image-only,1,0.7795141935348511,True
+cys35p,1,Frozen image-only,1,0.9702664017677307,True
+cs4g1f,1,Frozen image-only,0,0.048703670501708984,False
+61is8q,0,Frozen image-only,1,0.827907145023346,False
+2sxiqd,0,Frozen image-only,1,0.9937068819999695,False
+ck3bio5,0,Frozen image-only,1,0.7328139543533325,False
+3atjjp,1,Frozen image-only,1,0.9014679193496704,True
+c74f17j,0,Frozen image-only,0,0.0006998057942837477,True
+79z0lg,1,Frozen image-only,0,0.14675383269786835,False
+7ly0py,0,Frozen image-only,0,0.4926345646381378,True
+54fvom,0,Frozen image-only,1,0.9368329048156738,False
+8o8wtz,1,Frozen image-only,0,0.19117137789726257,False
+2m6ptt,1,Frozen image-only,1,0.9916861653327942,True
+dd2mm4r,0,Frozen image-only,0,3.929638478439301e-05,True
+d2ayuu,1,Frozen image-only,1,0.7640766501426697,True
+2h4nh0,1,Frozen image-only,1,0.8009346723556519,True
+3ng41c,1,Frozen image-only,0,0.31321007013320923,False
+c0ock2,1,Frozen image-only,1,0.9893907904624939,True
+c2j9fw,1,Frozen image-only,1,0.8259620666503906,True
+6vz2r2,0,Frozen image-only,1,0.7835928201675415,False
+140v84,1,Frozen image-only,1,0.9601722359657288,True
+66wdwv,0,Frozen image-only,0,0.022618139162659645,True
+1o5d63,0,Frozen image-only,0,0.05733862146735191,True
+4yuc47,0,Frozen image-only,1,0.7014594674110413,False
+dakjyii,0,Frozen image-only,0,0.00031506086816079915,True
+4hn9er,1,Frozen image-only,1,0.8407310843467712,True
+ct2opk7,0,Frozen image-only,0,0.0010528892744332552,True
+c5r63q,1,Frozen image-only,1,0.8103088140487671,True
+eo9r6w1,0,Frozen image-only,0,0.004020667169243097,True
+9g4e07,1,Frozen image-only,1,0.9482273459434509,True
+9bb90f,1,Frozen image-only,1,0.9471464157104492,True
+25rjwb,0,Frozen image-only,1,0.5666395425796509,False
+cmezty1,0,Frozen image-only,0,0.0007663406431674957,True
+csynbc,1,Frozen image-only,1,0.7052735686302185,True
+d54ewo,1,Frozen image-only,1,0.983916699886322,True
+26qnp5,1,Frozen image-only,1,0.9281772375106812,True
+6jtok5,1,Frozen image-only,1,0.5296610593795776,True
+b6kj0m,1,Frozen image-only,1,0.9325953125953674,True
+cqo5m0,1,Frozen image-only,1,0.9102143049240112,True
+crqy6nz,0,Frozen image-only,0,0.03034234046936035,True
+cu21e1t,0,Frozen image-only,0,0.1210186555981636,True
+5wzho7,1,Frozen image-only,0,0.24551606178283691,False
+46w2w8,0,Frozen image-only,0,0.019699983298778534,True
+2q01qd,0,Frozen image-only,0,0.4181113839149475,True
+6hvzy7,1,Frozen image-only,1,0.9258037805557251,True
+bufll5,0,Frozen image-only,1,0.9730750918388367,False
+5e95lt,1,Frozen image-only,1,0.5467228889465332,True
+bzaruc,1,Frozen image-only,1,0.7291720509529114,True
+ddc47u0,0,Frozen image-only,0,0.016769330948591232,True
+6x4wbn,1,Frozen image-only,1,0.9825518131256104,True
+ch2mo90,0,Frozen image-only,0,0.29347312450408936,True
+biwb5a,1,Frozen image-only,1,0.8656870722770691,True
+7nkm5p,0,Frozen image-only,0,0.0666118636727333,True
+d944m4,1,Frozen image-only,1,0.9326045513153076,True
+dmisbow,0,Frozen image-only,0,0.19135460257530212,True
+dhd9d1x,0,Frozen image-only,1,0.6805600523948669,False
+450go7,1,Frozen image-only,1,0.9679874181747437,True
+c94krpd,0,Frozen image-only,0,0.0367865152657032,True
+crl5c6i,0,Frozen image-only,0,0.10398760437965393,True
+d0auoob,0,Frozen image-only,0,0.06774837523698807,True
+3d8h1w,0,Frozen image-only,0,0.004184347577393055,True
+cb0klhd,0,Frozen image-only,0,0.001139759668149054,True
+81n645,0,Frozen image-only,0,0.06557656824588776,True
+dna38rg,0,Frozen image-only,0,0.43905049562454224,True
+b3y6q8,1,Frozen image-only,1,0.9825965762138367,True
+bszll4,1,Frozen image-only,1,0.9563893675804138,True
+bwookn,1,Frozen image-only,0,0.458126038312912,False
+cpramg4,0,Frozen image-only,0,0.13299167156219482,True
+ccrc7y,0,Frozen image-only,1,0.927368700504303,False
+dc4jr6,1,Frozen image-only,1,0.9890075922012329,True
+3cqf4z,1,Frozen image-only,1,0.9180780649185181,True
+157j2b,1,Frozen image-only,0,0.08693434298038483,False
+cu1j34u,0,Frozen image-only,0,0.004981068428605795,True
+cf3vq94,0,Frozen image-only,0,0.0004088122514076531,True
+18mfr9,1,Frozen image-only,1,0.9600837826728821,True
+37mao4,1,Frozen image-only,1,0.5345426797866821,True
+8vmnhq,1,Frozen image-only,1,0.7981223464012146,True
+c2679i,1,Frozen image-only,1,0.895270824432373,True
+dy9k4ma,0,Frozen image-only,0,0.0006732103647664189,True
+7qoqh5,1,Frozen image-only,0,0.19663164019584656,False
+5i7e5y,1,Frozen image-only,1,0.9988933205604553,True
+cmko4gx,0,Frozen image-only,0,0.0210467167198658,True
+b2zrm2,1,Frozen image-only,1,0.9994402527809143,True
+dgaxk4,1,Frozen image-only,1,0.8936534523963928,True
+2w8mpt,1,Frozen image-only,1,0.8230494260787964,True
+d05rrww,0,Frozen image-only,0,0.0025676991790533066,True
+c6mv27n,0,Frozen image-only,0,0.09813147783279419,True
+2n7rrq,1,Frozen image-only,1,0.7012609839439392,True
+8ucjrq,0,Frozen image-only,0,0.0010541309602558613,True
+cxfdlg,0,Frozen image-only,0,0.0017788552213460207,True
+est67as,0,Frozen image-only,0,0.004830899648368359,True
+50kwy0,1,Frozen image-only,0,0.10451551526784897,False
+2ifwzf,1,Frozen image-only,0,0.3292497992515564,False
+7hzqj7,1,Frozen image-only,1,0.9528168439865112,True
+3gvs00,0,Frozen image-only,0,0.004808714147657156,True
+dcrgz2,1,Frozen image-only,1,0.5159701704978943,True
+121du8,1,Frozen image-only,1,0.9405570030212402,True
+1nvsfu,1,Frozen image-only,1,0.957299530506134,True
+8hccqu,1,Frozen image-only,1,0.9023873209953308,True
+c9xdnh4,0,Frozen image-only,0,0.00012086357310181484,True
+cp0qyr,1,Frozen image-only,1,0.9755860567092896,True
+cj7jc3y,0,Frozen image-only,0,0.008156734518706799,True
+cc2z6em,0,Frozen image-only,0,0.002336144680157304,True
+2ufzff,0,Frozen image-only,1,0.9043999314308167,False
+c8upxra,0,Frozen image-only,0,0.009327782317996025,True
+7qfhfp,0,Frozen image-only,0,0.20377962291240692,True
+cota07y,0,Frozen image-only,0,0.054865140467882156,True
+9d27mn,1,Frozen image-only,1,0.9695720076560974,True
+cuqzf5j,0,Frozen image-only,0,0.007914506830275059,True
+cia8ta3,0,Frozen image-only,0,0.10816843062639236,True
+cd9qxwu,0,Frozen image-only,0,0.001924657728523016,True
+3rdx0d,1,Frozen image-only,1,0.9372339844703674,True
+2iuyu2,1,Frozen image-only,1,0.9869901537895203,True
+1935ik,1,Frozen image-only,1,0.8419963121414185,True
+ddabkh,1,Frozen image-only,1,0.6077264547348022,True
+2gi2yw,1,Frozen image-only,0,0.4087093472480774,False
+5ebxyx,1,Frozen image-only,0,0.41179922223091125,False
+dft09d,1,Frozen image-only,0,0.4452223777770996,False
+8if89w,1,Frozen image-only,1,0.7621856331825256,True
+12eu9x,1,Frozen image-only,1,0.8207149505615234,True
+cfq8i6,1,Frozen image-only,1,0.9888617396354675,True
+1kden7,1,Frozen image-only,1,0.8049550652503967,True
+379zex,1,Frozen image-only,1,0.9799818992614746,True
+5x394r,1,Frozen image-only,1,0.9614477157592773,True
+47644r,1,Frozen image-only,0,0.4687160551548004,False
+4r6oug,1,Frozen image-only,0,0.2061733603477478,False
+56wcg9,1,Frozen image-only,1,0.8106406927108765,True
+53o86m,0,Frozen image-only,0,0.38896456360816956,True
+dw2v6yo,0,Frozen image-only,0,0.008330422453582287,True
+ccweof,1,Frozen image-only,1,0.9157856106758118,True
+5us4a4,0,Frozen image-only,0,0.011147965677082539,True
+bcyzt9,1,Frozen image-only,1,0.9992399215698242,True
+d65u4a,1,Frozen image-only,0,0.13905775547027588,False
+ejkewe1,0,Frozen image-only,0,0.0032726835925132036,True
+2rymnx,0,Frozen image-only,1,0.8760270476341248,False
+6i23e4,0,Frozen image-only,1,0.8857243061065674,False
+9fr8wx,0,Frozen image-only,1,0.9715740084648132,False
+c76ut59,0,Frozen image-only,1,0.620701789855957,False
+b83zxf,1,Frozen image-only,1,0.9884898066520691,True
+c60xvnf,0,Frozen image-only,0,0.013199696317315102,True
+7aj6di,1,Frozen image-only,1,0.5889429450035095,True
+5p3yvg,0,Frozen image-only,0,0.1561896651983261,True
+bwy862,1,Frozen image-only,1,0.5026929378509521,True
+6tqw2f,0,Frozen image-only,0,0.030131017789244652,True
+uncvx,1,Frozen image-only,1,0.8165808916091919,True
+d1h1gm,1,Frozen image-only,1,0.7993981838226318,True
+5re6n7,1,Frozen image-only,1,0.9884626269340515,True
+6292e3,0,Frozen image-only,0,0.02039623074233532,True
+cazzu2,1,Frozen image-only,1,0.9237684011459351,True
+ch8qtnk,0,Frozen image-only,0,0.022288158535957336,True
+c7ssef,1,Frozen image-only,1,0.7354446053504944,True
+axpr18,0,Frozen image-only,0,0.05511084571480751,True
+1o9iki,1,Frozen image-only,0,0.2703980803489685,False
+50kw9j,1,Frozen image-only,1,0.9966346621513367,True
+d4djtb5,0,Frozen image-only,0,0.049015067517757416,True
+1i9a8l,1,Frozen image-only,0,0.4719401001930237,False
+1nq9cq,1,Frozen image-only,1,0.9831946492195129,True
+39tj21,1,Frozen image-only,1,0.9040165543556213,True
+cqvdpl,1,Frozen image-only,1,0.9457000494003296,True
+cws4ubd,0,Frozen image-only,0,0.004765012767165899,True
+cggg35c,0,Frozen image-only,0,0.0011830689618363976,True
+cb17dj4,0,Frozen image-only,0,0.0027235134039074183,True
+ct2bj2g,0,Frozen image-only,0,0.011088451370596886,True
+blzv2k,1,Frozen image-only,1,0.9599437713623047,True
+baao1g,0,Frozen image-only,0,0.028627488762140274,True
+8mzd12,0,Frozen image-only,0,0.014682929962873459,True
+7yx1px,0,Frozen image-only,0,0.009331970475614071,True
+9i5u8n,0,Frozen image-only,0,0.004963268525898457,True
+bbce6d,1,Frozen image-only,1,0.9143096208572388,True
+3h4p39,1,Frozen image-only,0,0.06469213217496872,False
+dh8sz1,1,Frozen image-only,0,0.3524443209171295,False
+81j4eu,0,Frozen image-only,1,0.5459581613540649,False
+2sy4zn,1,Frozen image-only,1,0.9939913153648376,True
+552xl7,0,Frozen image-only,0,0.011905054561793804,True
+8k6gnf,1,Frozen image-only,0,0.302340567111969,False
+1vzo2j,0,Frozen image-only,0,0.4912523925304413,True
+bmer2p,1,Frozen image-only,1,0.9185928106307983,True
+6y7oh1,1,Frozen image-only,0,0.42246419191360474,False
+b26r1c,1,Frozen image-only,0,0.48661401867866516,False
+ai08p0,1,Frozen image-only,1,0.903484046459198,True
+d7t7fvf,0,Frozen image-only,1,0.543567955493927,False
+7fztxz,0,Frozen image-only,1,0.519769549369812,False
+div36us,0,Frozen image-only,0,0.00038925226544961333,True
+10cpga,1,Frozen image-only,0,0.18677587807178497,False
+b62nh4,0,Frozen image-only,1,0.5558058619499207,False
+blm6x6,1,Frozen image-only,0,0.007375052198767662,False
+17l1ze,0,Frozen image-only,0,0.13279275596141815,True
+9bzeg8,1,Frozen image-only,1,0.9400115013122559,True
+3hgz5a,1,Frozen image-only,1,0.7578886151313782,True
+5a3oy1,0,Frozen image-only,0,0.15585356950759888,True
+4xicjg,1,Frozen image-only,1,0.9436449408531189,True
+dbrs1k,0,Frozen image-only,0,0.09822184592485428,True
+cs9dasf,0,Frozen image-only,0,0.12331738322973251,True
+asen4h,0,Frozen image-only,1,0.9965623021125793,False
+ciqyv76,0,Frozen image-only,0,0.0009886014740914106,True
+dkp9lk,1,Frozen image-only,1,0.9513345956802368,True
+37c2lb,1,Frozen image-only,1,0.9976609945297241,True
+8cro5h,0,Frozen image-only,0,0.1919894963502884,True
+bsdijx,1,Concatenation,1,0.674444317817688,True
+31p3nx,1,Concatenation,1,0.9845400452613831,True
+mgcej,0,Concatenation,1,0.9896770715713501,False
+arsxc0,1,Concatenation,1,0.9979711174964905,True
+6pv2v7,0,Concatenation,0,0.49361681938171387,True
+c6e1pbo,0,Concatenation,0,1.2500966306561168e-07,True
+coffor,1,Concatenation,1,0.801927387714386,True
+c71dkmd,0,Concatenation,0,0.14207354187965393,True
+bqa6yb,1,Concatenation,1,0.7761750221252441,True
+at78lh,0,Concatenation,0,2.588107008705265e-06,True
+bmnjm8,0,Concatenation,0,0.2673289477825165,True
+1l4xu5,1,Concatenation,1,0.9994739890098572,True
+cz84lr,0,Concatenation,1,0.5406514406204224,False
+830csd,0,Concatenation,0,0.00011344035010552034,True
+7utja8,0,Concatenation,1,0.9999161958694458,False
+ciogbdx,0,Concatenation,0,1.1964172699663322e-05,True
+2xctjd,1,Concatenation,1,0.7290844321250916,True
+26vk7z,1,Concatenation,1,0.9639814496040344,True
+v6krw,1,Concatenation,0,0.06598594784736633,False
+2z8fq5,1,Concatenation,0,0.45083901286125183,False
+esk7qje,0,Concatenation,0,0.00022466128575615585,True
+23fn5k,0,Concatenation,0,0.13626514375209808,True
+8ol6xj,1,Concatenation,1,0.9929038882255554,True
+737nb5,1,Concatenation,1,0.996938943862915,True
+9im54n,0,Concatenation,0,5.749122647102922e-05,True
+196iv1,1,Concatenation,0,0.1845558136701584,False
+38nqxb,0,Concatenation,0,0.00034275121288374066,True
+19gwq7,1,Concatenation,1,0.8840289115905762,True
+8d4ceb,1,Concatenation,1,0.9750152230262756,True
+80ivhd,0,Concatenation,0,0.21957673132419586,True
+2nfjw0,1,Concatenation,1,0.9241487383842468,True
+cvwcfcc,0,Concatenation,0,0.0002712937130127102,True
+1ar30x,1,Concatenation,0,0.0618436299264431,False
+b0ebsi,0,Concatenation,0,0.03747336566448212,True
+bp3zxd,1,Concatenation,1,0.9998733997344971,True
+co9kl38,0,Concatenation,0,2.3031652973681815e-10,True
+cezz89e,0,Concatenation,1,0.952302098274231,False
+2cvj8y,1,Concatenation,1,0.9979091286659241,True
+5qms4x,0,Concatenation,1,0.9900016784667969,False
+2lb2pq,0,Concatenation,0,1.4474833553990152e-09,True
+b2a73p,1,Concatenation,1,0.9990769624710083,True
+e4t1vdw,0,Concatenation,0,0.000714662135578692,True
+8w1k0i,0,Concatenation,0,0.08056393265724182,True
+8vzaoi,0,Concatenation,1,0.9992731213569641,False
+72s20b,0,Concatenation,0,3.3878630347317085e-05,True
+8w7ik0,1,Concatenation,1,0.9950425624847412,True
+5pxa5r,0,Concatenation,0,4.045713012601482e-06,True
+5jryrp,0,Concatenation,0,0.0004910483257845044,True
+9g6ojz,0,Concatenation,0,0.03888290375471115,True
+cnwql2f,0,Concatenation,0,7.137548891478218e-06,True
+axq61p,0,Concatenation,1,0.9730516076087952,False
+2l7o3v,1,Concatenation,1,0.9868300557136536,True
+djsk1s,1,Concatenation,1,0.9999916553497314,True
+6h4m6u,0,Concatenation,0,0.0002180124429287389,True
+2urrle,1,Concatenation,0,0.14507555961608887,False
+e0v1vo9,0,Concatenation,0,1.9355629774508998e-06,True
+c5w88n,1,Concatenation,1,0.9999152421951294,True
+cnh101p,0,Concatenation,0,5.45970287930686e-05,True
+7bfkuz,0,Concatenation,0,0.09232249855995178,True
+cmztedc,0,Concatenation,0,2.3134245566325262e-05,True
+cgsr09,0,Concatenation,0,0.000297728693112731,True
+biuzps,1,Concatenation,1,0.9999998807907104,True
+4xpu4i,1,Concatenation,0,0.44719910621643066,False
+5v2iit,0,Concatenation,0,0.00020761684572789818,True
+7h4a11,0,Concatenation,0,0.0027006687596440315,True
+16b5im,0,Concatenation,0,1.7651324242251576e-06,True
+4jrqqd,1,Concatenation,1,0.9997794032096863,True
+be1a05,1,Concatenation,1,0.9972193241119385,True
+83oqyi,1,Concatenation,1,0.9985889792442322,True
+7acpde,0,Concatenation,1,0.9225988984107971,False
+audo85,1,Concatenation,1,0.9999063014984131,True
+daq2fk,0,Concatenation,0,0.003658345900475979,True
+dn7a0ql,0,Concatenation,0,0.18564631044864655,True
+covoqre,0,Concatenation,0,8.461860852548853e-05,True
+cht7go,1,Concatenation,1,0.9996944665908813,True
+6ex7pi,1,Concatenation,1,0.9998842477798462,True
+3k2xdj,1,Concatenation,1,0.9390559196472168,True
+2ya2dg,1,Concatenation,0,9.187686373479664e-06,False
+dhq3hrc,0,Concatenation,0,8.834043718763951e-09,True
+3g4e1z,1,Concatenation,1,0.9933977127075195,True
+7ynoip,0,Concatenation,1,0.9960452914237976,False
+dwysmxv,0,Concatenation,0,5.9619080275297165e-05,True
+cmrwgs,1,Concatenation,1,0.9939377307891846,True
+2ocah5,1,Concatenation,1,0.9999209642410278,True
+826z85,1,Concatenation,1,0.9999978542327881,True
+31g6cv,0,Concatenation,0,0.0001732782257022336,True
+4ec5zw,1,Concatenation,1,0.9999524354934692,True
+5a7jrf,1,Concatenation,1,0.9778182506561279,True
+ch3lfr1,0,Concatenation,0,1.3111891803418985e-06,True
+6svb6q,0,Concatenation,0,6.474544352386147e-05,True
+9cmylg,1,Concatenation,1,0.7778326869010925,True
+c6yvn8,1,Concatenation,1,0.9999935626983643,True
+7y22r0,0,Concatenation,1,0.8660812973976135,False
+7wzqot,1,Concatenation,0,0.181271493434906,False
+c52du7f,0,Concatenation,0,5.930850477398053e-09,True
+23nqfm,1,Concatenation,0,0.003263558493927121,False
+4wk154,1,Concatenation,1,0.9630542397499084,True
+bfd5tz,1,Concatenation,1,0.9584334492683411,True
+3l1894,1,Concatenation,1,0.9795045256614685,True
+5ju942,0,Concatenation,1,0.8799446225166321,False
+3k55nb,1,Concatenation,1,0.9999977350234985,True
+9c76kg,0,Concatenation,1,0.5666333436965942,False
+cbh8w3w,0,Concatenation,0,0.01614549197256565,True
+5h7o2o,0,Concatenation,0,0.02764306589961052,True
+cz355st,0,Concatenation,0,3.741205695934058e-12,True
+2u4gfl,0,Concatenation,0,0.00010760936129372567,True
+cr6c0h2,0,Concatenation,0,1.9015215002582408e-07,True
+awh82b,0,Concatenation,0,0.0009719357476569712,True
+66bna9,1,Concatenation,1,0.99811851978302,True
+5m4uuw,1,Concatenation,0,0.1268070489168167,False
+8qyry4,0,Concatenation,0,0.001137797487899661,True
+5ufr62,1,Concatenation,0,0.439900279045105,False
+d2x5if,1,Concatenation,1,0.9991437196731567,True
+1p3nwy,1,Concatenation,0,0.10027307271957397,False
+4eu6tf,1,Concatenation,1,0.9997242093086243,True
+7xi8c1,0,Concatenation,0,7.41117355573806e-06,True
+c6atxga,0,Concatenation,0,0.10618187487125397,True
+awktsf,1,Concatenation,1,0.9450089335441589,True
+cfhf10,1,Concatenation,1,0.9610404968261719,True
+azoxbn,1,Concatenation,0,0.07373784482479095,False
+c47052m,0,Concatenation,0,5.788914450022276e-07,True
+5a5p2b,0,Concatenation,1,0.9784940481185913,False
+brdglr,0,Concatenation,1,0.9081014394760132,False
+57h7k1,1,Concatenation,1,0.888568103313446,True
+7ritxn,0,Concatenation,0,0.002080784412100911,True
+cda0c45,0,Concatenation,0,0.00010270909842802212,True
+3lzak5,1,Concatenation,1,0.9537246227264404,True
+21gbx3,1,Concatenation,1,0.9978139400482178,True
+coinam,0,Concatenation,0,0.06222252547740936,True
+5djqky,1,Concatenation,1,0.9999756813049316,True
+bk6wxz,1,Concatenation,1,0.9999068975448608,True
+cd4nfmw,0,Concatenation,0,0.002458463190123439,True
+3izcfr,1,Concatenation,0,0.05223904550075531,False
+3ixjkm,0,Concatenation,0,0.0006876260158605874,True
+473yvh,0,Concatenation,0,0.0004561255918815732,True
+21o3u8,0,Concatenation,0,0.0006282735848799348,True
+5a1fmj,1,Concatenation,0,0.0016272490611299872,False
+brj4wy,1,Concatenation,1,0.999718964099884,True
+c1if9z,1,Concatenation,1,0.9999980926513672,True
+15zeia,1,Concatenation,1,0.9996956586837769,True
+d7u1dfb,0,Concatenation,0,7.03464393154718e-05,True
+7qvjso,0,Concatenation,1,0.9936785101890564,False
+8vymjw,1,Concatenation,1,0.9999799728393555,True
+b3zni2,0,Concatenation,0,0.026397129520773888,True
+cjkjsmr,0,Concatenation,0,0.0001006598467938602,True
+4fhge0,1,Concatenation,1,0.9996055960655212,True
+cmzylq9,0,Concatenation,0,2.9038218496424406e-09,True
+atk3ni,0,Concatenation,1,0.7802515625953674,False
+96sddx,0,Concatenation,0,1.3462684478326992e-07,True
+7nnujx,1,Concatenation,1,0.9998984336853027,True
+d4zv00n,0,Concatenation,1,0.9821298718452454,False
+ckolfx,1,Concatenation,1,0.9991876482963562,True
+9dkj02,1,Concatenation,1,0.9998917579650879,True
+cocituf,0,Concatenation,0,0.0009687485871836543,True
+69pgnu,0,Concatenation,0,3.2849197850737255e-07,True
+97utvi,0,Concatenation,0,0.01967897079885006,True
+bos3zm,0,Concatenation,1,0.9993568062782288,False
+4vtrg3,0,Concatenation,0,0.07344699651002884,True
+3bdnpd,1,Concatenation,0,0.0373147651553154,False
+87sjsp,1,Concatenation,0,0.04365164786577225,False
+dl1nyy,1,Concatenation,1,0.673175036907196,True
+2s96m6,1,Concatenation,1,0.9864175319671631,True
+dbtj8e,1,Concatenation,1,0.9999959468841553,True
+cbbry9u,0,Concatenation,0,1.5872581027309707e-10,True
+66mik8,1,Concatenation,1,0.9981656670570374,True
+8e0smk,0,Concatenation,0,0.26336243748664856,True
+axpzp7,1,Concatenation,1,0.999992847442627,True
+8mb796,0,Concatenation,0,0.2379535436630249,True
+87h35r,0,Concatenation,0,0.00037329396582208574,True
+bihpx2,1,Concatenation,1,0.9998998641967773,True
+caty0dl,0,Concatenation,0,0.00760766863822937,True
+23vwgj,0,Concatenation,0,0.002831176156178117,True
+cwsyt5w,0,Concatenation,0,0.0004121205711271614,True
+balyih,0,Concatenation,1,0.9855048060417175,False
+67x59w,0,Concatenation,0,0.0004341952153481543,True
+2t1p6f,1,Concatenation,0,0.005414317827671766,False
+c4d8ccw,0,Concatenation,0,3.1410179417434847e-06,True
+9f8glq,1,Concatenation,1,0.999997615814209,True
+8mnwr9,0,Concatenation,0,0.00012337644875515252,True
+ciiqg4p,0,Concatenation,0,0.04518447071313858,True
+8a9x2z,0,Concatenation,1,0.9991045594215393,False
+47rzsk,0,Concatenation,1,0.9036597013473511,False
+d283nk,0,Concatenation,0,0.0015650114510208368,True
+7y43li,0,Concatenation,1,0.9995872378349304,False
+d65l6z,0,Concatenation,0,0.02167377434670925,True
+cdrzqzd,0,Concatenation,0,1.4006515812070575e-05,True
+6sgl84,1,Concatenation,1,0.9930232763290405,True
+9czm4s,1,Concatenation,1,0.9991674423217773,True
+cod659,1,Concatenation,1,0.9981263279914856,True
+7itvgr,0,Concatenation,1,0.9453991651535034,False
+cc540ix,0,Concatenation,0,0.036149077117443085,True
+cl0q9v,0,Concatenation,0,2.6227506168652326e-05,True
+5pr5dn,1,Concatenation,1,0.9932097792625427,True
+c9rfv8w,0,Concatenation,0,8.611030466454395e-07,True
+4dpj0w,1,Concatenation,1,0.985127866268158,True
+3rkpan,1,Concatenation,0,0.002107375068590045,False
+6wfimz,1,Concatenation,0,0.00906965509057045,False
+41h26q,1,Concatenation,1,0.9849260449409485,True
+11ln83,1,Concatenation,0,0.18615587055683136,False
+5onbbj,1,Concatenation,1,0.9879482984542847,True
+91a907,0,Concatenation,1,0.9528304934501648,False
+7po13e,1,Concatenation,1,0.9939910769462585,True
+cy9qkm,1,Concatenation,1,0.9996258020401001,True
+cys35p,1,Concatenation,1,0.9999995231628418,True
+cs4g1f,1,Concatenation,0,4.273912281860248e-07,False
+61is8q,0,Concatenation,0,0.19240908324718475,True
+2sxiqd,0,Concatenation,0,0.00011874583287863061,True
+ck3bio5,0,Concatenation,0,0.009918597526848316,True
+3atjjp,1,Concatenation,1,0.9366580247879028,True
+c74f17j,0,Concatenation,0,9.545263310428709e-06,True
+79z0lg,1,Concatenation,1,0.9174759387969971,True
+7ly0py,0,Concatenation,0,0.000506460084579885,True
+54fvom,0,Concatenation,1,0.9807748794555664,False
+8o8wtz,1,Concatenation,0,0.001504446379840374,False
+2m6ptt,1,Concatenation,1,0.9991204142570496,True
+dd2mm4r,0,Concatenation,0,5.9233555838034135e-09,True
+d2ayuu,1,Concatenation,0,0.08285116404294968,False
+2h4nh0,1,Concatenation,1,0.9471349120140076,True
+3ng41c,1,Concatenation,0,1.2245614016137552e-06,False
+c0ock2,1,Concatenation,1,0.9999994039535522,True
+c2j9fw,1,Concatenation,1,0.9992761015892029,True
+6vz2r2,0,Concatenation,1,0.6378297209739685,False
+140v84,1,Concatenation,1,0.9414999485015869,True
+66wdwv,0,Concatenation,0,0.0009540719329379499,True
+1o5d63,0,Concatenation,0,0.011182774789631367,True
+4yuc47,0,Concatenation,1,0.9994814991950989,False
+dakjyii,0,Concatenation,0,0.0017319029429927468,True
+4hn9er,1,Concatenation,1,0.9992515444755554,True
+ct2opk7,0,Concatenation,0,8.013779861926196e-09,True
+c5r63q,1,Concatenation,1,0.9997947812080383,True
+eo9r6w1,0,Concatenation,0,1.8908950778495637e-06,True
+9g4e07,1,Concatenation,1,0.9999775886535645,True
+9bb90f,1,Concatenation,1,0.999531626701355,True
+25rjwb,0,Concatenation,0,0.002794676460325718,True
+cmezty1,0,Concatenation,0,8.39814831010699e-08,True
+csynbc,1,Concatenation,1,0.9434183239936829,True
+d54ewo,1,Concatenation,1,0.9999995231628418,True
+26qnp5,1,Concatenation,1,0.9966758489608765,True
+6jtok5,1,Concatenation,1,0.9999829530715942,True
+b6kj0m,1,Concatenation,1,0.9999899864196777,True
+cqo5m0,1,Concatenation,1,0.9994945526123047,True
+crqy6nz,0,Concatenation,0,0.0004380373575259,True
+cu21e1t,0,Concatenation,0,0.00045595320989377797,True
+5wzho7,1,Concatenation,1,0.7756527066230774,True
+46w2w8,0,Concatenation,0,8.175730181392282e-05,True
+2q01qd,0,Concatenation,0,0.00020261762256268412,True
+6hvzy7,1,Concatenation,1,0.9973787069320679,True
+bufll5,0,Concatenation,0,0.004688554909080267,True
+5e95lt,1,Concatenation,1,0.9963484406471252,True
+bzaruc,1,Concatenation,1,0.999985933303833,True
+ddc47u0,0,Concatenation,0,0.0002035418146988377,True
+6x4wbn,1,Concatenation,1,0.9999951124191284,True
+ch2mo90,0,Concatenation,0,0.0008857916691340506,True
+biwb5a,1,Concatenation,1,0.8439974784851074,True
+7nkm5p,0,Concatenation,1,0.630287766456604,False
+d944m4,1,Concatenation,1,0.9999635219573975,True
+dmisbow,0,Concatenation,0,1.055519805959193e-05,True
+dhd9d1x,0,Concatenation,0,0.0010426868684589863,True
+450go7,1,Concatenation,1,0.995697021484375,True
+c94krpd,0,Concatenation,0,3.4141958167310804e-05,True
+crl5c6i,0,Concatenation,0,0.0007994589977897704,True
+d0auoob,0,Concatenation,0,0.00020230431982781738,True
+3d8h1w,0,Concatenation,0,1.6491065252921544e-05,True
+cb0klhd,0,Concatenation,0,5.5319290481747885e-08,True
+81n645,0,Concatenation,0,0.13978321850299835,True
+dna38rg,0,Concatenation,0,1.0726588506315693e-08,True
+b3y6q8,1,Concatenation,1,0.9999992847442627,True
+bszll4,1,Concatenation,1,0.9981768131256104,True
+bwookn,1,Concatenation,0,0.15289099514484406,False
+cpramg4,0,Concatenation,0,0.00047631238703615963,True
+ccrc7y,0,Concatenation,1,0.9269320368766785,False
+dc4jr6,1,Concatenation,1,0.9999569654464722,True
+3cqf4z,1,Concatenation,1,0.999026894569397,True
+157j2b,1,Concatenation,0,0.0002940103877335787,False
+cu1j34u,0,Concatenation,0,9.498809845354117e-07,True
+cf3vq94,0,Concatenation,0,2.5216806534444913e-05,True
+18mfr9,1,Concatenation,1,0.9899615049362183,True
+37mao4,1,Concatenation,0,0.00020308683451730758,False
+8vmnhq,1,Concatenation,0,0.06647665053606033,False
+c2679i,1,Concatenation,1,0.9999971389770508,True
+dy9k4ma,0,Concatenation,0,4.451097993296571e-06,True
+7qoqh5,1,Concatenation,1,0.9930822849273682,True
+5i7e5y,1,Concatenation,1,0.9999905824661255,True
+cmko4gx,0,Concatenation,0,0.1988099366426468,True
+b2zrm2,1,Concatenation,1,0.9951409101486206,True
+dgaxk4,1,Concatenation,1,0.9999392032623291,True
+2w8mpt,1,Concatenation,1,0.886610746383667,True
+d05rrww,0,Concatenation,0,0.0031230247113853693,True
+c6mv27n,0,Concatenation,0,4.733347668661736e-05,True
+2n7rrq,1,Concatenation,1,0.7332655191421509,True
+8ucjrq,0,Concatenation,0,2.9439199806802208e-06,True
+cxfdlg,0,Concatenation,0,5.656863777403487e-07,True
+est67as,0,Concatenation,0,1.408418484061258e-06,True
+50kwy0,1,Concatenation,1,0.9861719012260437,True
+2ifwzf,1,Concatenation,0,0.027981944382190704,False
+7hzqj7,1,Concatenation,0,0.22843290865421295,False
+3gvs00,0,Concatenation,0,0.00025241594994440675,True
+dcrgz2,1,Concatenation,1,0.9986388087272644,True
+121du8,1,Concatenation,1,0.9930363297462463,True
+1nvsfu,1,Concatenation,0,0.10517454147338867,False
+8hccqu,1,Concatenation,1,0.9988123178482056,True
+c9xdnh4,0,Concatenation,0,2.5868362740766315e-07,True
+cp0qyr,1,Concatenation,1,0.9295209646224976,True
+cj7jc3y,0,Concatenation,0,3.713901131074948e-10,True
+cc2z6em,0,Concatenation,0,5.819280772811908e-07,True
+2ufzff,0,Concatenation,0,0.0007582010002806783,True
+c8upxra,0,Concatenation,0,1.2340906963004272e-08,True
+7qfhfp,0,Concatenation,0,0.014033554121851921,True
+cota07y,0,Concatenation,0,0.0001079915527952835,True
+9d27mn,1,Concatenation,1,0.9962150454521179,True
+cuqzf5j,0,Concatenation,0,6.218164799065562e-06,True
+cia8ta3,0,Concatenation,1,0.7988601326942444,False
+cd9qxwu,0,Concatenation,0,0.009878380224108696,True
+3rdx0d,1,Concatenation,0,0.3683702051639557,False
+2iuyu2,1,Concatenation,1,0.9971646666526794,True
+1935ik,1,Concatenation,1,0.728499710559845,True
+ddabkh,1,Concatenation,1,0.9999337196350098,True
+2gi2yw,1,Concatenation,1,0.6452751159667969,True
+5ebxyx,1,Concatenation,1,0.9926983714103699,True
+dft09d,1,Concatenation,1,0.706479549407959,True
+8if89w,1,Concatenation,1,0.7236132621765137,True
+12eu9x,1,Concatenation,0,0.09646452963352203,False
+cfq8i6,1,Concatenation,1,0.9999929666519165,True
+1kden7,1,Concatenation,1,0.9731219410896301,True
+379zex,1,Concatenation,1,0.9535642862319946,True
+5x394r,1,Concatenation,0,0.054478202015161514,False
+47644r,1,Concatenation,0,0.2597222626209259,False
+4r6oug,1,Concatenation,0,0.052586063742637634,False
+56wcg9,1,Concatenation,1,0.9999140501022339,True
+53o86m,0,Concatenation,0,0.002541657304391265,True
+dw2v6yo,0,Concatenation,0,4.3003686722720147e-10,True
+ccweof,1,Concatenation,1,0.9994217157363892,True
+5us4a4,0,Concatenation,0,0.006772825960069895,True
+bcyzt9,1,Concatenation,1,0.9999997615814209,True
+d65u4a,1,Concatenation,0,0.0005004541017115116,False
+ejkewe1,0,Concatenation,0,3.092654424108332e-06,True
+2rymnx,0,Concatenation,0,0.05349977687001228,True
+6i23e4,0,Concatenation,1,0.8957195281982422,False
+9fr8wx,0,Concatenation,1,0.9663830399513245,False
+c76ut59,0,Concatenation,1,0.99394291639328,False
+b83zxf,1,Concatenation,1,0.9999217987060547,True
+c60xvnf,0,Concatenation,0,6.780036346754059e-05,True
+7aj6di,1,Concatenation,1,0.997961163520813,True
+5p3yvg,0,Concatenation,0,5.489089380716905e-05,True
+bwy862,1,Concatenation,1,0.9999866485595703,True
+6tqw2f,0,Concatenation,0,1.1541520507307723e-05,True
+uncvx,1,Concatenation,0,0.04764580354094505,False
+d1h1gm,1,Concatenation,1,0.9997569918632507,True
+5re6n7,1,Concatenation,1,0.9999978542327881,True
+6292e3,0,Concatenation,0,0.05685451626777649,True
+cazzu2,1,Concatenation,1,0.9938040971755981,True
+ch8qtnk,0,Concatenation,0,2.834782435456873e-06,True
+c7ssef,1,Concatenation,1,0.999427080154419,True
+axpr18,0,Concatenation,0,0.03476877138018608,True
+1o9iki,1,Concatenation,1,0.9935682415962219,True
+50kw9j,1,Concatenation,1,0.9998410940170288,True
+d4djtb5,0,Concatenation,0,1.4877268768032081e-06,True
+1i9a8l,1,Concatenation,0,0.004915484692901373,False
+1nq9cq,1,Concatenation,1,0.9888805150985718,True
+39tj21,1,Concatenation,1,0.9979099631309509,True
+cqvdpl,1,Concatenation,1,0.9997232556343079,True
+cws4ubd,0,Concatenation,0,1.4622709443301574e-07,True
+cggg35c,0,Concatenation,0,2.6992092898581177e-06,True
+cb17dj4,0,Concatenation,0,1.5762752809678204e-05,True
+ct2bj2g,0,Concatenation,0,2.0486595531110652e-05,True
+blzv2k,1,Concatenation,1,0.995496392250061,True
+baao1g,0,Concatenation,0,0.0002796773915179074,True
+8mzd12,0,Concatenation,0,0.4461645483970642,True
+7yx1px,0,Concatenation,0,5.167315975995734e-06,True
+9i5u8n,0,Concatenation,0,1.3648957974510267e-05,True
+bbce6d,1,Concatenation,1,0.9999797344207764,True
+3h4p39,1,Concatenation,1,0.9982408285140991,True
+dh8sz1,1,Concatenation,1,0.9997915625572205,True
+81j4eu,0,Concatenation,1,0.8759056329727173,False
+2sy4zn,1,Concatenation,0,0.11577869951725006,False
+552xl7,0,Concatenation,0,0.00043643894605338573,True
+8k6gnf,1,Concatenation,1,0.9993409514427185,True
+1vzo2j,0,Concatenation,0,0.04561606049537659,True
+bmer2p,1,Concatenation,1,0.9765985012054443,True
+6y7oh1,1,Concatenation,1,0.9972215890884399,True
+b26r1c,1,Concatenation,1,0.9987941980361938,True
+ai08p0,1,Concatenation,1,0.9569553136825562,True
+d7t7fvf,0,Concatenation,0,0.0011663306504487991,True
+7fztxz,0,Concatenation,0,0.0014863518299534917,True
+div36us,0,Concatenation,0,7.119247413811536e-09,True
+10cpga,1,Concatenation,0,0.0014660225715488195,False
+b62nh4,0,Concatenation,1,0.9974634647369385,False
+blm6x6,1,Concatenation,1,0.8644561171531677,True
+17l1ze,0,Concatenation,0,5.57670546186273e-06,True
+9bzeg8,1,Concatenation,1,0.9458268284797668,True
+3hgz5a,1,Concatenation,1,0.9996216297149658,True
+5a3oy1,0,Concatenation,0,4.159267973591341e-06,True
+4xicjg,1,Concatenation,1,0.9999967813491821,True
+dbrs1k,0,Concatenation,1,0.976086437702179,False
+cs9dasf,0,Concatenation,0,0.00994039699435234,True
+asen4h,0,Concatenation,0,0.3591896891593933,True
+ciqyv76,0,Concatenation,0,1.1311977687000763e-05,True
+dkp9lk,1,Concatenation,1,0.9999798536300659,True
+37c2lb,1,Concatenation,1,0.9998180270195007,True
+8cro5h,0,Concatenation,0,0.45455458760261536,True
+bsdijx,1,Concatenation + CLIP similarity,0,0.2286176234483719,False
+31p3nx,1,Concatenation + CLIP similarity,1,0.5862298607826233,True
+mgcej,0,Concatenation + CLIP similarity,1,0.8987170457839966,False
+arsxc0,1,Concatenation + CLIP similarity,1,0.8573118448257446,True
+6pv2v7,0,Concatenation + CLIP similarity,0,0.4294202923774719,True
+c6e1pbo,0,Concatenation + CLIP similarity,0,0.0004207718593534082,True
+coffor,1,Concatenation + CLIP similarity,1,0.5873309373855591,True
+c71dkmd,0,Concatenation + CLIP similarity,0,0.4297768771648407,True
+bqa6yb,1,Concatenation + CLIP similarity,1,0.615333080291748,True
+at78lh,0,Concatenation + CLIP similarity,0,0.006273358128964901,True
+bmnjm8,0,Concatenation + CLIP similarity,0,0.46625325083732605,True
+1l4xu5,1,Concatenation + CLIP similarity,1,0.9323757290840149,True
+cz84lr,0,Concatenation + CLIP similarity,1,0.5755260586738586,False
+830csd,0,Concatenation + CLIP similarity,0,0.019878385588526726,True
+7utja8,0,Concatenation + CLIP similarity,1,0.9596681594848633,False
+ciogbdx,0,Concatenation + CLIP similarity,0,0.001789967413060367,True
+2xctjd,1,Concatenation + CLIP similarity,1,0.7780278921127319,True
+26vk7z,1,Concatenation + CLIP similarity,1,0.5927652716636658,True
+v6krw,1,Concatenation + CLIP similarity,0,0.2105257511138916,False
+2z8fq5,1,Concatenation + CLIP similarity,0,0.37380191683769226,False
+esk7qje,0,Concatenation + CLIP similarity,0,0.013764631934463978,True
+23fn5k,0,Concatenation + CLIP similarity,0,0.10959632694721222,True
+8ol6xj,1,Concatenation + CLIP similarity,1,0.9042642712593079,True
+737nb5,1,Concatenation + CLIP similarity,1,0.9318131804466248,True
+9im54n,0,Concatenation + CLIP similarity,0,0.006060576532036066,True
+196iv1,1,Concatenation + CLIP similarity,0,0.29872027039527893,False
+38nqxb,0,Concatenation + CLIP similarity,0,0.01137289684265852,True
+19gwq7,1,Concatenation + CLIP similarity,0,0.29972901940345764,False
+8d4ceb,1,Concatenation + CLIP similarity,1,0.8646857738494873,True
+80ivhd,0,Concatenation + CLIP similarity,0,0.15397049486637115,True
+2nfjw0,1,Concatenation + CLIP similarity,1,0.7540695071220398,True
+cvwcfcc,0,Concatenation + CLIP similarity,0,0.037015218287706375,True
+1ar30x,1,Concatenation + CLIP similarity,0,0.2740759253501892,False
+b0ebsi,0,Concatenation + CLIP similarity,0,0.1893051564693451,True
+bp3zxd,1,Concatenation + CLIP similarity,1,0.8344335556030273,True
+co9kl38,0,Concatenation + CLIP similarity,0,8.96088113222504e-06,True
+cezz89e,0,Concatenation + CLIP similarity,1,0.5123271346092224,False
+2cvj8y,1,Concatenation + CLIP similarity,1,0.897130012512207,True
+5qms4x,0,Concatenation + CLIP similarity,1,0.7827680110931396,False
+2lb2pq,0,Concatenation + CLIP similarity,0,0.00025706939049996436,True
+b2a73p,1,Concatenation + CLIP similarity,1,0.8934220671653748,True
+e4t1vdw,0,Concatenation + CLIP similarity,0,0.02338009513914585,True
+8w1k0i,0,Concatenation + CLIP similarity,0,0.13443858921527863,True
+8vzaoi,0,Concatenation + CLIP similarity,1,0.9550364017486572,False
+72s20b,0,Concatenation + CLIP similarity,0,0.011124745011329651,True
+8w7ik0,1,Concatenation + CLIP similarity,1,0.9100071787834167,True
+5pxa5r,0,Concatenation + CLIP similarity,0,0.0009540746686980128,True
+5jryrp,0,Concatenation + CLIP similarity,0,0.08672097325325012,True
+9g6ojz,0,Concatenation + CLIP similarity,0,0.30875352025032043,True
+cnwql2f,0,Concatenation + CLIP similarity,0,0.009379969909787178,True
+axq61p,0,Concatenation + CLIP similarity,0,0.4996190667152405,True
+2l7o3v,1,Concatenation + CLIP similarity,1,0.8168537020683289,True
+djsk1s,1,Concatenation + CLIP similarity,1,0.9950083494186401,True
+6h4m6u,0,Concatenation + CLIP similarity,0,0.013660874217748642,True
+2urrle,1,Concatenation + CLIP similarity,0,0.24631328880786896,False
+e0v1vo9,0,Concatenation + CLIP similarity,0,0.002300403080880642,True
+c5w88n,1,Concatenation + CLIP similarity,1,0.9736562967300415,True
+cnh101p,0,Concatenation + CLIP similarity,0,0.0023935132194310427,True
+7bfkuz,0,Concatenation + CLIP similarity,1,0.5800307393074036,False
+cmztedc,0,Concatenation + CLIP similarity,0,0.0010789026273414493,True
+cgsr09,0,Concatenation + CLIP similarity,0,0.18209654092788696,True
+biuzps,1,Concatenation + CLIP similarity,1,0.99803227186203,True
+4xpu4i,1,Concatenation + CLIP similarity,0,0.3184766173362732,False
+5v2iit,0,Concatenation + CLIP similarity,0,0.04241066053509712,True
+7h4a11,0,Concatenation + CLIP similarity,0,0.09348563104867935,True
+16b5im,0,Concatenation + CLIP similarity,0,0.019701091572642326,True
+4jrqqd,1,Concatenation + CLIP similarity,1,0.9577341675758362,True
+be1a05,1,Concatenation + CLIP similarity,1,0.7524908185005188,True
+83oqyi,1,Concatenation + CLIP similarity,1,0.9829753041267395,True
+7acpde,0,Concatenation + CLIP similarity,1,0.5791739821434021,False
+audo85,1,Concatenation + CLIP similarity,1,0.9759499430656433,True
+daq2fk,0,Concatenation + CLIP similarity,0,0.0048853266052901745,True
+dn7a0ql,0,Concatenation + CLIP similarity,0,0.0890178382396698,True
+covoqre,0,Concatenation + CLIP similarity,0,0.0018510811496526003,True
+cht7go,1,Concatenation + CLIP similarity,1,0.9900938868522644,True
+6ex7pi,1,Concatenation + CLIP similarity,1,0.9954026937484741,True
+3k2xdj,1,Concatenation + CLIP similarity,1,0.6365809440612793,True
+2ya2dg,1,Concatenation + CLIP similarity,0,0.04473469406366348,False
+dhq3hrc,0,Concatenation + CLIP similarity,0,0.0004211305931676179,True
+3g4e1z,1,Concatenation + CLIP similarity,1,0.793084442615509,True
+7ynoip,0,Concatenation + CLIP similarity,1,0.9713767766952515,False
+dwysmxv,0,Concatenation + CLIP similarity,0,0.006512991618365049,True
+cmrwgs,1,Concatenation + CLIP similarity,1,0.8010348081588745,True
+2ocah5,1,Concatenation + CLIP similarity,1,0.9844403266906738,True
+826z85,1,Concatenation + CLIP similarity,1,0.9981549382209778,True
+31g6cv,0,Concatenation + CLIP similarity,0,0.028908630833029747,True
+4ec5zw,1,Concatenation + CLIP similarity,1,0.9699301719665527,True
+5a7jrf,1,Concatenation + CLIP similarity,1,0.8883506655693054,True
+ch3lfr1,0,Concatenation + CLIP similarity,0,0.0015881024301052094,True
+6svb6q,0,Concatenation + CLIP similarity,0,0.03381726145744324,True
+9cmylg,1,Concatenation + CLIP similarity,0,0.2931477129459381,False
+c6yvn8,1,Concatenation + CLIP similarity,1,0.9857571721076965,True
+7y22r0,0,Concatenation + CLIP similarity,1,0.6687952876091003,False
+7wzqot,1,Concatenation + CLIP similarity,0,0.3741321265697479,False
+c52du7f,0,Concatenation + CLIP similarity,0,0.00011208051728317514,True
+23nqfm,1,Concatenation + CLIP similarity,0,0.07269497215747833,False
+4wk154,1,Concatenation + CLIP similarity,1,0.7478808760643005,True
+bfd5tz,1,Concatenation + CLIP similarity,1,0.6429994106292725,True
+3l1894,1,Concatenation + CLIP similarity,1,0.7559398412704468,True
+5ju942,0,Concatenation + CLIP similarity,1,0.5596928000450134,False
+3k55nb,1,Concatenation + CLIP similarity,1,0.9968628883361816,True
+9c76kg,0,Concatenation + CLIP similarity,1,0.8627456426620483,False
+cbh8w3w,0,Concatenation + CLIP similarity,0,0.026129357516765594,True
+5h7o2o,0,Concatenation + CLIP similarity,0,0.2046670913696289,True
+cz355st,0,Concatenation + CLIP similarity,0,1.1445634299889207e-05,True
+2u4gfl,0,Concatenation + CLIP similarity,0,0.013780833221971989,True
+cr6c0h2,0,Concatenation + CLIP similarity,0,0.00040606700349599123,True
+awh82b,0,Concatenation + CLIP similarity,0,0.01390707865357399,True
+66bna9,1,Concatenation + CLIP similarity,1,0.790194034576416,True
+5m4uuw,1,Concatenation + CLIP similarity,0,0.08662305772304535,False
+8qyry4,0,Concatenation + CLIP similarity,0,0.17056389153003693,True
+5ufr62,1,Concatenation + CLIP similarity,0,0.256293386220932,False
+d2x5if,1,Concatenation + CLIP similarity,1,0.843267023563385,True
+1p3nwy,1,Concatenation + CLIP similarity,0,0.013975993730127811,False
+4eu6tf,1,Concatenation + CLIP similarity,1,0.9591766595840454,True
+7xi8c1,0,Concatenation + CLIP similarity,0,0.019779644906520844,True
+c6atxga,0,Concatenation + CLIP similarity,0,0.18463850021362305,True
+awktsf,1,Concatenation + CLIP similarity,1,0.6698930263519287,True
+cfhf10,1,Concatenation + CLIP similarity,0,0.44012686610221863,False
+azoxbn,1,Concatenation + CLIP similarity,0,0.1010744720697403,False
+c47052m,0,Concatenation + CLIP similarity,0,0.0027753685135394335,True
+5a5p2b,0,Concatenation + CLIP similarity,1,0.7752536535263062,False
+brdglr,0,Concatenation + CLIP similarity,0,0.2677401006221771,True
+57h7k1,1,Concatenation + CLIP similarity,1,0.6422215104103088,True
+7ritxn,0,Concatenation + CLIP similarity,0,0.011311736889183521,True
+cda0c45,0,Concatenation + CLIP similarity,0,0.0015594747383147478,True
+3lzak5,1,Concatenation + CLIP similarity,0,0.4824579060077667,False
+21gbx3,1,Concatenation + CLIP similarity,1,0.9364140629768372,True
+coinam,0,Concatenation + CLIP similarity,0,0.36329564452171326,True
+5djqky,1,Concatenation + CLIP similarity,1,0.9930437803268433,True
+bk6wxz,1,Concatenation + CLIP similarity,1,0.9770832061767578,True
+cd4nfmw,0,Concatenation + CLIP similarity,0,0.042352765798568726,True
+3izcfr,1,Concatenation + CLIP similarity,0,0.30030086636543274,False
+3ixjkm,0,Concatenation + CLIP similarity,0,0.03961518406867981,True
+473yvh,0,Concatenation + CLIP similarity,0,0.01604863628745079,True
+21o3u8,0,Concatenation + CLIP similarity,0,0.0727059617638588,True
+5a1fmj,1,Concatenation + CLIP similarity,0,0.04036904126405716,False
+brj4wy,1,Concatenation + CLIP similarity,1,0.9526289701461792,True
+c1if9z,1,Concatenation + CLIP similarity,1,0.989887535572052,True
+15zeia,1,Concatenation + CLIP similarity,1,0.9130842089653015,True
+d7u1dfb,0,Concatenation + CLIP similarity,0,0.00309086125344038,True
+7qvjso,0,Concatenation + CLIP similarity,1,0.7854933738708496,False
+8vymjw,1,Concatenation + CLIP similarity,1,0.9966057538986206,True
+b3zni2,0,Concatenation + CLIP similarity,1,0.5693717002868652,False
+cjkjsmr,0,Concatenation + CLIP similarity,0,0.005890442989766598,True
+4fhge0,1,Concatenation + CLIP similarity,1,0.9738638401031494,True
+cmzylq9,0,Concatenation + CLIP similarity,0,0.0004367851943243295,True
+atk3ni,0,Concatenation + CLIP similarity,1,0.8167937397956848,False
+96sddx,0,Concatenation + CLIP similarity,0,0.0011696098372340202,True
+7nnujx,1,Concatenation + CLIP similarity,1,0.9874383807182312,True
+d4zv00n,0,Concatenation + CLIP similarity,1,0.8887908458709717,False
+ckolfx,1,Concatenation + CLIP similarity,1,0.8377097249031067,True
+9dkj02,1,Concatenation + CLIP similarity,1,0.9744457602500916,True
+cocituf,0,Concatenation + CLIP similarity,0,0.011877058073878288,True
+69pgnu,0,Concatenation + CLIP similarity,0,0.0010885668452829123,True
+97utvi,0,Concatenation + CLIP similarity,0,0.11782471090555191,True
+bos3zm,0,Concatenation + CLIP similarity,1,0.707200825214386,False
+4vtrg3,0,Concatenation + CLIP similarity,1,0.5752600431442261,False
+3bdnpd,1,Concatenation + CLIP similarity,0,0.34178420901298523,False
+87sjsp,1,Concatenation + CLIP similarity,0,0.4719463288784027,False
+dl1nyy,1,Concatenation + CLIP similarity,0,0.12926208972930908,False
+2s96m6,1,Concatenation + CLIP similarity,1,0.5720043182373047,True
+dbtj8e,1,Concatenation + CLIP similarity,1,0.9968596696853638,True
+cbbry9u,0,Concatenation + CLIP similarity,0,9.405749733559787e-05,True
+66mik8,1,Concatenation + CLIP similarity,1,0.8938368558883667,True
+8e0smk,0,Concatenation + CLIP similarity,0,0.25047457218170166,True
+axpzp7,1,Concatenation + CLIP similarity,1,0.9907419085502625,True
+8mb796,0,Concatenation + CLIP similarity,1,0.6313803195953369,False
+87h35r,0,Concatenation + CLIP similarity,0,0.014224116690456867,True
+bihpx2,1,Concatenation + CLIP similarity,1,0.9423937797546387,True
+caty0dl,0,Concatenation + CLIP similarity,0,0.11980021744966507,True
+23vwgj,0,Concatenation + CLIP similarity,0,0.02252933941781521,True
+cwsyt5w,0,Concatenation + CLIP similarity,0,0.013692283071577549,True
+balyih,0,Concatenation + CLIP similarity,1,0.9137735962867737,False
+67x59w,0,Concatenation + CLIP similarity,0,0.07870659232139587,True
+2t1p6f,1,Concatenation + CLIP similarity,0,0.12005527317523956,False
+c4d8ccw,0,Concatenation + CLIP similarity,0,0.003029721090570092,True
+9f8glq,1,Concatenation + CLIP similarity,1,0.998071014881134,True
+8mnwr9,0,Concatenation + CLIP similarity,0,0.014790721237659454,True
+ciiqg4p,0,Concatenation + CLIP similarity,0,0.08894605934619904,True
+8a9x2z,0,Concatenation + CLIP similarity,1,0.9470499753952026,False
+47rzsk,0,Concatenation + CLIP similarity,1,0.8106937408447266,False
+d283nk,0,Concatenation + CLIP similarity,0,0.09293889999389648,True
+7y43li,0,Concatenation + CLIP similarity,1,0.9024623036384583,False
+d65l6z,0,Concatenation + CLIP similarity,0,0.33535513281822205,True
+cdrzqzd,0,Concatenation + CLIP similarity,0,0.06716497987508774,True
+6sgl84,1,Concatenation + CLIP similarity,1,0.8941527009010315,True
+9czm4s,1,Concatenation + CLIP similarity,1,0.9468780159950256,True
+cod659,1,Concatenation + CLIP similarity,1,0.9087468981742859,True
+7itvgr,0,Concatenation + CLIP similarity,1,0.8739105463027954,False
+cc540ix,0,Concatenation + CLIP similarity,0,0.35753384232521057,True
+cl0q9v,0,Concatenation + CLIP similarity,0,0.007211367599666119,True
+5pr5dn,1,Concatenation + CLIP similarity,1,0.6980046629905701,True
+c9rfv8w,0,Concatenation + CLIP similarity,0,0.00040672020986676216,True
+4dpj0w,1,Concatenation + CLIP similarity,1,0.8727507591247559,True
+3rkpan,1,Concatenation + CLIP similarity,0,0.10206928104162216,False
+6wfimz,1,Concatenation + CLIP similarity,0,0.050848934799432755,False
+41h26q,1,Concatenation + CLIP similarity,1,0.9853373169898987,True
+11ln83,1,Concatenation + CLIP similarity,0,0.33610084652900696,False
+5onbbj,1,Concatenation + CLIP similarity,1,0.5150748491287231,True
+91a907,0,Concatenation + CLIP similarity,0,0.47230634093284607,True
+7po13e,1,Concatenation + CLIP similarity,1,0.8444165587425232,True
+cy9qkm,1,Concatenation + CLIP similarity,1,0.9694413542747498,True
+cys35p,1,Concatenation + CLIP similarity,1,0.9972297549247742,True
+cs4g1f,1,Concatenation + CLIP similarity,0,0.004340796731412411,False
+61is8q,0,Concatenation + CLIP similarity,0,0.4920055866241455,True
+2sxiqd,0,Concatenation + CLIP similarity,0,0.028470581397414207,True
+ck3bio5,0,Concatenation + CLIP similarity,0,0.016470003873109818,True
+3atjjp,1,Concatenation + CLIP similarity,1,0.7406651377677917,True
+c74f17j,0,Concatenation + CLIP similarity,0,0.001626215293072164,True
+79z0lg,1,Concatenation + CLIP similarity,1,0.5970189571380615,True
+7ly0py,0,Concatenation + CLIP similarity,0,0.044080935418605804,True
+54fvom,0,Concatenation + CLIP similarity,1,0.9272523522377014,False
+8o8wtz,1,Concatenation + CLIP similarity,0,0.1945353001356125,False
+2m6ptt,1,Concatenation + CLIP similarity,1,0.924875795841217,True
+dd2mm4r,0,Concatenation + CLIP similarity,0,0.0011261125328019261,True
+d2ayuu,1,Concatenation + CLIP similarity,1,0.5523412227630615,True
+2h4nh0,1,Concatenation + CLIP similarity,1,0.7439533472061157,True
+3ng41c,1,Concatenation + CLIP similarity,0,0.007893879897892475,False
+c0ock2,1,Concatenation + CLIP similarity,1,0.9989480376243591,True
+c2j9fw,1,Concatenation + CLIP similarity,1,0.9151269197463989,True
+6vz2r2,0,Concatenation + CLIP similarity,1,0.7991647720336914,False
+140v84,1,Concatenation + CLIP similarity,1,0.6415286660194397,True
+66wdwv,0,Concatenation + CLIP similarity,0,0.0531126968562603,True
+1o5d63,0,Concatenation + CLIP similarity,0,0.06809880584478378,True
+4yuc47,0,Concatenation + CLIP similarity,1,0.7663565874099731,False
+dakjyii,0,Concatenation + CLIP similarity,0,0.15545767545700073,True
+4hn9er,1,Concatenation + CLIP similarity,1,0.6726593971252441,True
+ct2opk7,0,Concatenation + CLIP similarity,0,0.0006799905677326024,True
+c5r63q,1,Concatenation + CLIP similarity,1,0.9110915660858154,True
+eo9r6w1,0,Concatenation + CLIP similarity,0,0.005301016848534346,True
+9g4e07,1,Concatenation + CLIP similarity,1,0.9972895383834839,True
+9bb90f,1,Concatenation + CLIP similarity,1,0.9596464037895203,True
+25rjwb,0,Concatenation + CLIP similarity,0,0.23521597683429718,True
+cmezty1,0,Concatenation + CLIP similarity,0,0.0005650657694786787,True
+csynbc,1,Concatenation + CLIP similarity,1,0.9331861138343811,True
+d54ewo,1,Concatenation + CLIP similarity,1,0.9978355765342712,True
+26qnp5,1,Concatenation + CLIP similarity,0,0.4462173879146576,False
+6jtok5,1,Concatenation + CLIP similarity,1,0.9871959686279297,True
+b6kj0m,1,Concatenation + CLIP similarity,1,0.9959867596626282,True
+cqo5m0,1,Concatenation + CLIP similarity,1,0.8938152194023132,True
+crqy6nz,0,Concatenation + CLIP similarity,0,0.04009132832288742,True
+cu21e1t,0,Concatenation + CLIP similarity,0,0.009968696162104607,True
+5wzho7,1,Concatenation + CLIP similarity,1,0.5736274719238281,True
+46w2w8,0,Concatenation + CLIP similarity,0,0.012984568253159523,True
+2q01qd,0,Concatenation + CLIP similarity,0,0.09879182279109955,True
+6hvzy7,1,Concatenation + CLIP similarity,1,0.9402285218238831,True
+bufll5,0,Concatenation + CLIP similarity,0,0.029813267290592194,True
+5e95lt,1,Concatenation + CLIP similarity,1,0.9293971657752991,True
+bzaruc,1,Concatenation + CLIP similarity,1,0.9927384257316589,True
+ddc47u0,0,Concatenation + CLIP similarity,0,0.022963454946875572,True
+6x4wbn,1,Concatenation + CLIP similarity,1,0.999325156211853,True
+ch2mo90,0,Concatenation + CLIP similarity,0,0.005376633256673813,True
+biwb5a,1,Concatenation + CLIP similarity,1,0.724686324596405,True
+7nkm5p,0,Concatenation + CLIP similarity,1,0.7235925197601318,False
+d944m4,1,Concatenation + CLIP similarity,1,0.9937339425086975,True
+dmisbow,0,Concatenation + CLIP similarity,0,0.006165466737002134,True
+dhd9d1x,0,Concatenation + CLIP similarity,0,0.03727598488330841,True
+450go7,1,Concatenation + CLIP similarity,1,0.7671387195587158,True
+c94krpd,0,Concatenation + CLIP similarity,0,0.0029377646278589964,True
+crl5c6i,0,Concatenation + CLIP similarity,0,0.04508773609995842,True
+d0auoob,0,Concatenation + CLIP similarity,0,0.041090261191129684,True
+3d8h1w,0,Concatenation + CLIP similarity,0,0.0033175849821418524,True
+cb0klhd,0,Concatenation + CLIP similarity,0,0.0011603337479755282,True
+81n645,0,Concatenation + CLIP similarity,0,0.17967724800109863,True
+dna38rg,0,Concatenation + CLIP similarity,0,5.9029429394286126e-05,True
+b3y6q8,1,Concatenation + CLIP similarity,1,0.9968093037605286,True
+bszll4,1,Concatenation + CLIP similarity,1,0.9288132190704346,True
+bwookn,1,Concatenation + CLIP similarity,0,0.3293983042240143,False
+cpramg4,0,Concatenation + CLIP similarity,0,0.012194810435175896,True
+ccrc7y,0,Concatenation + CLIP similarity,1,0.6814362406730652,False
+dc4jr6,1,Concatenation + CLIP similarity,1,0.944536566734314,True
+3cqf4z,1,Concatenation + CLIP similarity,1,0.8463540077209473,True
+157j2b,1,Concatenation + CLIP similarity,0,0.05365629866719246,False
+cu1j34u,0,Concatenation + CLIP similarity,0,0.000732346554286778,True
+cf3vq94,0,Concatenation + CLIP similarity,0,0.003317116526886821,True
+18mfr9,1,Concatenation + CLIP similarity,1,0.889481246471405,True
+37mao4,1,Concatenation + CLIP similarity,0,0.007214768789708614,False
+8vmnhq,1,Concatenation + CLIP similarity,1,0.5057819485664368,True
+c2679i,1,Concatenation + CLIP similarity,1,0.9967830181121826,True
+dy9k4ma,0,Concatenation + CLIP similarity,0,0.003630485152825713,True
+7qoqh5,1,Concatenation + CLIP similarity,1,0.9692626595497131,True
+5i7e5y,1,Concatenation + CLIP similarity,1,0.9894531965255737,True
+cmko4gx,0,Concatenation + CLIP similarity,0,0.04953258857131004,True
+b2zrm2,1,Concatenation + CLIP similarity,0,0.4260587990283966,False
+dgaxk4,1,Concatenation + CLIP similarity,1,0.9848920106887817,True
+2w8mpt,1,Concatenation + CLIP similarity,1,0.68600994348526,True
+d05rrww,0,Concatenation + CLIP similarity,0,0.10300515592098236,True
+c6mv27n,0,Concatenation + CLIP similarity,0,0.023264143615961075,True
+2n7rrq,1,Concatenation + CLIP similarity,1,0.6108468174934387,True
+8ucjrq,0,Concatenation + CLIP similarity,0,0.0016681982669979334,True
+cxfdlg,0,Concatenation + CLIP similarity,0,0.002763392636552453,True
+est67as,0,Concatenation + CLIP similarity,0,0.001811355585232377,True
+50kwy0,1,Concatenation + CLIP similarity,1,0.5833015441894531,True
+2ifwzf,1,Concatenation + CLIP similarity,0,0.19310833513736725,False
+7hzqj7,1,Concatenation + CLIP similarity,0,0.1690426617860794,False
+3gvs00,0,Concatenation + CLIP similarity,0,0.008135208860039711,True
+dcrgz2,1,Concatenation + CLIP similarity,1,0.8524772524833679,True
+121du8,1,Concatenation + CLIP similarity,1,0.8428090810775757,True
+1nvsfu,1,Concatenation + CLIP similarity,0,0.223213791847229,False
+8hccqu,1,Concatenation + CLIP similarity,1,0.8111258149147034,True
+c9xdnh4,0,Concatenation + CLIP similarity,0,0.001255896408110857,True
+cp0qyr,1,Concatenation + CLIP similarity,1,0.8435071110725403,True
+cj7jc3y,0,Concatenation + CLIP similarity,0,5.844962288392708e-05,True
+cc2z6em,0,Concatenation + CLIP similarity,0,0.0022407867945730686,True
+2ufzff,0,Concatenation + CLIP similarity,0,0.045823898166418076,True
+c8upxra,0,Concatenation + CLIP similarity,0,0.0004805575299542397,True
+7qfhfp,0,Concatenation + CLIP similarity,0,0.40793460607528687,True
+cota07y,0,Concatenation + CLIP similarity,0,0.05682792514562607,True
+9d27mn,1,Concatenation + CLIP similarity,1,0.8866897225379944,True
+cuqzf5j,0,Concatenation + CLIP similarity,0,0.005040104500949383,True
+cia8ta3,0,Concatenation + CLIP similarity,1,0.7953748106956482,False
+cd9qxwu,0,Concatenation + CLIP similarity,0,0.024222828447818756,True
+3rdx0d,1,Concatenation + CLIP similarity,0,0.15781570971012115,False
+2iuyu2,1,Concatenation + CLIP similarity,1,0.6664580702781677,True
+1935ik,1,Concatenation + CLIP similarity,0,0.49579957127571106,False
+ddabkh,1,Concatenation + CLIP similarity,1,0.9421092867851257,True
+2gi2yw,1,Concatenation + CLIP similarity,1,0.5069357752799988,True
+5ebxyx,1,Concatenation + CLIP similarity,1,0.9609997272491455,True
+dft09d,1,Concatenation + CLIP similarity,1,0.5735163688659668,True
+8if89w,1,Concatenation + CLIP similarity,1,0.6925261616706848,True
+12eu9x,1,Concatenation + CLIP similarity,1,0.5146214962005615,True
+cfq8i6,1,Concatenation + CLIP similarity,1,0.9956140518188477,True
+1kden7,1,Concatenation + CLIP similarity,1,0.6147952079772949,True
+379zex,1,Concatenation + CLIP similarity,1,0.8378293514251709,True
+5x394r,1,Concatenation + CLIP similarity,0,0.1254042387008667,False
+47644r,1,Concatenation + CLIP similarity,1,0.6143234968185425,True
+4r6oug,1,Concatenation + CLIP similarity,0,0.11704589426517487,False
+56wcg9,1,Concatenation + CLIP similarity,1,0.9961563944816589,True
+53o86m,0,Concatenation + CLIP similarity,0,0.02161380834877491,True
+dw2v6yo,0,Concatenation + CLIP similarity,0,3.39905709552113e-05,True
+ccweof,1,Concatenation + CLIP similarity,1,0.9723352193832397,True
+5us4a4,0,Concatenation + CLIP similarity,0,0.1974773108959198,True
+bcyzt9,1,Concatenation + CLIP similarity,1,0.9958770275115967,True
+d65u4a,1,Concatenation + CLIP similarity,0,0.18881945312023163,False
+ejkewe1,0,Concatenation + CLIP similarity,0,0.003915586043149233,True
+2rymnx,0,Concatenation + CLIP similarity,0,0.045348674058914185,True
+6i23e4,0,Concatenation + CLIP similarity,1,0.8403307199478149,False
+9fr8wx,0,Concatenation + CLIP similarity,1,0.774858295917511,False
+c76ut59,0,Concatenation + CLIP similarity,1,0.8725631237030029,False
+b83zxf,1,Concatenation + CLIP similarity,1,0.9712105989456177,True
+c60xvnf,0,Concatenation + CLIP similarity,0,0.006964127533137798,True
+7aj6di,1,Concatenation + CLIP similarity,1,0.9380955696105957,True
+5p3yvg,0,Concatenation + CLIP similarity,0,0.06043550744652748,True
+bwy862,1,Concatenation + CLIP similarity,1,0.9833647608757019,True
+6tqw2f,0,Concatenation + CLIP similarity,0,0.0077594853937625885,True
+uncvx,1,Concatenation + CLIP similarity,0,0.31379812955856323,False
+d1h1gm,1,Concatenation + CLIP similarity,1,0.9771431684494019,True
+5re6n7,1,Concatenation + CLIP similarity,1,0.9936333894729614,True
+6292e3,0,Concatenation + CLIP similarity,1,0.6864884495735168,False
+cazzu2,1,Concatenation + CLIP similarity,1,0.8881796598434448,True
+ch8qtnk,0,Concatenation + CLIP similarity,0,0.00720448512583971,True
+c7ssef,1,Concatenation + CLIP similarity,1,0.9661789536476135,True
+axpr18,0,Concatenation + CLIP similarity,0,0.23660679161548615,True
+1o9iki,1,Concatenation + CLIP similarity,1,0.7908822298049927,True
+50kw9j,1,Concatenation + CLIP similarity,1,0.9552827477455139,True
+d4djtb5,0,Concatenation + CLIP similarity,0,0.0008066883310675621,True
+1i9a8l,1,Concatenation + CLIP similarity,0,0.2846469581127167,False
+1nq9cq,1,Concatenation + CLIP similarity,1,0.9438233971595764,True
+39tj21,1,Concatenation + CLIP similarity,1,0.9405817985534668,True
+cqvdpl,1,Concatenation + CLIP similarity,1,0.889610767364502,True
+cws4ubd,0,Concatenation + CLIP similarity,0,0.00035626173485070467,True
+cggg35c,0,Concatenation + CLIP similarity,0,0.002770025981590152,True
+cb17dj4,0,Concatenation + CLIP similarity,0,0.014535010792315006,True
+ct2bj2g,0,Concatenation + CLIP similarity,0,0.0025004164781421423,True
+blzv2k,1,Concatenation + CLIP similarity,1,0.9432253837585449,True
+baao1g,0,Concatenation + CLIP similarity,0,0.020157603546977043,True
+8mzd12,0,Concatenation + CLIP similarity,1,0.7884364724159241,False
+7yx1px,0,Concatenation + CLIP similarity,0,0.004857403226196766,True
+9i5u8n,0,Concatenation + CLIP similarity,0,0.010217961855232716,True
+bbce6d,1,Concatenation + CLIP similarity,1,0.9869869351387024,True
+3h4p39,1,Concatenation + CLIP similarity,1,0.9244042634963989,True
+dh8sz1,1,Concatenation + CLIP similarity,1,0.9909061193466187,True
+81j4eu,0,Concatenation + CLIP similarity,0,0.15020744502544403,True
+2sy4zn,1,Concatenation + CLIP similarity,0,0.20227816700935364,False
+552xl7,0,Concatenation + CLIP similarity,0,0.015398898161947727,True
+8k6gnf,1,Concatenation + CLIP similarity,1,0.9390760064125061,True
+1vzo2j,0,Concatenation + CLIP similarity,0,0.1105729341506958,True
+bmer2p,1,Concatenation + CLIP similarity,0,0.49704641103744507,False
+6y7oh1,1,Concatenation + CLIP similarity,1,0.9635706543922424,True
+b26r1c,1,Concatenation + CLIP similarity,1,0.9507602453231812,True
+ai08p0,1,Concatenation + CLIP similarity,1,0.7566373348236084,True
+d7t7fvf,0,Concatenation + CLIP similarity,0,0.03479865938425064,True
+7fztxz,0,Concatenation + CLIP similarity,0,0.029465235769748688,True
+div36us,0,Concatenation + CLIP similarity,0,0.0034185522235929966,True
+10cpga,1,Concatenation + CLIP similarity,0,0.08604764938354492,False
+b62nh4,0,Concatenation + CLIP similarity,1,0.9327918291091919,False
+blm6x6,1,Concatenation + CLIP similarity,1,0.7729103565216064,True
+17l1ze,0,Concatenation + CLIP similarity,0,0.023432815447449684,True
+9bzeg8,1,Concatenation + CLIP similarity,1,0.7719054222106934,True
+3hgz5a,1,Concatenation + CLIP similarity,1,0.9641945362091064,True
+5a3oy1,0,Concatenation + CLIP similarity,0,0.04048275575041771,True
+4xicjg,1,Concatenation + CLIP similarity,1,0.9979811310768127,True
+dbrs1k,0,Concatenation + CLIP similarity,1,0.89698326587677,False
+cs9dasf,0,Concatenation + CLIP similarity,0,0.10775525867938995,True
+asen4h,0,Concatenation + CLIP similarity,0,0.0818982720375061,True
+ciqyv76,0,Concatenation + CLIP similarity,0,0.010994571261107922,True
+dkp9lk,1,Concatenation + CLIP similarity,1,0.960820734500885,True
+37c2lb,1,Concatenation + CLIP similarity,1,0.9746420979499817,True
+8cro5h,0,Concatenation + CLIP similarity,1,0.6639375686645508,False
+bsdijx,1,Cross-attention,0,0.13494309782981873,False
+31p3nx,1,Cross-attention,1,0.9741170406341553,True
+mgcej,0,Cross-attention,1,0.981408417224884,False
+arsxc0,1,Cross-attention,1,0.7990614175796509,True
+6pv2v7,0,Cross-attention,1,0.9243488311767578,False
+c6e1pbo,0,Cross-attention,0,0.0016675408696755767,True
+coffor,1,Cross-attention,1,0.9581094980239868,True
+c71dkmd,0,Cross-attention,1,0.757125198841095,False
+bqa6yb,1,Cross-attention,1,0.9805880188941956,True
+at78lh,0,Cross-attention,0,0.0027550796512514353,True
+bmnjm8,0,Cross-attention,1,0.9336443543434143,False
+1l4xu5,1,Cross-attention,1,0.975437343120575,True
+cz84lr,0,Cross-attention,1,0.9239681363105774,False
+830csd,0,Cross-attention,0,0.0057767536491155624,True
+7utja8,0,Cross-attention,1,0.9903542995452881,False
+ciogbdx,0,Cross-attention,0,0.006263395771384239,True
+2xctjd,1,Cross-attention,1,0.9586695432662964,True
+26vk7z,1,Cross-attention,1,0.9619364142417908,True
+v6krw,1,Cross-attention,0,0.21159657835960388,False
+2z8fq5,1,Cross-attention,1,0.5552991628646851,True
+esk7qje,0,Cross-attention,0,0.0023480085656046867,True
+23fn5k,0,Cross-attention,1,0.8112297654151917,False
+8ol6xj,1,Cross-attention,1,0.9592639803886414,True
+737nb5,1,Cross-attention,1,0.8821842670440674,True
+9im54n,0,Cross-attention,0,0.008213928900659084,True
+196iv1,1,Cross-attention,1,0.6149554252624512,True
+38nqxb,0,Cross-attention,0,0.003167363815009594,True
+19gwq7,1,Cross-attention,1,0.8722857236862183,True
+8d4ceb,1,Cross-attention,1,0.9157324433326721,True
+80ivhd,0,Cross-attention,1,0.693062961101532,False
+2nfjw0,1,Cross-attention,1,0.9739845991134644,True
+cvwcfcc,0,Cross-attention,0,0.012350202538073063,True
+1ar30x,1,Cross-attention,0,0.1071396917104721,False
+b0ebsi,0,Cross-attention,0,0.08230045437812805,True
+bp3zxd,1,Cross-attention,1,0.9628274440765381,True
+co9kl38,0,Cross-attention,0,0.0009315915522165596,True
+cezz89e,0,Cross-attention,1,0.977756917476654,False
+2cvj8y,1,Cross-attention,1,0.9428375959396362,True
+5qms4x,0,Cross-attention,1,0.9263969659805298,False
+2lb2pq,0,Cross-attention,0,0.003269628621637821,True
+b2a73p,1,Cross-attention,1,0.9655534625053406,True
+e4t1vdw,0,Cross-attention,0,0.08541537821292877,True
+8w1k0i,0,Cross-attention,1,0.8449134826660156,False
+8vzaoi,0,Cross-attention,1,0.9807108044624329,False
+72s20b,0,Cross-attention,0,0.025514354929327965,True
+8w7ik0,1,Cross-attention,1,0.9890270233154297,True
+5pxa5r,0,Cross-attention,0,0.002219332382082939,True
+5jryrp,0,Cross-attention,0,0.007539347745478153,True
+9g6ojz,0,Cross-attention,0,0.37920042872428894,True
+cnwql2f,0,Cross-attention,0,0.009565088897943497,True
+axq61p,0,Cross-attention,1,0.8865584135055542,False
+2l7o3v,1,Cross-attention,1,0.9812161326408386,True
+djsk1s,1,Cross-attention,1,0.991319477558136,True
+6h4m6u,0,Cross-attention,0,0.002040884457528591,True
+2urrle,1,Cross-attention,0,0.4039856791496277,False
+e0v1vo9,0,Cross-attention,0,0.0019070537528023124,True
+c5w88n,1,Cross-attention,1,0.9359630346298218,True
+cnh101p,0,Cross-attention,0,0.006336644757539034,True
+7bfkuz,0,Cross-attention,1,0.9024314880371094,False
+cmztedc,0,Cross-attention,0,0.057239677757024765,True
+cgsr09,0,Cross-attention,1,0.793743371963501,False
+biuzps,1,Cross-attention,1,0.9887481927871704,True
+4xpu4i,1,Cross-attention,0,0.07646803557872772,False
+5v2iit,0,Cross-attention,0,0.02313472144305706,True
+7h4a11,0,Cross-attention,0,0.03058754652738571,True
+16b5im,0,Cross-attention,0,0.0020077405497431755,True
+4jrqqd,1,Cross-attention,1,0.9831078052520752,True
+be1a05,1,Cross-attention,1,0.9326536655426025,True
+83oqyi,1,Cross-attention,1,0.9325070977210999,True
+7acpde,0,Cross-attention,1,0.8945584893226624,False
+audo85,1,Cross-attention,1,0.9866504669189453,True
+daq2fk,0,Cross-attention,0,0.009739506989717484,True
+dn7a0ql,0,Cross-attention,1,0.724534809589386,False
+covoqre,0,Cross-attention,0,0.46418213844299316,True
+cht7go,1,Cross-attention,1,0.975286602973938,True
+6ex7pi,1,Cross-attention,1,0.954007625579834,True
+3k2xdj,1,Cross-attention,1,0.5540117025375366,True
+2ya2dg,1,Cross-attention,0,0.018044086173176765,False
+dhq3hrc,0,Cross-attention,0,0.002832371974363923,True
+3g4e1z,1,Cross-attention,1,0.9609235525131226,True
+7ynoip,0,Cross-attention,1,0.9745324850082397,False
+dwysmxv,0,Cross-attention,0,0.0056136604398489,True
+cmrwgs,1,Cross-attention,1,0.9292305111885071,True
+2ocah5,1,Cross-attention,1,0.9870729446411133,True
+826z85,1,Cross-attention,1,0.9825057983398438,True
+31g6cv,0,Cross-attention,0,0.011305849999189377,True
+4ec5zw,1,Cross-attention,1,0.9849956631660461,True
+5a7jrf,1,Cross-attention,1,0.9293753504753113,True
+ch3lfr1,0,Cross-attention,0,0.0015969540691003203,True
+6svb6q,0,Cross-attention,0,0.015896078199148178,True
+9cmylg,1,Cross-attention,0,0.29752981662750244,False
+c6yvn8,1,Cross-attention,1,0.990849494934082,True
+7y22r0,0,Cross-attention,0,0.3745492994785309,True
+7wzqot,1,Cross-attention,1,0.9433818459510803,True
+c52du7f,0,Cross-attention,0,0.0022078908514231443,True
+23nqfm,1,Cross-attention,0,0.006922051310539246,False
+4wk154,1,Cross-attention,1,0.9528459310531616,True
+bfd5tz,1,Cross-attention,1,0.8032387495040894,True
+3l1894,1,Cross-attention,1,0.9014294743537903,True
+5ju942,0,Cross-attention,1,0.982488214969635,False
+3k55nb,1,Cross-attention,1,0.9863532781600952,True
+9c76kg,0,Cross-attention,1,0.9395579099655151,False
+cbh8w3w,0,Cross-attention,0,0.30258840322494507,True
+5h7o2o,0,Cross-attention,0,0.012616582214832306,True
+cz355st,0,Cross-attention,0,0.0007511691655963659,True
+2u4gfl,0,Cross-attention,0,0.008987091481685638,True
+cr6c0h2,0,Cross-attention,0,0.0019484939984977245,True
+awh82b,0,Cross-attention,0,0.004020204767584801,True
+66bna9,1,Cross-attention,1,0.9661058187484741,True
+5m4uuw,1,Cross-attention,0,0.3991119861602783,False
+8qyry4,0,Cross-attention,0,0.3298023045063019,True
+5ufr62,1,Cross-attention,0,0.056301724165678024,False
+d2x5if,1,Cross-attention,1,0.984176516532898,True
+1p3nwy,1,Cross-attention,0,0.21994705498218536,False
+4eu6tf,1,Cross-attention,1,0.9793199896812439,True
+7xi8c1,0,Cross-attention,0,0.0014128064503893256,True
+c6atxga,0,Cross-attention,1,0.8049929141998291,False
+awktsf,1,Cross-attention,0,0.42895886301994324,False
+cfhf10,1,Cross-attention,1,0.584568977355957,True
+azoxbn,1,Cross-attention,0,0.049043647944927216,False
+c47052m,0,Cross-attention,0,0.0014843597309663892,True
+5a5p2b,0,Cross-attention,1,0.9444366097450256,False
+brdglr,0,Cross-attention,0,0.19542260468006134,True
+57h7k1,1,Cross-attention,1,0.8530457615852356,True
+7ritxn,0,Cross-attention,0,0.07701145112514496,True
+cda0c45,0,Cross-attention,0,0.004430712200701237,True
+3lzak5,1,Cross-attention,1,0.6209042072296143,True
+21gbx3,1,Cross-attention,1,0.8952938318252563,True
+coinam,0,Cross-attention,1,0.8133178353309631,False
+5djqky,1,Cross-attention,1,0.9876936078071594,True
+bk6wxz,1,Cross-attention,1,0.8886085748672485,True
+cd4nfmw,0,Cross-attention,0,0.029811345040798187,True
+3izcfr,1,Cross-attention,1,0.9254587292671204,True
+3ixjkm,0,Cross-attention,1,0.7085028290748596,False
+473yvh,0,Cross-attention,0,0.008810225874185562,True
+21o3u8,0,Cross-attention,0,0.007214631885290146,True
+5a1fmj,1,Cross-attention,0,0.011604342609643936,False
+brj4wy,1,Cross-attention,1,0.8590171933174133,True
+c1if9z,1,Cross-attention,1,0.9905248284339905,True
+15zeia,1,Cross-attention,1,0.9612451791763306,True
+d7u1dfb,0,Cross-attention,0,0.0033913878723978996,True
+7qvjso,0,Cross-attention,1,0.9094963073730469,False
+8vymjw,1,Cross-attention,1,0.9603343605995178,True
+b3zni2,0,Cross-attention,0,0.34614482522010803,True
+cjkjsmr,0,Cross-attention,1,0.6866632699966431,False
+4fhge0,1,Cross-attention,1,0.9890275001525879,True
+cmzylq9,0,Cross-attention,0,0.0012685786932706833,True
+atk3ni,0,Cross-attention,0,0.07731043547391891,True
+96sddx,0,Cross-attention,0,0.0010853217681869864,True
+7nnujx,1,Cross-attention,1,0.9706369042396545,True
+d4zv00n,0,Cross-attention,1,0.980937659740448,False
+ckolfx,1,Cross-attention,1,0.9590672254562378,True
+9dkj02,1,Cross-attention,1,0.9593826532363892,True
+cocituf,0,Cross-attention,0,0.007326612249016762,True
+69pgnu,0,Cross-attention,0,0.0027307106647640467,True
+97utvi,0,Cross-attention,1,0.9100691676139832,False
+bos3zm,0,Cross-attention,1,0.950014054775238,False
+4vtrg3,0,Cross-attention,1,0.8390600085258484,False
+3bdnpd,1,Cross-attention,0,0.07890986651182175,False
+87sjsp,1,Cross-attention,0,0.3281673789024353,False
+dl1nyy,1,Cross-attention,0,0.01981228031218052,False
+2s96m6,1,Cross-attention,1,0.9328422546386719,True
+dbtj8e,1,Cross-attention,1,0.9792838096618652,True
+cbbry9u,0,Cross-attention,0,0.0013924295781180263,True
+66mik8,1,Cross-attention,1,0.9389591217041016,True
+8e0smk,0,Cross-attention,0,0.3276185095310211,True
+axpzp7,1,Cross-attention,1,0.9828945398330688,True
+8mb796,0,Cross-attention,0,0.07440151274204254,True
+87h35r,0,Cross-attention,0,0.09163152426481247,True
+bihpx2,1,Cross-attention,1,0.988532304763794,True
+caty0dl,0,Cross-attention,0,0.09054853767156601,True
+23vwgj,0,Cross-attention,1,0.7956077456474304,False
+cwsyt5w,0,Cross-attention,1,0.8021407723426819,False
+balyih,0,Cross-attention,1,0.9717876315116882,False
+67x59w,0,Cross-attention,0,0.01814563013613224,True
+2t1p6f,1,Cross-attention,1,0.5252707004547119,True
+c4d8ccw,0,Cross-attention,0,0.013775747269392014,True
+9f8glq,1,Cross-attention,1,0.9807854294776917,True
+8mnwr9,0,Cross-attention,0,0.005586371291428804,True
+ciiqg4p,0,Cross-attention,1,0.9305148124694824,False
+8a9x2z,0,Cross-attention,1,0.9421312808990479,False
+47rzsk,0,Cross-attention,1,0.9646883606910706,False
+d283nk,0,Cross-attention,0,0.02072960138320923,True
+7y43li,0,Cross-attention,1,0.9287493228912354,False
+d65l6z,0,Cross-attention,0,0.29197409749031067,True
+cdrzqzd,0,Cross-attention,0,0.0026998533867299557,True
+6sgl84,1,Cross-attention,1,0.9787635803222656,True
+9czm4s,1,Cross-attention,1,0.9755472540855408,True
+cod659,1,Cross-attention,1,0.9789552688598633,True
+7itvgr,0,Cross-attention,1,0.9264577627182007,False
+cc540ix,0,Cross-attention,0,0.04128127172589302,True
+cl0q9v,0,Cross-attention,0,0.003316889749839902,True
+5pr5dn,1,Cross-attention,1,0.9058226346969604,True
+c9rfv8w,0,Cross-attention,0,0.001542041776701808,True
+4dpj0w,1,Cross-attention,1,0.6327636241912842,True
+3rkpan,1,Cross-attention,0,0.026750998571515083,False
+6wfimz,1,Cross-attention,1,0.7951748371124268,True
+41h26q,1,Cross-attention,1,0.981109082698822,True
+11ln83,1,Cross-attention,1,0.7831345200538635,True
+5onbbj,1,Cross-attention,1,0.8018063902854919,True
+91a907,0,Cross-attention,1,0.9559736847877502,False
+7po13e,1,Cross-attention,1,0.9674044847488403,True
+cy9qkm,1,Cross-attention,1,0.9836475253105164,True
+cys35p,1,Cross-attention,1,0.9878748059272766,True
+cs4g1f,1,Cross-attention,0,0.0020426984410732985,False
+61is8q,0,Cross-attention,1,0.5680320262908936,False
+2sxiqd,0,Cross-attention,0,0.005409331060945988,True
+ck3bio5,0,Cross-attention,0,0.0026573296636343002,True
+3atjjp,1,Cross-attention,1,0.9557055234909058,True
+c74f17j,0,Cross-attention,0,0.06278356909751892,True
+79z0lg,1,Cross-attention,1,0.919050931930542,True
+7ly0py,0,Cross-attention,0,0.006837987806648016,True
+54fvom,0,Cross-attention,1,0.9476194381713867,False
+8o8wtz,1,Cross-attention,0,0.01863512583076954,False
+2m6ptt,1,Cross-attention,1,0.982251763343811,True
+dd2mm4r,0,Cross-attention,0,0.0017094037029892206,True
+d2ayuu,1,Cross-attention,1,0.9606742858886719,True
+2h4nh0,1,Cross-attention,1,0.8480163812637329,True
+3ng41c,1,Cross-attention,0,0.0046163941733539104,False
+c0ock2,1,Cross-attention,1,0.992435872554779,True
+c2j9fw,1,Cross-attention,1,0.9854588508605957,True
+6vz2r2,0,Cross-attention,1,0.9708150625228882,False
+140v84,1,Cross-attention,1,0.9798137545585632,True
+66wdwv,0,Cross-attention,0,0.1252181977033615,True
+1o5d63,0,Cross-attention,0,0.36991941928863525,True
+4yuc47,0,Cross-attention,1,0.9780989289283752,False
+dakjyii,0,Cross-attention,0,0.1632435917854309,True
+4hn9er,1,Cross-attention,1,0.9580515027046204,True
+ct2opk7,0,Cross-attention,0,0.0014486897271126509,True
+c5r63q,1,Cross-attention,1,0.9747856855392456,True
+eo9r6w1,0,Cross-attention,0,0.002482353476807475,True
+9g4e07,1,Cross-attention,1,0.9872937202453613,True
+9bb90f,1,Cross-attention,1,0.980705976486206,True
+25rjwb,0,Cross-attention,1,0.9441978931427002,False
+cmezty1,0,Cross-attention,0,0.0020706115756183863,True
+csynbc,1,Cross-attention,1,0.9789600968360901,True
+d54ewo,1,Cross-attention,1,0.9843596816062927,True
+26qnp5,1,Cross-attention,1,0.9818467497825623,True
+6jtok5,1,Cross-attention,1,0.9922410249710083,True
+b6kj0m,1,Cross-attention,1,0.9904460906982422,True
+cqo5m0,1,Cross-attention,1,0.97661954164505,True
+crqy6nz,0,Cross-attention,0,0.012593946419656277,True
+cu21e1t,0,Cross-attention,0,0.004927915520966053,True
+5wzho7,1,Cross-attention,1,0.9049431681632996,True
+46w2w8,0,Cross-attention,0,0.036743972450494766,True
+2q01qd,0,Cross-attention,0,0.004695863462984562,True
+6hvzy7,1,Cross-attention,1,0.986009418964386,True
+bufll5,0,Cross-attention,0,0.028938040137290955,True
+5e95lt,1,Cross-attention,1,0.9891259670257568,True
+bzaruc,1,Cross-attention,1,0.9893173575401306,True
+ddc47u0,0,Cross-attention,0,0.011313187889754772,True
+6x4wbn,1,Cross-attention,1,0.9892555475234985,True
+ch2mo90,0,Cross-attention,0,0.04106447100639343,True
+biwb5a,1,Cross-attention,1,0.9697685837745667,True
+7nkm5p,0,Cross-attention,1,0.9017127752304077,False
+d944m4,1,Cross-attention,1,0.9911239147186279,True
+dmisbow,0,Cross-attention,0,0.003083992749452591,True
+dhd9d1x,0,Cross-attention,0,0.02574140578508377,True
+450go7,1,Cross-attention,1,0.9043971300125122,True
+c94krpd,0,Cross-attention,0,0.13167816400527954,True
+crl5c6i,0,Cross-attention,0,0.023598315194249153,True
+d0auoob,0,Cross-attention,0,0.009249422699213028,True
+3d8h1w,0,Cross-attention,0,0.0018936545820906758,True
+cb0klhd,0,Cross-attention,0,0.0040616681799292564,True
+81n645,0,Cross-attention,1,0.7070789337158203,False
+dna38rg,0,Cross-attention,0,0.0012366075534373522,True
+b3y6q8,1,Cross-attention,1,0.9917271137237549,True
+bszll4,1,Cross-attention,1,0.9337221384048462,True
+bwookn,1,Cross-attention,1,0.8357248306274414,True
+cpramg4,0,Cross-attention,0,0.0025749183259904385,True
+ccrc7y,0,Cross-attention,1,0.9732570648193359,False
+dc4jr6,1,Cross-attention,1,0.9748773574829102,True
+3cqf4z,1,Cross-attention,1,0.9745666980743408,True
+157j2b,1,Cross-attention,0,0.006475574802607298,False
+cu1j34u,0,Cross-attention,0,0.0013323809253051877,True
+cf3vq94,0,Cross-attention,0,0.008460869081318378,True
+18mfr9,1,Cross-attention,1,0.9487771987915039,True
+37mao4,1,Cross-attention,0,0.030504772439599037,False
+8vmnhq,1,Cross-attention,0,0.21481381356716156,False
+c2679i,1,Cross-attention,1,0.9674367308616638,True
+dy9k4ma,0,Cross-attention,0,0.005100836977362633,True
+7qoqh5,1,Cross-attention,1,0.9771990776062012,True
+5i7e5y,1,Cross-attention,1,0.9599933624267578,True
+cmko4gx,0,Cross-attention,1,0.916466236114502,False
+b2zrm2,1,Cross-attention,1,0.8720043897628784,True
+dgaxk4,1,Cross-attention,1,0.975658118724823,True
+2w8mpt,1,Cross-attention,1,0.9572436213493347,True
+d05rrww,0,Cross-attention,1,0.871981143951416,False
+c6mv27n,0,Cross-attention,0,0.014605879783630371,True
+2n7rrq,1,Cross-attention,1,0.8063281178474426,True
+8ucjrq,0,Cross-attention,0,0.005246746353805065,True
+cxfdlg,0,Cross-attention,0,0.003615104127675295,True
+est67as,0,Cross-attention,0,0.0028148978017270565,True
+50kwy0,1,Cross-attention,1,0.9080861806869507,True
+2ifwzf,1,Cross-attention,0,0.1322569102048874,False
+7hzqj7,1,Cross-attention,0,0.06445444375276566,False
+3gvs00,0,Cross-attention,0,0.009004402905702591,True
+dcrgz2,1,Cross-attention,1,0.9721046686172485,True
+121du8,1,Cross-attention,1,0.8618071675300598,True
+1nvsfu,1,Cross-attention,0,0.02206425927579403,False
+8hccqu,1,Cross-attention,1,0.9572065472602844,True
+c9xdnh4,0,Cross-attention,0,0.003349961480125785,True
+cp0qyr,1,Cross-attention,1,0.9595850706100464,True
+cj7jc3y,0,Cross-attention,0,0.0016759239370003343,True
+cc2z6em,0,Cross-attention,0,0.13368631899356842,True
+2ufzff,0,Cross-attention,0,0.003556692274287343,True
+c8upxra,0,Cross-attention,0,0.0013846935471519828,True
+7qfhfp,0,Cross-attention,1,0.7178024053573608,False
+cota07y,0,Cross-attention,0,0.00415899557992816,True
+9d27mn,1,Cross-attention,1,0.9682118892669678,True
+cuqzf5j,0,Cross-attention,0,0.0061745899729430676,True
+cia8ta3,0,Cross-attention,1,0.9538499712944031,False
+cd9qxwu,0,Cross-attention,0,0.20296160876750946,True
+3rdx0d,1,Cross-attention,0,0.04970533028244972,False
+2iuyu2,1,Cross-attention,1,0.9693148732185364,True
+1935ik,1,Cross-attention,1,0.6589305996894836,True
+ddabkh,1,Cross-attention,1,0.984752357006073,True
+2gi2yw,1,Cross-attention,1,0.981178343296051,True
+5ebxyx,1,Cross-attention,1,0.9842780232429504,True
+dft09d,1,Cross-attention,0,0.12530678510665894,False
+8if89w,1,Cross-attention,1,0.7365039587020874,True
+12eu9x,1,Cross-attention,1,0.770124614238739,True
+cfq8i6,1,Cross-attention,1,0.9886940121650696,True
+1kden7,1,Cross-attention,0,0.023022133857011795,False
+379zex,1,Cross-attention,1,0.849679172039032,True
+5x394r,1,Cross-attention,0,0.02864297293126583,False
+47644r,1,Cross-attention,0,0.1773456335067749,False
+4r6oug,1,Cross-attention,1,0.8745744824409485,True
+56wcg9,1,Cross-attention,1,0.984885573387146,True
+53o86m,0,Cross-attention,0,0.00919563602656126,True
+dw2v6yo,0,Cross-attention,0,0.000768763420637697,True
+ccweof,1,Cross-attention,1,0.9797842502593994,True
+5us4a4,0,Cross-attention,0,0.11097109317779541,True
+bcyzt9,1,Cross-attention,1,0.987841784954071,True
+d65u4a,1,Cross-attention,0,0.01833842694759369,False
+ejkewe1,0,Cross-attention,0,0.0028836377896368504,True
+2rymnx,0,Cross-attention,0,0.0037106391973793507,True
+6i23e4,0,Cross-attention,1,0.9523088932037354,False
+9fr8wx,0,Cross-attention,1,0.7944852709770203,False
+c76ut59,0,Cross-attention,1,0.9643615484237671,False
+b83zxf,1,Cross-attention,1,0.9844292402267456,True
+c60xvnf,0,Cross-attention,0,0.006853247061371803,True
+7aj6di,1,Cross-attention,1,0.9740225076675415,True
+5p3yvg,0,Cross-attention,0,0.005939294584095478,True
+bwy862,1,Cross-attention,1,0.9806822538375854,True
+6tqw2f,0,Cross-attention,0,0.028001748025417328,True
+uncvx,1,Cross-attention,0,0.4232458472251892,False
+d1h1gm,1,Cross-attention,1,0.976836085319519,True
+5re6n7,1,Cross-attention,1,0.9927207231521606,True
+6292e3,0,Cross-attention,0,0.21875818073749542,True
+cazzu2,1,Cross-attention,1,0.9548388719558716,True
+ch8qtnk,0,Cross-attention,0,0.009160049259662628,True
+c7ssef,1,Cross-attention,1,0.9318166971206665,True
+axpr18,0,Cross-attention,1,0.7770406603813171,False
+1o9iki,1,Cross-attention,1,0.9848010540008545,True
+50kw9j,1,Cross-attention,1,0.9823105335235596,True
+d4djtb5,0,Cross-attention,0,0.0026440531946718693,True
+1i9a8l,1,Cross-attention,0,0.021651240065693855,False
+1nq9cq,1,Cross-attention,1,0.9836386442184448,True
+39tj21,1,Cross-attention,1,0.9607165455818176,True
+cqvdpl,1,Cross-attention,1,0.9340856075286865,True
+cws4ubd,0,Cross-attention,0,0.0019414451671764255,True
+cggg35c,0,Cross-attention,0,0.006489449180662632,True
+cb17dj4,0,Cross-attention,0,0.010464876890182495,True
+ct2bj2g,0,Cross-attention,0,0.0037844395264983177,True
+blzv2k,1,Cross-attention,1,0.973599374294281,True
+baao1g,0,Cross-attention,0,0.01443424355238676,True
+8mzd12,0,Cross-attention,1,0.9789689779281616,False
+7yx1px,0,Cross-attention,0,0.0018156056758016348,True
+9i5u8n,0,Cross-attention,0,0.003180026076734066,True
+bbce6d,1,Cross-attention,1,0.9860541224479675,True
+3h4p39,1,Cross-attention,1,0.9740109443664551,True
+dh8sz1,1,Cross-attention,1,0.9802150726318359,True
+81j4eu,0,Cross-attention,1,0.854329526424408,False
+2sy4zn,1,Cross-attention,0,0.45792579650878906,False
+552xl7,0,Cross-attention,0,0.014203043654561043,True
+8k6gnf,1,Cross-attention,1,0.9356355667114258,True
+1vzo2j,0,Cross-attention,1,0.8266695737838745,False
+bmer2p,1,Cross-attention,1,0.7700733542442322,True
+6y7oh1,1,Cross-attention,1,0.9866530299186707,True
+b26r1c,1,Cross-attention,1,0.9893108606338501,True
+ai08p0,1,Cross-attention,1,0.5766577124595642,True
+d7t7fvf,0,Cross-attention,0,0.008292727172374725,True
+7fztxz,0,Cross-attention,0,0.008487188257277012,True
+div36us,0,Cross-attention,0,0.0018209593836218119,True
+10cpga,1,Cross-attention,0,0.012059936299920082,False
+b62nh4,0,Cross-attention,1,0.981683611869812,False
+blm6x6,1,Cross-attention,1,0.96617591381073,True
+17l1ze,0,Cross-attention,0,0.001883700373582542,True
+9bzeg8,1,Cross-attention,1,0.9309103488922119,True
+3hgz5a,1,Cross-attention,1,0.9772195219993591,True
+5a3oy1,0,Cross-attention,0,0.005412091966718435,True
+4xicjg,1,Cross-attention,1,0.9811505675315857,True
+dbrs1k,0,Cross-attention,1,0.9732394814491272,False
+cs9dasf,0,Cross-attention,0,0.016365744173526764,True
+asen4h,0,Cross-attention,0,0.04018934443593025,True
+ciqyv76,0,Cross-attention,0,0.02264777198433876,True
+dkp9lk,1,Cross-attention,1,0.9758122563362122,True
+37c2lb,1,Cross-attention,1,0.9727501273155212,True
+8cro5h,0,Cross-attention,1,0.8352767825126648,False
+bsdijx,1,Cross-attention + CLIP similarity,1,0.5566115975379944,True
+31p3nx,1,Cross-attention + CLIP similarity,1,0.9940183162689209,True
+mgcej,0,Cross-attention + CLIP similarity,1,0.964629590511322,False
+arsxc0,1,Cross-attention + CLIP similarity,1,0.930867075920105,True
+6pv2v7,0,Cross-attention + CLIP similarity,1,0.9609769582748413,False
+c6e1pbo,0,Cross-attention + CLIP similarity,0,0.0028168740682303905,True
+coffor,1,Cross-attention + CLIP similarity,1,0.9631922841072083,True
+c71dkmd,0,Cross-attention + CLIP similarity,0,0.3524692952632904,True
+bqa6yb,1,Cross-attention + CLIP similarity,1,0.9920879006385803,True
+at78lh,0,Cross-attention + CLIP similarity,0,0.0035071608144789934,True
+bmnjm8,0,Cross-attention + CLIP similarity,1,0.9168452024459839,False
+1l4xu5,1,Cross-attention + CLIP similarity,1,0.9920616149902344,True
+cz84lr,0,Cross-attention + CLIP similarity,1,0.5232716798782349,False
+830csd,0,Cross-attention + CLIP similarity,0,0.007263182662427425,True
+7utja8,0,Cross-attention + CLIP similarity,1,0.9969348907470703,False
+ciogbdx,0,Cross-attention + CLIP similarity,0,0.00766127509996295,True
+2xctjd,1,Cross-attention + CLIP similarity,1,0.9378194212913513,True
+26vk7z,1,Cross-attention + CLIP similarity,1,0.9678125381469727,True
+v6krw,1,Cross-attention + CLIP similarity,0,0.23543615639209747,False
+2z8fq5,1,Cross-attention + CLIP similarity,1,0.8808168172836304,True
+esk7qje,0,Cross-attention + CLIP similarity,0,0.08183072507381439,True
+23fn5k,0,Cross-attention + CLIP similarity,1,0.8350475430488586,False
+8ol6xj,1,Cross-attention + CLIP similarity,1,0.9870096445083618,True
+737nb5,1,Cross-attention + CLIP similarity,1,0.9580199718475342,True
+9im54n,0,Cross-attention + CLIP similarity,0,0.005259661003947258,True
+196iv1,1,Cross-attention + CLIP similarity,0,0.3577527403831482,False
+38nqxb,0,Cross-attention + CLIP similarity,0,0.0025851991958916187,True
+19gwq7,1,Cross-attention + CLIP similarity,0,0.33558139204978943,False
+8d4ceb,1,Cross-attention + CLIP similarity,1,0.8430178165435791,True
+80ivhd,0,Cross-attention + CLIP similarity,0,0.47651758790016174,True
+2nfjw0,1,Cross-attention + CLIP similarity,1,0.9811704754829407,True
+cvwcfcc,0,Cross-attention + CLIP similarity,0,0.040611691772937775,True
+1ar30x,1,Cross-attention + CLIP similarity,0,0.038402389734983444,False
+b0ebsi,0,Cross-attention + CLIP similarity,0,0.05982431396842003,True
+bp3zxd,1,Cross-attention + CLIP similarity,1,0.9816136360168457,True
+co9kl38,0,Cross-attention + CLIP similarity,0,0.0014349108096212149,True
+cezz89e,0,Cross-attention + CLIP similarity,1,0.9628816843032837,False
+2cvj8y,1,Cross-attention + CLIP similarity,1,0.9334228038787842,True
+5qms4x,0,Cross-attention + CLIP similarity,1,0.8436025381088257,False
+2lb2pq,0,Cross-attention + CLIP similarity,0,0.009238090366125107,True
+b2a73p,1,Cross-attention + CLIP similarity,1,0.9651373624801636,True
+e4t1vdw,0,Cross-attention + CLIP similarity,0,0.12336795777082443,True
+8w1k0i,0,Cross-attention + CLIP similarity,1,0.5973103642463684,False
+8vzaoi,0,Cross-attention + CLIP similarity,1,0.9957889914512634,False
+72s20b,0,Cross-attention + CLIP similarity,0,0.012446645647287369,True
+8w7ik0,1,Cross-attention + CLIP similarity,1,0.9970846772193909,True
+5pxa5r,0,Cross-attention + CLIP similarity,0,0.008000911213457584,True
+5jryrp,0,Cross-attention + CLIP similarity,0,0.02440369874238968,True
+9g6ojz,0,Cross-attention + CLIP similarity,0,0.18711012601852417,True
+cnwql2f,0,Cross-attention + CLIP similarity,0,0.007976975291967392,True
+axq61p,0,Cross-attention + CLIP similarity,1,0.8914000988006592,False
+2l7o3v,1,Cross-attention + CLIP similarity,1,0.9848986268043518,True
+djsk1s,1,Cross-attention + CLIP similarity,1,0.9970190525054932,True
+6h4m6u,0,Cross-attention + CLIP similarity,0,0.0021568036172538996,True
+2urrle,1,Cross-attention + CLIP similarity,1,0.8017693758010864,True
+e0v1vo9,0,Cross-attention + CLIP similarity,0,0.002271460136398673,True
+c5w88n,1,Cross-attention + CLIP similarity,1,0.9744389653205872,True
+cnh101p,0,Cross-attention + CLIP similarity,0,0.014524558559060097,True
+7bfkuz,0,Cross-attention + CLIP similarity,0,0.2620389461517334,True
+cmztedc,0,Cross-attention + CLIP similarity,0,0.018708616495132446,True
+cgsr09,0,Cross-attention + CLIP similarity,0,0.347632497549057,True
+biuzps,1,Cross-attention + CLIP similarity,1,0.9964152574539185,True
+4xpu4i,1,Cross-attention + CLIP similarity,0,0.44907110929489136,False
+5v2iit,0,Cross-attention + CLIP similarity,0,0.008620916865766048,True
+7h4a11,0,Cross-attention + CLIP similarity,0,0.021730169653892517,True
+16b5im,0,Cross-attention + CLIP similarity,0,0.004785021301358938,True
+4jrqqd,1,Cross-attention + CLIP similarity,1,0.9910278916358948,True
+be1a05,1,Cross-attention + CLIP similarity,0,0.3415895998477936,False
+83oqyi,1,Cross-attention + CLIP similarity,1,0.6313018798828125,True
+7acpde,0,Cross-attention + CLIP similarity,1,0.7870109677314758,False
+audo85,1,Cross-attention + CLIP similarity,1,0.9970511198043823,True
+daq2fk,0,Cross-attention + CLIP similarity,0,0.036456793546676636,True
+dn7a0ql,0,Cross-attention + CLIP similarity,0,0.24556775391101837,True
+covoqre,0,Cross-attention + CLIP similarity,0,0.17022162675857544,True
+cht7go,1,Cross-attention + CLIP similarity,1,0.9897776246070862,True
+6ex7pi,1,Cross-attention + CLIP similarity,1,0.9557779431343079,True
+3k2xdj,1,Cross-attention + CLIP similarity,1,0.5851491689682007,True
+2ya2dg,1,Cross-attention + CLIP similarity,0,0.04900536686182022,False
+dhq3hrc,0,Cross-attention + CLIP similarity,0,0.0031027954537421465,True
+3g4e1z,1,Cross-attention + CLIP similarity,1,0.9273665547370911,True
+7ynoip,0,Cross-attention + CLIP similarity,1,0.909465491771698,False
+dwysmxv,0,Cross-attention + CLIP similarity,0,0.006251334212720394,True
+cmrwgs,1,Cross-attention + CLIP similarity,1,0.988234281539917,True
+2ocah5,1,Cross-attention + CLIP similarity,1,0.991719126701355,True
+826z85,1,Cross-attention + CLIP similarity,1,0.9751258492469788,True
+31g6cv,0,Cross-attention + CLIP similarity,0,0.04617450758814812,True
+4ec5zw,1,Cross-attention + CLIP similarity,1,0.9960383176803589,True
+5a7jrf,1,Cross-attention + CLIP similarity,1,0.9015041589736938,True
+ch3lfr1,0,Cross-attention + CLIP similarity,0,0.0014941554982215166,True
+6svb6q,0,Cross-attention + CLIP similarity,0,0.007866688072681427,True
+9cmylg,1,Cross-attention + CLIP similarity,1,0.8725749254226685,True
+c6yvn8,1,Cross-attention + CLIP similarity,1,0.9974787831306458,True
+7y22r0,0,Cross-attention + CLIP similarity,1,0.6313670873641968,False
+7wzqot,1,Cross-attention + CLIP similarity,1,0.9223803877830505,True
+c52du7f,0,Cross-attention + CLIP similarity,0,0.0022047089878469706,True
+23nqfm,1,Cross-attention + CLIP similarity,0,0.020171187818050385,False
+4wk154,1,Cross-attention + CLIP similarity,1,0.9749875068664551,True
+bfd5tz,1,Cross-attention + CLIP similarity,1,0.5124183297157288,True
+3l1894,1,Cross-attention + CLIP similarity,1,0.9841703176498413,True
+5ju942,0,Cross-attention + CLIP similarity,1,0.9831860065460205,False
+3k55nb,1,Cross-attention + CLIP similarity,1,0.976597011089325,True
+9c76kg,0,Cross-attention + CLIP similarity,1,0.9827107787132263,False
+cbh8w3w,0,Cross-attention + CLIP similarity,0,0.03262622281908989,True
+5h7o2o,0,Cross-attention + CLIP similarity,0,0.021347198635339737,True
+cz355st,0,Cross-attention + CLIP similarity,0,0.0012708705617114902,True
+2u4gfl,0,Cross-attention + CLIP similarity,0,0.008921099826693535,True
+cr6c0h2,0,Cross-attention + CLIP similarity,0,0.0021478920243680477,True
+awh82b,0,Cross-attention + CLIP similarity,0,0.004938631318509579,True
+66bna9,1,Cross-attention + CLIP similarity,1,0.9572381377220154,True
+5m4uuw,1,Cross-attention + CLIP similarity,0,0.15588587522506714,False
+8qyry4,0,Cross-attention + CLIP similarity,1,0.869394838809967,False
+5ufr62,1,Cross-attention + CLIP similarity,1,0.7438552975654602,True
+d2x5if,1,Cross-attention + CLIP similarity,1,0.9597691297531128,True
+1p3nwy,1,Cross-attention + CLIP similarity,1,0.6371767520904541,True
+4eu6tf,1,Cross-attention + CLIP similarity,1,0.984901487827301,True
+7xi8c1,0,Cross-attention + CLIP similarity,0,0.0018934461986646056,True
+c6atxga,0,Cross-attention + CLIP similarity,0,0.32240378856658936,True
+awktsf,1,Cross-attention + CLIP similarity,0,0.03521290048956871,False
+cfhf10,1,Cross-attention + CLIP similarity,1,0.6654969453811646,True
+azoxbn,1,Cross-attention + CLIP similarity,0,0.06903105229139328,False
+c47052m,0,Cross-attention + CLIP similarity,0,0.002871961100026965,True
+5a5p2b,0,Cross-attention + CLIP similarity,1,0.9387906789779663,False
+brdglr,0,Cross-attention + CLIP similarity,0,0.06576437503099442,True
+57h7k1,1,Cross-attention + CLIP similarity,1,0.8721747994422913,True
+7ritxn,0,Cross-attention + CLIP similarity,0,0.16205954551696777,True
+cda0c45,0,Cross-attention + CLIP similarity,0,0.005455140955746174,True
+3lzak5,1,Cross-attention + CLIP similarity,1,0.7589821815490723,True
+21gbx3,1,Cross-attention + CLIP similarity,1,0.7958662509918213,True
+coinam,0,Cross-attention + CLIP similarity,1,0.5934534668922424,False
+5djqky,1,Cross-attention + CLIP similarity,1,0.9903841018676758,True
+bk6wxz,1,Cross-attention + CLIP similarity,1,0.6444057822227478,True
+cd4nfmw,0,Cross-attention + CLIP similarity,0,0.07569166272878647,True
+3izcfr,1,Cross-attention + CLIP similarity,1,0.9055004715919495,True
+3ixjkm,0,Cross-attention + CLIP similarity,0,0.1437903344631195,True
+473yvh,0,Cross-attention + CLIP similarity,0,0.014206169173121452,True
+21o3u8,0,Cross-attention + CLIP similarity,0,0.04244766756892204,True
+5a1fmj,1,Cross-attention + CLIP similarity,0,0.2017073929309845,False
+brj4wy,1,Cross-attention + CLIP similarity,1,0.7872529625892639,True
+c1if9z,1,Cross-attention + CLIP similarity,1,0.996995210647583,True
+15zeia,1,Cross-attention + CLIP similarity,1,0.8958016037940979,True
+d7u1dfb,0,Cross-attention + CLIP similarity,0,0.009146260097622871,True
+7qvjso,0,Cross-attention + CLIP similarity,0,0.4996515214443207,True
+8vymjw,1,Cross-attention + CLIP similarity,1,0.938170850276947,True
+b3zni2,0,Cross-attention + CLIP similarity,0,0.0553264245390892,True
+cjkjsmr,0,Cross-attention + CLIP similarity,0,0.08138713985681534,True
+4fhge0,1,Cross-attention + CLIP similarity,1,0.9964892864227295,True
+cmzylq9,0,Cross-attention + CLIP similarity,0,0.0017676337156444788,True
+atk3ni,0,Cross-attention + CLIP similarity,0,0.27924853563308716,True
+96sddx,0,Cross-attention + CLIP similarity,0,0.001025300589390099,True
+7nnujx,1,Cross-attention + CLIP similarity,1,0.9850789308547974,True
+d4zv00n,0,Cross-attention + CLIP similarity,1,0.9938318729400635,False
+ckolfx,1,Cross-attention + CLIP similarity,1,0.9896257519721985,True
+9dkj02,1,Cross-attention + CLIP similarity,1,0.9865694642066956,True
+cocituf,0,Cross-attention + CLIP similarity,0,0.01364918053150177,True
+69pgnu,0,Cross-attention + CLIP similarity,0,0.003155444050207734,True
+97utvi,0,Cross-attention + CLIP similarity,0,0.14638172090053558,True
+bos3zm,0,Cross-attention + CLIP similarity,1,0.9827448725700378,False
+4vtrg3,0,Cross-attention + CLIP similarity,1,0.9098197221755981,False
+3bdnpd,1,Cross-attention + CLIP similarity,0,0.054264314472675323,False
+87sjsp,1,Cross-attention + CLIP similarity,1,0.8359333872795105,True
+dl1nyy,1,Cross-attention + CLIP similarity,0,0.050981033593416214,False
+2s96m6,1,Cross-attention + CLIP similarity,1,0.9851691722869873,True
+dbtj8e,1,Cross-attention + CLIP similarity,1,0.9826918840408325,True
+cbbry9u,0,Cross-attention + CLIP similarity,0,0.002333572134375572,True
+66mik8,1,Cross-attention + CLIP similarity,1,0.8530303239822388,True
+8e0smk,0,Cross-attention + CLIP similarity,0,0.2939543128013611,True
+axpzp7,1,Cross-attention + CLIP similarity,1,0.9925421476364136,True
+8mb796,0,Cross-attention + CLIP similarity,0,0.04391680657863617,True
+87h35r,0,Cross-attention + CLIP similarity,0,0.02651018463075161,True
+bihpx2,1,Cross-attention + CLIP similarity,1,0.9946680068969727,True
+caty0dl,0,Cross-attention + CLIP similarity,1,0.7196390628814697,False
+23vwgj,0,Cross-attention + CLIP similarity,0,0.19049246609210968,True
+cwsyt5w,0,Cross-attention + CLIP similarity,0,0.12112873792648315,True
+balyih,0,Cross-attention + CLIP similarity,1,0.9737153053283691,False
+67x59w,0,Cross-attention + CLIP similarity,0,0.031134938821196556,True
+2t1p6f,1,Cross-attention + CLIP similarity,1,0.7497231960296631,True
+c4d8ccw,0,Cross-attention + CLIP similarity,0,0.012076899409294128,True
+9f8glq,1,Cross-attention + CLIP similarity,1,0.9915117621421814,True
+8mnwr9,0,Cross-attention + CLIP similarity,0,0.0032186589669436216,True
+ciiqg4p,0,Cross-attention + CLIP similarity,1,0.8002468347549438,False
+8a9x2z,0,Cross-attention + CLIP similarity,1,0.7738447785377502,False
+47rzsk,0,Cross-attention + CLIP similarity,1,0.976969301700592,False
+d283nk,0,Cross-attention + CLIP similarity,0,0.11580082029104233,True
+7y43li,0,Cross-attention + CLIP similarity,1,0.9666134715080261,False
+d65l6z,0,Cross-attention + CLIP similarity,0,0.06684303283691406,True
+cdrzqzd,0,Cross-attention + CLIP similarity,0,0.009484414011240005,True
+6sgl84,1,Cross-attention + CLIP similarity,1,0.9729819893836975,True
+9czm4s,1,Cross-attention + CLIP similarity,1,0.9698992371559143,True
+cod659,1,Cross-attention + CLIP similarity,1,0.9946449995040894,True
+7itvgr,0,Cross-attention + CLIP similarity,1,0.5066895484924316,False
+cc540ix,0,Cross-attention + CLIP similarity,0,0.017879199236631393,True
+cl0q9v,0,Cross-attention + CLIP similarity,0,0.0064321113750338554,True
+5pr5dn,1,Cross-attention + CLIP similarity,1,0.9552570581436157,True
+c9rfv8w,0,Cross-attention + CLIP similarity,0,0.0016177308280020952,True
+4dpj0w,1,Cross-attention + CLIP similarity,1,0.6680605411529541,True
+3rkpan,1,Cross-attention + CLIP similarity,0,0.07742321491241455,False
+6wfimz,1,Cross-attention + CLIP similarity,1,0.7394446730613708,True
+41h26q,1,Cross-attention + CLIP similarity,1,0.994968593120575,True
+11ln83,1,Cross-attention + CLIP similarity,1,0.7978513836860657,True
+5onbbj,1,Cross-attention + CLIP similarity,1,0.9877866506576538,True
+91a907,0,Cross-attention + CLIP similarity,1,0.896539568901062,False
+7po13e,1,Cross-attention + CLIP similarity,1,0.9389001131057739,True
+cy9qkm,1,Cross-attention + CLIP similarity,1,0.9957501888275146,True
+cys35p,1,Cross-attention + CLIP similarity,1,0.9940020442008972,True
+cs4g1f,1,Cross-attention + CLIP similarity,0,0.0032276143319904804,False
+61is8q,0,Cross-attention + CLIP similarity,0,0.39897292852401733,True
+2sxiqd,0,Cross-attention + CLIP similarity,0,0.01780569739639759,True
+ck3bio5,0,Cross-attention + CLIP similarity,0,0.015409291721880436,True
+3atjjp,1,Cross-attention + CLIP similarity,1,0.9317929744720459,True
+c74f17j,0,Cross-attention + CLIP similarity,0,0.01137608103454113,True
+79z0lg,1,Cross-attention + CLIP similarity,1,0.5463961958885193,True
+7ly0py,0,Cross-attention + CLIP similarity,0,0.03315966948866844,True
+54fvom,0,Cross-attention + CLIP similarity,1,0.965294599533081,False
+8o8wtz,1,Cross-attention + CLIP similarity,0,0.06398181617259979,False
+2m6ptt,1,Cross-attention + CLIP similarity,1,0.9818304181098938,True
+dd2mm4r,0,Cross-attention + CLIP similarity,0,0.0025377676356583834,True
+d2ayuu,1,Cross-attention + CLIP similarity,1,0.9797999262809753,True
+2h4nh0,1,Cross-attention + CLIP similarity,1,0.7324890494346619,True
+3ng41c,1,Cross-attention + CLIP similarity,0,0.010517706163227558,False
+c0ock2,1,Cross-attention + CLIP similarity,1,0.9976673722267151,True
+c2j9fw,1,Cross-attention + CLIP similarity,1,0.9960659146308899,True
+6vz2r2,0,Cross-attention + CLIP similarity,1,0.995311975479126,False
+140v84,1,Cross-attention + CLIP similarity,1,0.9801338911056519,True
+66wdwv,0,Cross-attention + CLIP similarity,0,0.49509546160697937,True
+1o5d63,0,Cross-attention + CLIP similarity,1,0.6720245480537415,False
+4yuc47,0,Cross-attention + CLIP similarity,1,0.9802678823471069,False
+dakjyii,0,Cross-attention + CLIP similarity,0,0.03238511458039284,True
+4hn9er,1,Cross-attention + CLIP similarity,1,0.8273398280143738,True
+ct2opk7,0,Cross-attention + CLIP similarity,0,0.0021305372938513756,True
+c5r63q,1,Cross-attention + CLIP similarity,1,0.986426591873169,True
+eo9r6w1,0,Cross-attention + CLIP similarity,0,0.0025137122720479965,True
+9g4e07,1,Cross-attention + CLIP similarity,1,0.9948575496673584,True
+9bb90f,1,Cross-attention + CLIP similarity,1,0.9934632778167725,True
+25rjwb,0,Cross-attention + CLIP similarity,1,0.8095296621322632,False
+cmezty1,0,Cross-attention + CLIP similarity,0,0.00380775541998446,True
+csynbc,1,Cross-attention + CLIP similarity,1,0.9933510422706604,True
+d54ewo,1,Cross-attention + CLIP similarity,1,0.9941603541374207,True
+26qnp5,1,Cross-attention + CLIP similarity,1,0.944698691368103,True
+6jtok5,1,Cross-attention + CLIP similarity,1,0.9978436231613159,True
+b6kj0m,1,Cross-attention + CLIP similarity,1,0.9962453246116638,True
+cqo5m0,1,Cross-attention + CLIP similarity,1,0.9872593879699707,True
+crqy6nz,0,Cross-attention + CLIP similarity,0,0.01970333233475685,True
+cu21e1t,0,Cross-attention + CLIP similarity,0,0.006966364104300737,True
+5wzho7,1,Cross-attention + CLIP similarity,1,0.893695056438446,True
+46w2w8,0,Cross-attention + CLIP similarity,0,0.06550177931785583,True
+2q01qd,0,Cross-attention + CLIP similarity,0,0.006479348987340927,True
+6hvzy7,1,Cross-attention + CLIP similarity,1,0.9906190633773804,True
+bufll5,0,Cross-attention + CLIP similarity,0,0.027339892461895943,True
+5e95lt,1,Cross-attention + CLIP similarity,1,0.9866712689399719,True
+bzaruc,1,Cross-attention + CLIP similarity,1,0.9898496866226196,True
+ddc47u0,0,Cross-attention + CLIP similarity,0,0.018535438925027847,True
+6x4wbn,1,Cross-attention + CLIP similarity,1,0.9905937314033508,True
+ch2mo90,0,Cross-attention + CLIP similarity,0,0.03474440798163414,True
+biwb5a,1,Cross-attention + CLIP similarity,1,0.9748560190200806,True
+7nkm5p,0,Cross-attention + CLIP similarity,1,0.9107235074043274,False
+d944m4,1,Cross-attention + CLIP similarity,1,0.9971367120742798,True
+dmisbow,0,Cross-attention + CLIP similarity,0,0.003333105705678463,True
+dhd9d1x,0,Cross-attention + CLIP similarity,0,0.05737614631652832,True
+450go7,1,Cross-attention + CLIP similarity,1,0.8809627294540405,True
+c94krpd,0,Cross-attention + CLIP similarity,0,0.022216273471713066,True
+crl5c6i,0,Cross-attention + CLIP similarity,0,0.19109174609184265,True
+d0auoob,0,Cross-attention + CLIP similarity,0,0.01177951693534851,True
+3d8h1w,0,Cross-attention + CLIP similarity,0,0.0028814261313527822,True
+cb0klhd,0,Cross-attention + CLIP similarity,0,0.007689025718718767,True
+81n645,0,Cross-attention + CLIP similarity,0,0.04942724108695984,True
+dna38rg,0,Cross-attention + CLIP similarity,0,0.001827370491810143,True
+b3y6q8,1,Cross-attention + CLIP similarity,1,0.9980273842811584,True
+bszll4,1,Cross-attention + CLIP similarity,1,0.9446496367454529,True
+bwookn,1,Cross-attention + CLIP similarity,1,0.8605020642280579,True
+cpramg4,0,Cross-attention + CLIP similarity,0,0.004007196985185146,True
+ccrc7y,0,Cross-attention + CLIP similarity,1,0.9891506433486938,False
+dc4jr6,1,Cross-attention + CLIP similarity,1,0.9918187856674194,True
+3cqf4z,1,Cross-attention + CLIP similarity,1,0.9294427037239075,True
+157j2b,1,Cross-attention + CLIP similarity,0,0.02724538743495941,False
+cu1j34u,0,Cross-attention + CLIP similarity,0,0.0018248071428388357,True
+cf3vq94,0,Cross-attention + CLIP similarity,0,0.01096444670110941,True
+18mfr9,1,Cross-attention + CLIP similarity,1,0.9151538610458374,True
+37mao4,1,Cross-attention + CLIP similarity,0,0.065401092171669,False
+8vmnhq,1,Cross-attention + CLIP similarity,0,0.1909410059452057,False
+c2679i,1,Cross-attention + CLIP similarity,1,0.9341443777084351,True
+dy9k4ma,0,Cross-attention + CLIP similarity,0,0.010015720501542091,True
+7qoqh5,1,Cross-attention + CLIP similarity,1,0.9785264730453491,True
+5i7e5y,1,Cross-attention + CLIP similarity,1,0.9870195388793945,True
+cmko4gx,0,Cross-attention + CLIP similarity,1,0.5173989534378052,False
+b2zrm2,1,Cross-attention + CLIP similarity,1,0.9300041794776917,True
+dgaxk4,1,Cross-attention + CLIP similarity,1,0.9891334176063538,True
+2w8mpt,1,Cross-attention + CLIP similarity,0,0.36329185962677,False
+d05rrww,0,Cross-attention + CLIP similarity,0,0.07237420231103897,True
+c6mv27n,0,Cross-attention + CLIP similarity,0,0.07572881132364273,True
+2n7rrq,1,Cross-attention + CLIP similarity,1,0.8823614120483398,True
+8ucjrq,0,Cross-attention + CLIP similarity,0,0.002516719978302717,True
+cxfdlg,0,Cross-attention + CLIP similarity,0,0.002448214450851083,True
+est67as,0,Cross-attention + CLIP similarity,0,0.009541437029838562,True
+50kwy0,1,Cross-attention + CLIP similarity,1,0.9196511507034302,True
+2ifwzf,1,Cross-attention + CLIP similarity,0,0.06393527239561081,False
+7hzqj7,1,Cross-attention + CLIP similarity,0,0.15237155556678772,False
+3gvs00,0,Cross-attention + CLIP similarity,0,0.026595672592520714,True
+dcrgz2,1,Cross-attention + CLIP similarity,1,0.994231104850769,True
+121du8,1,Cross-attention + CLIP similarity,1,0.7094123363494873,True
+1nvsfu,1,Cross-attention + CLIP similarity,0,0.09742414951324463,False
+8hccqu,1,Cross-attention + CLIP similarity,1,0.9734733700752258,True
+c9xdnh4,0,Cross-attention + CLIP similarity,0,0.0042541297152638435,True
+cp0qyr,1,Cross-attention + CLIP similarity,1,0.966237485408783,True
+cj7jc3y,0,Cross-attention + CLIP similarity,0,0.0015859270934015512,True
+cc2z6em,0,Cross-attention + CLIP similarity,0,0.018813099712133408,True
+2ufzff,0,Cross-attention + CLIP similarity,0,0.005370389670133591,True
+c8upxra,0,Cross-attention + CLIP similarity,0,0.0043568904511630535,True
+7qfhfp,0,Cross-attention + CLIP similarity,0,0.4197809398174286,True
+cota07y,0,Cross-attention + CLIP similarity,0,0.008060443215072155,True
+9d27mn,1,Cross-attention + CLIP similarity,1,0.9881979823112488,True
+cuqzf5j,0,Cross-attention + CLIP similarity,0,0.014366796240210533,True
+cia8ta3,0,Cross-attention + CLIP similarity,1,0.9361312985420227,False
+cd9qxwu,0,Cross-attention + CLIP similarity,0,0.07068942487239838,True
+3rdx0d,1,Cross-attention + CLIP similarity,0,0.3014654815196991,False
+2iuyu2,1,Cross-attention + CLIP similarity,1,0.9763138890266418,True
+1935ik,1,Cross-attention + CLIP similarity,1,0.8481455445289612,True
+ddabkh,1,Cross-attention + CLIP similarity,1,0.9933393597602844,True
+2gi2yw,1,Cross-attention + CLIP similarity,1,0.9903547763824463,True
+5ebxyx,1,Cross-attention + CLIP similarity,1,0.9929779171943665,True
+dft09d,1,Cross-attention + CLIP similarity,0,0.0436348058283329,False
+8if89w,1,Cross-attention + CLIP similarity,1,0.5146011710166931,True
+12eu9x,1,Cross-attention + CLIP similarity,1,0.97267746925354,True
+cfq8i6,1,Cross-attention + CLIP similarity,1,0.9977704286575317,True
+1kden7,1,Cross-attention + CLIP similarity,0,0.1295623481273651,False
+379zex,1,Cross-attention + CLIP similarity,1,0.9806616306304932,True
+5x394r,1,Cross-attention + CLIP similarity,1,0.7973531484603882,True
+47644r,1,Cross-attention + CLIP similarity,0,0.23853883147239685,False
+4r6oug,1,Cross-attention + CLIP similarity,1,0.5083170533180237,True
+56wcg9,1,Cross-attention + CLIP similarity,1,0.9956074357032776,True
+53o86m,0,Cross-attention + CLIP similarity,0,0.016722405329346657,True
+dw2v6yo,0,Cross-attention + CLIP similarity,0,0.0007740093278698623,True
+ccweof,1,Cross-attention + CLIP similarity,1,0.9788377285003662,True
+5us4a4,0,Cross-attention + CLIP similarity,1,0.5214323997497559,False
+bcyzt9,1,Cross-attention + CLIP similarity,1,0.9975228905677795,True
+d65u4a,1,Cross-attention + CLIP similarity,0,0.050596676766872406,False
+ejkewe1,0,Cross-attention + CLIP similarity,0,0.003458545310422778,True
+2rymnx,0,Cross-attention + CLIP similarity,0,0.0046222396194934845,True
+6i23e4,0,Cross-attention + CLIP similarity,1,0.9875481128692627,False
+9fr8wx,0,Cross-attention + CLIP similarity,1,0.873919665813446,False
+c76ut59,0,Cross-attention + CLIP similarity,1,0.9478771090507507,False
+b83zxf,1,Cross-attention + CLIP similarity,1,0.9941021800041199,True
+c60xvnf,0,Cross-attention + CLIP similarity,0,0.004690160043537617,True
+7aj6di,1,Cross-attention + CLIP similarity,1,0.9900785684585571,True
+5p3yvg,0,Cross-attention + CLIP similarity,0,0.012409832328557968,True
+bwy862,1,Cross-attention + CLIP similarity,1,0.9955447316169739,True
+6tqw2f,0,Cross-attention + CLIP similarity,0,0.00851905532181263,True
+uncvx,1,Cross-attention + CLIP similarity,0,0.14844690263271332,False
+d1h1gm,1,Cross-attention + CLIP similarity,1,0.9897979497909546,True
+5re6n7,1,Cross-attention + CLIP similarity,1,0.9963030815124512,True
+6292e3,0,Cross-attention + CLIP similarity,0,0.09535776823759079,True
+cazzu2,1,Cross-attention + CLIP similarity,1,0.9619762301445007,True
+ch8qtnk,0,Cross-attention + CLIP similarity,0,0.0038124918937683105,True
+c7ssef,1,Cross-attention + CLIP similarity,1,0.9567015767097473,True
+axpr18,0,Cross-attention + CLIP similarity,1,0.5086803436279297,False
+1o9iki,1,Cross-attention + CLIP similarity,1,0.9811000823974609,True
+50kw9j,1,Cross-attention + CLIP similarity,1,0.9963247179985046,True
+d4djtb5,0,Cross-attention + CLIP similarity,0,0.003624445991590619,True
+1i9a8l,1,Cross-attention + CLIP similarity,0,0.12858299911022186,False
+1nq9cq,1,Cross-attention + CLIP similarity,1,0.9867592453956604,True
+39tj21,1,Cross-attention + CLIP similarity,1,0.9805733561515808,True
+cqvdpl,1,Cross-attention + CLIP similarity,1,0.7932737469673157,True
+cws4ubd,0,Cross-attention + CLIP similarity,0,0.001798206940293312,True
+cggg35c,0,Cross-attention + CLIP similarity,0,0.03128901124000549,True
+cb17dj4,0,Cross-attention + CLIP similarity,0,0.02049972303211689,True
+ct2bj2g,0,Cross-attention + CLIP similarity,0,0.002895507961511612,True
+blzv2k,1,Cross-attention + CLIP similarity,1,0.993141233921051,True
+baao1g,0,Cross-attention + CLIP similarity,0,0.008457030169665813,True
+8mzd12,0,Cross-attention + CLIP similarity,1,0.9702165722846985,False
+7yx1px,0,Cross-attention + CLIP similarity,0,0.002553432248532772,True
+9i5u8n,0,Cross-attention + CLIP similarity,0,0.0026629480998963118,True
+bbce6d,1,Cross-attention + CLIP similarity,1,0.9930003881454468,True
+3h4p39,1,Cross-attention + CLIP similarity,1,0.8481836915016174,True
+dh8sz1,1,Cross-attention + CLIP similarity,1,0.9934564232826233,True
+81j4eu,0,Cross-attention + CLIP similarity,1,0.9119635224342346,False
+2sy4zn,1,Cross-attention + CLIP similarity,1,0.841773509979248,True
+552xl7,0,Cross-attention + CLIP similarity,0,0.02517165243625641,True
+8k6gnf,1,Cross-attention + CLIP similarity,0,0.415986031293869,False
+1vzo2j,0,Cross-attention + CLIP similarity,0,0.4577093720436096,True
+bmer2p,1,Cross-attention + CLIP similarity,1,0.915928065776825,True
+6y7oh1,1,Cross-attention + CLIP similarity,1,0.9936995506286621,True
+b26r1c,1,Cross-attention + CLIP similarity,1,0.9975021481513977,True
+ai08p0,1,Cross-attention + CLIP similarity,1,0.8173469305038452,True
+d7t7fvf,0,Cross-attention + CLIP similarity,0,0.02167622372508049,True
+7fztxz,0,Cross-attention + CLIP similarity,0,0.007858437485992908,True
+div36us,0,Cross-attention + CLIP similarity,0,0.003952910657972097,True
+10cpga,1,Cross-attention + CLIP similarity,0,0.009231872856616974,False
+b62nh4,0,Cross-attention + CLIP similarity,1,0.9903879761695862,False
+blm6x6,1,Cross-attention + CLIP similarity,1,0.990116536617279,True
+17l1ze,0,Cross-attention + CLIP similarity,0,0.002884465968236327,True
+9bzeg8,1,Cross-attention + CLIP similarity,1,0.939954936504364,True
+3hgz5a,1,Cross-attention + CLIP similarity,1,0.9633150100708008,True
+5a3oy1,0,Cross-attention + CLIP similarity,0,0.008670671842992306,True
+4xicjg,1,Cross-attention + CLIP similarity,1,0.9712420701980591,True
+dbrs1k,0,Cross-attention + CLIP similarity,1,0.9618611931800842,False
+cs9dasf,0,Cross-attention + CLIP similarity,0,0.13221535086631775,True
+asen4h,0,Cross-attention + CLIP similarity,0,0.14888639748096466,True
+ciqyv76,0,Cross-attention + CLIP similarity,0,0.017751913517713547,True
+dkp9lk,1,Cross-attention + CLIP similarity,1,0.9940239787101746,True
+37c2lb,1,Cross-attention + CLIP similarity,1,0.9805757403373718,True
+8cro5h,0,Cross-attention + CLIP similarity,1,0.725196361541748,False
+bsdijx,1,Late fusion,0,0.46579205989837646,False
+31p3nx,1,Late fusion,1,0.7967594265937805,True
+mgcej,0,Late fusion,1,0.5135195851325989,False
+arsxc0,1,Late fusion,1,0.8315044641494751,True
+6pv2v7,0,Late fusion,0,0.38745617866516113,True
+c6e1pbo,0,Late fusion,0,0.0014071464538574219,True
+coffor,1,Late fusion,1,0.5675070285797119,True
+c71dkmd,0,Late fusion,0,0.1475512981414795,True
+bqa6yb,1,Late fusion,1,0.6785097122192383,True
+at78lh,0,Late fusion,0,0.27392905950546265,True
+bmnjm8,0,Late fusion,0,0.43945616483688354,True
+1l4xu5,1,Late fusion,1,0.7813143730163574,True
+cz84lr,0,Late fusion,0,0.39484846591949463,True
+830csd,0,Late fusion,0,0.24366217851638794,True
+7utja8,0,Late fusion,1,0.9762738943099976,False
+ciogbdx,0,Late fusion,0,0.006621718406677246,True
+2xctjd,1,Late fusion,1,0.6065465211868286,True
+26vk7z,1,Late fusion,1,0.7864900827407837,True
+v6krw,1,Late fusion,0,0.2624645233154297,False
+2z8fq5,1,Late fusion,1,0.5488255023956299,True
+esk7qje,0,Late fusion,0,0.4607381820678711,True
+23fn5k,0,Late fusion,0,0.45794856548309326,True
+8ol6xj,1,Late fusion,1,0.8202512264251709,True
+737nb5,1,Late fusion,1,0.7377347946166992,True
+9im54n,0,Late fusion,0,0.01989436149597168,True
+196iv1,1,Late fusion,1,0.5050048232078552,True
+38nqxb,0,Late fusion,0,0.02350318431854248,True
+19gwq7,1,Late fusion,1,0.5903638005256653,True
+8d4ceb,1,Late fusion,1,0.8611310720443726,True
+80ivhd,0,Late fusion,0,0.32928168773651123,True
+2nfjw0,1,Late fusion,0,0.4700314402580261,False
+cvwcfcc,0,Late fusion,0,0.11786282062530518,True
+1ar30x,1,Late fusion,0,0.40115922689437866,False
+b0ebsi,0,Late fusion,0,0.3224294185638428,True
+bp3zxd,1,Late fusion,1,0.6938948631286621,True
+co9kl38,0,Late fusion,0,0.02764260768890381,True
+cezz89e,0,Late fusion,0,0.4467970132827759,True
+2cvj8y,1,Late fusion,1,0.7261954545974731,True
+5qms4x,0,Late fusion,0,0.4745108485221863,True
+2lb2pq,0,Late fusion,0,0.44086194038391113,True
+b2a73p,1,Late fusion,1,0.7872353792190552,True
+e4t1vdw,0,Late fusion,0,0.010953307151794434,True
+8w1k0i,0,Late fusion,0,0.22291964292526245,True
+8vzaoi,0,Late fusion,1,0.9583910703659058,False
+72s20b,0,Late fusion,0,0.374144971370697,True
+8w7ik0,1,Late fusion,1,0.9134935140609741,True
+5pxa5r,0,Late fusion,0,0.16648006439208984,True
+5jryrp,0,Late fusion,0,0.21535664796829224,True
+9g6ojz,0,Late fusion,0,0.29852718114852905,True
+cnwql2f,0,Late fusion,0,0.04683566093444824,True
+axq61p,0,Late fusion,1,0.5765715837478638,False
+2l7o3v,1,Late fusion,1,0.7665092349052429,True
+djsk1s,1,Late fusion,1,0.9722210168838501,True
+6h4m6u,0,Late fusion,0,0.05105733871459961,True
+2urrle,1,Late fusion,1,0.5542587041854858,True
+e0v1vo9,0,Late fusion,0,0.008225679397583008,True
+c5w88n,1,Late fusion,1,0.9812097549438477,True
+cnh101p,0,Late fusion,0,0.015517652034759521,True
+7bfkuz,0,Late fusion,0,0.40683454275131226,True
+cmztedc,0,Late fusion,0,0.0053375959396362305,True
+cgsr09,0,Late fusion,0,0.2420802116394043,True
+biuzps,1,Late fusion,1,0.9893155097961426,True
+4xpu4i,1,Late fusion,0,0.4677949547767639,False
+5v2iit,0,Late fusion,0,0.22580033540725708,True
+7h4a11,0,Late fusion,0,0.0802299976348877,True
+16b5im,0,Late fusion,0,0.01731562614440918,True
+4jrqqd,1,Late fusion,1,0.9620386958122253,True
+be1a05,1,Late fusion,1,0.861777663230896,True
+83oqyi,1,Late fusion,1,0.7788043022155762,True
+7acpde,0,Late fusion,0,0.3071115016937256,True
+audo85,1,Late fusion,1,0.9606873393058777,True
+daq2fk,0,Late fusion,0,0.23659580945968628,True
+dn7a0ql,0,Late fusion,0,0.2659299969673157,True
+covoqre,0,Late fusion,0,0.1039896011352539,True
+cht7go,1,Late fusion,1,0.9350861310958862,True
+6ex7pi,1,Late fusion,1,0.9941520690917969,True
+3k2xdj,1,Late fusion,1,0.5933469533920288,True
+2ya2dg,1,Late fusion,0,0.19952166080474854,False
+dhq3hrc,0,Late fusion,0,0.008868694305419922,True
+3g4e1z,1,Late fusion,1,0.5105529427528381,True
+7ynoip,0,Late fusion,1,0.9078034162521362,False
+dwysmxv,0,Late fusion,0,0.019182801246643066,True
+cmrwgs,1,Late fusion,1,0.6168341636657715,True
+2ocah5,1,Late fusion,1,0.8937519192695618,True
+826z85,1,Late fusion,1,0.973965585231781,True
+31g6cv,0,Late fusion,0,0.04484832286834717,True
+4ec5zw,1,Late fusion,1,0.9888978600502014,True
+5a7jrf,1,Late fusion,1,0.8288722038269043,True
+ch3lfr1,0,Late fusion,0,0.015684187412261963,True
+6svb6q,0,Late fusion,0,0.17772388458251953,True
+9cmylg,1,Late fusion,1,0.6229428648948669,True
+c6yvn8,1,Late fusion,1,0.90025794506073,True
+7y22r0,0,Late fusion,1,0.5887710452079773,False
+7wzqot,1,Late fusion,0,0.4235648512840271,False
+c52du7f,0,Late fusion,0,0.001874089241027832,True
+23nqfm,1,Late fusion,0,0.1096726655960083,False
+4wk154,1,Late fusion,1,0.745883584022522,True
+bfd5tz,1,Late fusion,1,0.7275862097740173,True
+3l1894,1,Late fusion,1,0.8040242195129395,True
+5ju942,0,Late fusion,1,0.6452599167823792,False
+3k55nb,1,Late fusion,1,0.9746283888816833,True
+9c76kg,0,Late fusion,0,0.4052309989929199,True
+cbh8w3w,0,Late fusion,0,0.06523549556732178,True
+5h7o2o,0,Late fusion,0,0.44387537240982056,True
+cz355st,0,Late fusion,0,0.03169810771942139,True
+2u4gfl,0,Late fusion,0,0.016746044158935547,True
+cr6c0h2,0,Late fusion,0,0.00368654727935791,True
+awh82b,0,Late fusion,0,0.023301243782043457,True
+66bna9,1,Late fusion,1,0.8989114761352539,True
+5m4uuw,1,Late fusion,1,0.5262731909751892,True
+8qyry4,0,Late fusion,0,0.2133946418762207,True
+5ufr62,1,Late fusion,1,0.5732055306434631,True
+d2x5if,1,Late fusion,1,0.7797757387161255,True
+1p3nwy,1,Late fusion,1,0.5080139636993408,True
+4eu6tf,1,Late fusion,1,0.9079748392105103,True
+7xi8c1,0,Late fusion,0,0.016328394412994385,True
+c6atxga,0,Late fusion,0,0.13850045204162598,True
+awktsf,1,Late fusion,1,0.8374646306037903,True
+cfhf10,1,Late fusion,1,0.6488209366798401,True
+azoxbn,1,Late fusion,0,0.3375040888786316,False
+c47052m,0,Late fusion,0,0.0094451904296875,True
+5a5p2b,0,Late fusion,1,0.5171399116516113,False
+brdglr,0,Late fusion,1,0.6729583740234375,False
+57h7k1,1,Late fusion,1,0.716445803642273,True
+7ritxn,0,Late fusion,0,0.328671395778656,True
+cda0c45,0,Late fusion,0,0.06560611724853516,True
+3lzak5,1,Late fusion,1,0.6292768716812134,True
+21gbx3,1,Late fusion,1,0.8293489217758179,True
+coinam,0,Late fusion,0,0.3282601833343506,True
+5djqky,1,Late fusion,1,0.9658346176147461,True
+bk6wxz,1,Late fusion,1,0.9477370977401733,True
+cd4nfmw,0,Late fusion,0,0.18745100498199463,True
+3izcfr,1,Late fusion,0,0.3392024040222168,False
+3ixjkm,0,Late fusion,0,0.09262299537658691,True
+473yvh,0,Late fusion,0,0.3849661350250244,True
+21o3u8,0,Late fusion,0,0.2628213167190552,True
+5a1fmj,1,Late fusion,0,0.40334951877593994,False
+brj4wy,1,Late fusion,1,0.6741623878479004,True
+c1if9z,1,Late fusion,1,0.92792809009552,True
+15zeia,1,Late fusion,1,0.859406590461731,True
+d7u1dfb,0,Late fusion,0,0.010107994079589844,True
+7qvjso,0,Late fusion,1,0.867232084274292,False
+8vymjw,1,Late fusion,1,0.9841245412826538,True
+b3zni2,0,Late fusion,0,0.39054757356643677,True
+cjkjsmr,0,Late fusion,0,0.32117271423339844,True
+4fhge0,1,Late fusion,1,0.6604613661766052,True
+cmzylq9,0,Late fusion,0,0.029903411865234375,True
+atk3ni,0,Late fusion,1,0.7215026617050171,False
+96sddx,0,Late fusion,0,0.0023975372314453125,True
+7nnujx,1,Late fusion,1,0.9857314229011536,True
+d4zv00n,0,Late fusion,1,0.8826569318771362,False
+ckolfx,1,Late fusion,1,0.9470213055610657,True
+9dkj02,1,Late fusion,1,0.8672681450843811,True
+cocituf,0,Late fusion,0,0.08396732807159424,True
+69pgnu,0,Late fusion,0,0.009283900260925293,True
+97utvi,0,Late fusion,0,0.3787165880203247,True
+bos3zm,0,Late fusion,1,0.8412209153175354,False
+4vtrg3,0,Late fusion,0,0.4719032049179077,True
+3bdnpd,1,Late fusion,0,0.3911643624305725,False
+87sjsp,1,Late fusion,1,0.6885684728622437,True
+dl1nyy,1,Late fusion,1,0.6107232570648193,True
+2s96m6,1,Late fusion,1,0.6065727472305298,True
+dbtj8e,1,Late fusion,1,0.981810450553894,True
+cbbry9u,0,Late fusion,0,0.0066013336181640625,True
+66mik8,1,Late fusion,1,0.8536019921302795,True
+8e0smk,0,Late fusion,0,0.14781194925308228,True
+axpzp7,1,Late fusion,1,0.9885087609291077,True
+8mb796,0,Late fusion,1,0.5691350698471069,False
+87h35r,0,Late fusion,0,0.06319159269332886,True
+bihpx2,1,Late fusion,1,0.9638141393661499,True
+caty0dl,0,Late fusion,1,0.5170530676841736,False
+23vwgj,0,Late fusion,0,0.06242835521697998,True
+cwsyt5w,0,Late fusion,0,0.01605391502380371,True
+balyih,0,Late fusion,1,0.7237151861190796,False
+67x59w,0,Late fusion,0,0.08603167533874512,True
+2t1p6f,1,Late fusion,0,0.33201032876968384,False
+c4d8ccw,0,Late fusion,0,0.010591506958007812,True
+9f8glq,1,Late fusion,1,0.9760076999664307,True
+8mnwr9,0,Late fusion,0,0.01693415641784668,True
+ciiqg4p,0,Late fusion,0,0.31819140911102295,True
+8a9x2z,0,Late fusion,1,0.9176321029663086,False
+47rzsk,0,Late fusion,1,0.8534218072891235,False
+d283nk,0,Late fusion,0,0.14765560626983643,True
+7y43li,0,Late fusion,1,0.8106393218040466,False
+d65l6z,0,Late fusion,0,0.3493229150772095,True
+cdrzqzd,0,Late fusion,0,0.31769001483917236,True
+6sgl84,1,Late fusion,1,0.8524047136306763,True
+9czm4s,1,Late fusion,1,0.6055462956428528,True
+cod659,1,Late fusion,1,0.8976574540138245,True
+7itvgr,0,Late fusion,1,0.5015554428100586,False
+cc540ix,0,Late fusion,0,0.4379109740257263,True
+cl0q9v,0,Late fusion,0,0.48012804985046387,True
+5pr5dn,1,Late fusion,1,0.8289794921875,True
+c9rfv8w,0,Late fusion,0,0.0037730932235717773,True
+4dpj0w,1,Late fusion,1,0.883172333240509,True
+3rkpan,1,Late fusion,0,0.06563925743103027,False
+6wfimz,1,Late fusion,0,0.293676495552063,False
+41h26q,1,Late fusion,1,0.9383056163787842,True
+11ln83,1,Late fusion,0,0.24969619512557983,False
+5onbbj,1,Late fusion,1,0.6706031560897827,True
+91a907,0,Late fusion,1,0.5262466669082642,False
+7po13e,1,Late fusion,1,0.7025668621063232,True
+cy9qkm,1,Late fusion,1,0.9222306609153748,True
+cys35p,1,Late fusion,1,0.9878143668174744,True
+cs4g1f,1,Late fusion,0,0.02309316396713257,False
+61is8q,0,Late fusion,1,0.561173677444458,False
+2sxiqd,0,Late fusion,1,0.5482009053230286,False
+ck3bio5,0,Late fusion,0,0.37722617387771606,True
+3atjjp,1,Late fusion,1,0.8099479079246521,True
+c74f17j,0,Late fusion,0,0.02230173349380493,True
+79z0lg,1,Late fusion,1,0.5293596386909485,True
+7ly0py,0,Late fusion,0,0.20033377408981323,True
+54fvom,0,Late fusion,1,0.8024647235870361,False
+8o8wtz,1,Late fusion,0,0.15524780750274658,False
+2m6ptt,1,Late fusion,1,0.9406605958938599,True
+dd2mm4r,0,Late fusion,0,0.011496663093566895,True
+d2ayuu,1,Late fusion,1,0.7142411470413208,True
+2h4nh0,1,Late fusion,1,0.7749873399734497,True
+3ng41c,1,Late fusion,0,0.23853051662445068,False
+c0ock2,1,Late fusion,1,0.989665150642395,True
+c2j9fw,1,Late fusion,1,0.8443571329116821,True
+6vz2r2,0,Late fusion,1,0.7370271682739258,False
+140v84,1,Late fusion,1,0.741767168045044,True
+66wdwv,0,Late fusion,0,0.02525806427001953,True
+1o5d63,0,Late fusion,0,0.298056960105896,True
+4yuc47,0,Late fusion,1,0.815835177898407,False
+dakjyii,0,Late fusion,0,0.24790841341018677,True
+4hn9er,1,Late fusion,1,0.9058474898338318,True
+ct2opk7,0,Late fusion,0,0.0016957521438598633,True
+c5r63q,1,Late fusion,1,0.9042959809303284,True
+eo9r6w1,0,Late fusion,0,0.007758736610412598,True
+9g4e07,1,Late fusion,1,0.9565660357475281,True
+9bb90f,1,Late fusion,1,0.8803421258926392,True
+25rjwb,0,Late fusion,0,0.2578895688056946,True
+cmezty1,0,Late fusion,0,0.0032022595405578613,True
+csynbc,1,Late fusion,1,0.6025917530059814,True
+d54ewo,1,Late fusion,1,0.9865769743919373,True
+26qnp5,1,Late fusion,1,0.7083998322486877,True
+6jtok5,1,Late fusion,1,0.7796031832695007,True
+b6kj0m,1,Late fusion,1,0.9442886114120483,True
+cqo5m0,1,Late fusion,1,0.7415285110473633,True
+crqy6nz,0,Late fusion,0,0.041372835636138916,True
+cu21e1t,0,Late fusion,0,0.15717482566833496,True
+5wzho7,1,Late fusion,0,0.36006611585617065,False
+46w2w8,0,Late fusion,0,0.031031906604766846,True
+2q01qd,0,Late fusion,0,0.2581298351287842,True
+6hvzy7,1,Late fusion,1,0.9285855889320374,True
+bufll5,0,Late fusion,1,0.5272212624549866,False
+5e95lt,1,Late fusion,1,0.8253899812698364,True
+bzaruc,1,Late fusion,1,0.8280960917472839,True
+ddc47u0,0,Late fusion,0,0.011983513832092285,True
+6x4wbn,1,Late fusion,1,0.9702159762382507,True
+ch2mo90,0,Late fusion,0,0.2260587215423584,True
+biwb5a,1,Late fusion,1,0.7263104319572449,True
+7nkm5p,0,Late fusion,0,0.410305380821228,True
+d944m4,1,Late fusion,1,0.9532321691513062,True
+dmisbow,0,Late fusion,0,0.06490063667297363,True
+dhd9d1x,0,Late fusion,0,0.4824466109275818,True
+450go7,1,Late fusion,1,0.9034454822540283,True
+c94krpd,0,Late fusion,0,0.024192214012145996,True
+crl5c6i,0,Late fusion,0,0.09151434898376465,True
+d0auoob,0,Late fusion,0,0.04615187644958496,True
+3d8h1w,0,Late fusion,0,0.016629934310913086,True
+cb0klhd,0,Late fusion,0,0.005301117897033691,True
+81n645,0,Late fusion,0,0.2729675769805908,True
+dna38rg,0,Late fusion,0,0.14343786239624023,True
+b3y6q8,1,Late fusion,1,0.9891742467880249,True
+bszll4,1,Late fusion,1,0.7525691986083984,True
+bwookn,1,Late fusion,0,0.30947399139404297,False
+cpramg4,0,Late fusion,0,0.06849551200866699,True
+ccrc7y,0,Late fusion,1,0.6800012588500977,False
+dc4jr6,1,Late fusion,1,0.9576354026794434,True
+3cqf4z,1,Late fusion,1,0.8557707667350769,True
+157j2b,1,Late fusion,0,0.08895838260650635,False
+cu1j34u,0,Late fusion,0,0.006851553916931152,True
+cf3vq94,0,Late fusion,0,0.013288140296936035,True
+18mfr9,1,Late fusion,1,0.9270219802856445,True
+37mao4,1,Late fusion,0,0.09933239221572876,False
+8vmnhq,1,Late fusion,1,0.5228877067565918,True
+c2679i,1,Late fusion,1,0.9683599472045898,True
+dy9k4ma,0,Late fusion,0,0.011154651641845703,True
+7qoqh5,1,Late fusion,1,0.5271806716918945,True
+5i7e5y,1,Late fusion,1,0.9569785594940186,True
+cmko4gx,0,Late fusion,0,0.061911940574645996,True
+b2zrm2,1,Late fusion,1,0.5919981598854065,True
+dgaxk4,1,Late fusion,1,0.956160843372345,True
+2w8mpt,1,Late fusion,1,0.6723974943161011,True
+d05rrww,0,Late fusion,0,0.1372826099395752,True
+c6mv27n,0,Late fusion,0,0.11006391048431396,True
+2n7rrq,1,Late fusion,1,0.5067511796951294,True
+8ucjrq,0,Late fusion,0,0.0067237019538879395,True
+cxfdlg,0,Late fusion,0,0.00243455171585083,True
+est67as,0,Late fusion,0,0.01893448829650879,True
+50kwy0,1,Late fusion,0,0.347790002822876,False
+2ifwzf,1,Late fusion,0,0.3146071434020996,False
+7hzqj7,1,Late fusion,1,0.562645673751831,True
+3gvs00,0,Late fusion,0,0.010349392890930176,True
+dcrgz2,1,Late fusion,1,0.8227924108505249,True
+121du8,1,Late fusion,1,0.9005791544914246,True
+1nvsfu,1,Late fusion,1,0.5585405826568604,True
+8hccqu,1,Late fusion,1,0.8992223739624023,True
+c9xdnh4,0,Late fusion,0,0.002443253993988037,True
+cp0qyr,1,Late fusion,1,0.7102274894714355,True
+cj7jc3y,0,Late fusion,0,0.0036017894744873047,True
+cc2z6em,0,Late fusion,0,0.006651103496551514,True
+2ufzff,0,Late fusion,0,0.47164005041122437,True
+c8upxra,0,Late fusion,0,0.0029300451278686523,True
+7qfhfp,0,Late fusion,0,0.1558791995048523,True
+cota07y,0,Late fusion,0,0.11145836114883423,True
+9d27mn,1,Late fusion,1,0.6983979940414429,True
+cuqzf5j,0,Late fusion,0,0.005163908004760742,True
+cia8ta3,0,Late fusion,0,0.4524233937263489,True
+cd9qxwu,0,Late fusion,0,0.08282124996185303,True
+3rdx0d,1,Late fusion,1,0.5655490159988403,True
+2iuyu2,1,Late fusion,1,0.7744537591934204,True
+1935ik,1,Late fusion,1,0.6184346675872803,True
+ddabkh,1,Late fusion,1,0.7175167202949524,True
+2gi2yw,1,Late fusion,1,0.5670996904373169,True
+5ebxyx,1,Late fusion,1,0.7516555190086365,True
+dft09d,1,Late fusion,0,0.3439587354660034,False
+8if89w,1,Late fusion,1,0.5112276077270508,True
+12eu9x,1,Late fusion,1,0.691546618938446,True
+cfq8i6,1,Late fusion,1,0.9746555089950562,True
+1kden7,1,Late fusion,1,0.6580840349197388,True
+379zex,1,Late fusion,1,0.7830049991607666,True
+5x394r,1,Late fusion,1,0.5063645839691162,True
+47644r,1,Late fusion,1,0.5365832448005676,True
+4r6oug,1,Late fusion,0,0.11970818042755127,False
+56wcg9,1,Late fusion,1,0.7549747228622437,True
+53o86m,0,Late fusion,0,0.37567639350891113,True
+dw2v6yo,0,Late fusion,0,0.008928894996643066,True
+ccweof,1,Late fusion,1,0.9803948998451233,True
+5us4a4,0,Late fusion,0,0.06932222843170166,True
+bcyzt9,1,Late fusion,1,0.9942751526832581,True
+d65u4a,1,Late fusion,0,0.0893983244895935,False
+ejkewe1,0,Late fusion,0,0.00498199462890625,True
+2rymnx,0,Late fusion,1,0.505703330039978,False
+6i23e4,0,Late fusion,1,0.7502890825271606,False
+9fr8wx,0,Late fusion,1,0.7896043062210083,False
+c76ut59,0,Late fusion,1,0.7779279351234436,False
+b83zxf,1,Late fusion,1,0.9612829089164734,True
+c60xvnf,0,Late fusion,0,0.017049312591552734,True
+7aj6di,1,Late fusion,1,0.826967716217041,True
+5p3yvg,0,Late fusion,0,0.09931755065917969,True
+bwy862,1,Late fusion,1,0.7256395220756531,True
+6tqw2f,0,Late fusion,0,0.0053740739822387695,True
+uncvx,1,Late fusion,1,0.5839459896087646,True
+d1h1gm,1,Late fusion,1,0.9611172676086426,True
+5re6n7,1,Late fusion,1,0.9913211464881897,True
+6292e3,0,Late fusion,0,0.4297589659690857,True
+cazzu2,1,Late fusion,1,0.8813794255256653,True
+ch8qtnk,0,Late fusion,0,0.042002201080322266,True
+c7ssef,1,Late fusion,1,0.9230707883834839,True
+axpr18,0,Late fusion,0,0.2563220262527466,True
+1o9iki,1,Late fusion,1,0.7079602479934692,True
+50kw9j,1,Late fusion,1,0.9679723381996155,True
+d4djtb5,0,Late fusion,0,0.02065110206604004,True
+1i9a8l,1,Late fusion,0,0.31621789932250977,False
+1nq9cq,1,Late fusion,1,0.9319698810577393,True
+39tj21,1,Late fusion,1,0.8827689290046692,True
+cqvdpl,1,Late fusion,1,0.8951360583305359,True
+cws4ubd,0,Late fusion,0,0.0036579370498657227,True
+cggg35c,0,Late fusion,0,0.006421566009521484,True
+cb17dj4,0,Late fusion,0,0.008162260055541992,True
+ct2bj2g,0,Late fusion,0,0.01769888401031494,True
+blzv2k,1,Late fusion,1,0.8381422758102417,True
+baao1g,0,Late fusion,0,0.07036560773849487,True
+8mzd12,0,Late fusion,0,0.4214708209037781,True
+7yx1px,0,Late fusion,0,0.010730743408203125,True
+9i5u8n,0,Late fusion,0,0.010628104209899902,True
+bbce6d,1,Late fusion,1,0.908458948135376,True
+3h4p39,1,Late fusion,0,0.48496145009994507,False
+dh8sz1,1,Late fusion,1,0.6591945886611938,True
+81j4eu,0,Late fusion,1,0.5160433053970337,False
+2sy4zn,1,Late fusion,1,0.5600741505622864,True
+552xl7,0,Late fusion,0,0.050338566303253174,True
+8k6gnf,1,Late fusion,1,0.7063295841217041,True
+1vzo2j,0,Late fusion,0,0.37473875284194946,True
+bmer2p,1,Late fusion,1,0.5618495345115662,True
+6y7oh1,1,Late fusion,1,0.5642995834350586,True
+b26r1c,1,Late fusion,1,0.7512787580490112,True
+ai08p0,1,Late fusion,1,0.7526568174362183,True
+d7t7fvf,0,Late fusion,0,0.34393274784088135,True
+7fztxz,0,Late fusion,0,0.246740460395813,True
+div36us,0,Late fusion,0,0.0062787532806396484,True
+10cpga,1,Late fusion,0,0.1678522825241089,False
+b62nh4,0,Late fusion,1,0.7169569730758667,False
+blm6x6,1,Late fusion,0,0.4412107467651367,False
+17l1ze,0,Late fusion,0,0.09536898136138916,True
+9bzeg8,1,Late fusion,1,0.6710833311080933,True
+3hgz5a,1,Late fusion,1,0.927157998085022,True
+5a3oy1,0,Late fusion,0,0.11819911003112793,True
+4xicjg,1,Late fusion,1,0.986259937286377,True
+dbrs1k,0,Late fusion,1,0.5224940776824951,False
+cs9dasf,0,Late fusion,0,0.1613619327545166,True
+asen4h,0,Late fusion,1,0.5554510354995728,False
+ciqyv76,0,Late fusion,0,0.022860705852508545,True
+dkp9lk,1,Late fusion,1,0.9751268029212952,True
+37c2lb,1,Late fusion,1,0.9616962671279907,True
+8cro5h,0,Late fusion,0,0.4731721878051758,True

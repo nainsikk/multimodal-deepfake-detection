@@ -1,0 +1,41 @@
+{
+    "experiment": "crossattn",
+    "selected_seed": 99,
+    "validation_macro_f1": 0.7450766347591795,
+    "temperature": 2.796701357567843,
+    "tau": 0.7500000000000002,
+    "target_accuracy": 0.8,
+    "minimum_coverage": 0.5,
+    "threshold_selection_reason": "Reached target accuracy and minimum coverage",
+    "class_mapping": {
+        "0": "FAKE",
+        "1": "REAL"
+    },
+    "probability_mapping": {
+        "column_0": "P(FAKE)",
+        "column_1": "P(REAL)"
+    },
+    "test_overall_accuracy": 0.755,
+    "test_coverage": 0.63,
+    "test_answered_accuracy": 0.8690476190476191,
+    "test_metrics_before_calibration": {
+        "accuracy": 0.755,
+        "precision_macro": 0.7587256493506493,
+        "recall_macro": 0.7549999999999999,
+        "macro_f1": 0.7541148133279807,
+        "NLL": 0.7059335456057417,
+        "Brier": 0.20274730261189583,
+        "ECE": 0.17810516355792055,
+        "ROC_AUC": 0.844175
+    },
+    "test_metrics_after_calibration": {
+        "accuracy": 0.755,
+        "precision_macro": 0.7587256493506493,
+        "recall_macro": 0.7549999999999999,
+        "macro_f1": 0.7541148133279807,
+        "NLL": 0.5018038653578324,
+        "Brier": 0.16609092670255868,
+        "ECE": 0.058620300966419896,
+        "ROC_AUC": 0.844175
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "experiment": "late_fusion",
+    "selected_seed": 7,
+    "validation_macro_f1": 0.8,
+    "temperature": 1.1222142868261162,
+    "tau": 0.5,
+    "target_accuracy": 0.8,
+    "minimum_coverage": 0.5,
+    "threshold_selection_reason": "Reached target accuracy and minimum coverage",
+    "class_mapping": {
+        "0": "FAKE",
+        "1": "REAL"
+    },
+    "probability_mapping": {
+        "column_0": "P(FAKE)",
+        "column_1": "P(REAL)"
+    },
+    "test_overall_accuracy": 0.83,
+    "test_coverage": 1.0,
+    "test_answered_accuracy": 0.83,
+    "test_metrics_before_calibration": {
+        "accuracy": 0.83,
+        "precision_macro": 0.8301320528211285,
+        "recall_macro": 0.83,
+        "macro_f1": 0.8299829982998299,
+        "NLL": 0.41877427397121236,
+        "Brier": 0.13469726984754785,
+        "ECE": 0.06303236767766066,
+        "ROC_AUC": 0.89135
+    },
+    "test_metrics_after_calibration": {
+        "accuracy": 0.83,
+        "precision_macro": 0.8301320528211285,
+        "recall_macro": 0.83,
+        "macro_f1": 0.8299829982998299,
+        "NLL": 0.4191258515958562,
+        "Brier": 0.13536216295100253,
+        "ECE": 0.0582307704108581,
+        "ROC_AUC": 0.89135
+    }
+}

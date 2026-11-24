@@ -1,0 +1,5 @@
+model_a,model_b,both_correct,only_a_correct,only_b_correct,both_wrong
+DistilBERT fine-tuned,Frozen image-only,245,57,65,33
+Frozen text-only,Frozen image-only,239,54,71,36
+DistilBERT fine-tuned,Late fusion,275,27,57,41
+Frozen image-only,Late fusion,295,15,37,53
