@@ -23,3 +23,12 @@ features/
 *.safetensors
 *.pt
 *.pth
+
+# Small dataset copy
+data_small/
+
+# Generated Part 10 results
+results_small/
+
+# Generated explainability heatmaps
+static/heatmaps/
