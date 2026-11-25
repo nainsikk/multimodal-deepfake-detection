@@ -56,6 +56,25 @@ const mockResults = [
   }
 ];
 
+// Convert backend decimal scores into percentages.
+// Mock scores that are already percentages remain unchanged.
+const toPercent = (value) => {
+  if (value === null || value === undefined || value === "") {
+    return null;
+  }
+
+  const number = Number(value);
+
+  if (!Number.isFinite(number)) {
+    return null;
+  }
+
+  const percentage = number <= 1 ? number * 100 : number;
+
+  return Math.min(100, Math.max(0, percentage));
+};
+
+
 function App() {
   const [page, setPage] = useState("Analyze");
   const [caption, setCaption] = useState("");
@@ -200,6 +219,13 @@ function App() {
       icon: AlertTriangle
     }
   };
+
+const confidencePercent = toPercent(result?.confidence);
+
+const mismatchPercent = toPercent(
+  result?.evidence?.mismatch_score
+);
+
 
   return (
     <div className="min-h-screen bg-[#080d19] text-slate-100">
@@ -503,14 +529,18 @@ function App() {
                       <div className="flex justify-between">
                         <p className="text-sm text-slate-400">Confidence Score</p>
                         <span className="text-2xl font-bold text-violet-400">
-                          {result.confidence}%
+                          
+                        {confidencePercent === null
+                          ? "N/A"
+                          : `${confidencePercent.toFixed(2)}%`}
+
                         </span>
                       </div>
 
                       <div className="mt-6 h-3 overflow-hidden rounded-full bg-slate-800">
                         <div
                           className="h-full rounded-full bg-violet-500 transition-all"
-                          style={{ width: `${result.confidence}%` }}
+                         style={{ width: `${confidencePercent ?? 0}%` } }
                         />
                       </div>
 
@@ -527,11 +557,22 @@ function App() {
                     <div className="h-64">
                       <ResponsiveContainer width="100%" height="100%">
                         <BarChart
+                          
                           data={[
-                            { name: "Text", score: result.modality_scores.text },
-                            { name: "Image", score: result.modality_scores.image },
-                            { name: "Fusion", score: result.modality_scores.fusion }
+                            {
+                              name: "Text",
+                              score: toPercent(result.modality_scores?.text)
+                            },
+                            {
+                              name: "Image",
+                              score: toPercent(result.modality_scores?.image)
+                            },
+                            {
+                              name: "Fusion",
+                              score: toPercent(result.modality_scores?.fusion)
+                            }
                           ].filter((item) => item.score !== null)}
+
                         >
                           <CartesianGrid strokeDasharray="3 3" stroke="#263246" />
                           <XAxis dataKey="name" stroke="#94a3b8" />
@@ -600,16 +641,16 @@ function App() {
                       <h3 className="mb-5 font-semibold">Mismatch Analysis</h3>
 
                       <div className="flex items-center justify-center py-6">
-                        <div className="relative flex h-36 w-36 items-center justify-center rounded-full border-[10px] border-slate-800">
+                        <div className="relative flex h-36 w-36 items-center justify-center rounded-full border-10 border-slate-800">
                           <div
-                            className="absolute inset-[-10px] rounded-full border-[10px] border-amber-400"
+                            className="absolute -inset-2.5 rounded-full border-10 border-amber-400"
                             style={{
                               clipPath: `inset(0 ${100 - (result.evidence.mismatch_score ?? 0)}% 0 0)`
                             }}
                           />
                           <div className="text-center">
                             <p className="text-3xl font-bold">
-                              {result.evidence.mismatch_score ?? "N/A"}
+                              {mismatchPercent ?? "N/A"}
                             </p>
                             <p className="text-xs text-slate-500">Mismatch</p>
                           </div>
