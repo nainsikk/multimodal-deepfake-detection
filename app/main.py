@@ -67,6 +67,13 @@ app.mount(
     StaticFiles(directory="app/static"),
     name="static"
 )
+# Serve generated explainability heatmaps
+app.mount(
+    "/results",
+    StaticFiles(directory="results"),
+    name="results"
+)
+
 
 
 # Register API router

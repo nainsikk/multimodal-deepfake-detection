@@ -20,6 +20,8 @@ from app.database import get_db
 from app.models.analysis import Analysis
 from app.schemas.analysis import AnalysisResponse
 from app.services.file_service import save_image
+from app.explain import explain
+from app.explanation_text import generate_explanation
 
 
 router = APIRouter()
@@ -126,6 +128,34 @@ async def analyze(
             text=predictor_text,
             image_path=predictor_image
         )
+        # Explainability: must run before the uploaded image is deleted.
+        try:
+            evidence = result.setdefault("evidence", {})
+
+            if predictor_text and predictor_image:
+                exp = explain(predictor_text, predictor_image)
+                evidence["text_tokens"] = exp["text_tokens"]
+                evidence["image_heatmap_url"] = (
+                    "/" + exp["image_heatmap_path"].replace(os.sep, "/")
+                )
+
+            conf = result["confidence"]
+            if conf > 1:
+                conf = conf / 100
+
+            mismatch = evidence.get("mismatch_score", 0)
+            if mismatch > 1:
+                mismatch = mismatch / 100
+
+            result["explanation"] = generate_explanation(
+                result["prediction"],
+                conf,
+                evidence.get("text_tokens", []),
+                mismatch,
+                result.get("modality_scores"),
+            )
+        except Exception:
+            logger.exception("Explainability failed; returning prediction without it")
 
         # Save result in database.
         analysis = Analysis(
